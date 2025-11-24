@@ -1,997 +1,997 @@
-season_year,team_id,team_code,team_name_en,team_name_es,country_en,country_es,distribution__passes_accuracy,distribution__passes_attempted,distribution__passes_completed,distribution__ball_possession,distribution__cross_accuruacy,distribution__cross_attempted,distribution__cross_completed,distribution__free_kick,distribution__matches_appearance
-1992,52748,MAR,Marseille,Marseille,France,Francia,,,,,,,,,11
-1992,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,11
-1992,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,,,,,,,,10
-1992,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,10
-1992,50066,IFK,Göteborg,Göteborg,Sweden,Suecia,,,,,,,,,10
-1992,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,10
-1992,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,10
-1992,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,,,,,,,,10
-1992,53361,LEE,Leeds,Leeds,England,Inglaterra,,,,,,,,,5
-1992,50098,DB,Dinamo Bucureşti,Dinamo Bucureşti,Romania,Rumanía,,,,,,,,,4
-1992,64227,LPO,Lech Poznań,Lech Poznań,Poland,Polonia,,,,,,,,,4
-1992,52824,SIO,Sion,Sion,Switzerland,Suiza,,,,,,,,,4
-1992,52797,SLB,S. Bratislava,S. Bratislava,Slovakia,Eslovaquia,,,,,,,,,4
-1992,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,,,,,4
-1992,50110,AUS,Austria Wien,Austria Wien,Austria,Austria,,,,,,,,,4
-1992,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,4
-1992,50107,STU,Stuttgart,Stuttgart,Germany,Alemania,,,,,,,,,3
-1992,50082,LAH,Lahti,Lahti,Finland,Finlandia,,,,,,,,,2
-1992,57489,TAV,Tavriya,Tavriya,Ukraine,Ucrania,,,,,,,,,2
-1992,57479,SKO,Skonto,Skonto,Latvia,Letonia,,,,,,,,,2
-1992,57477,MTA,M. Tel-Aviv,M. Tel-Aviv,Israel,Israel,,,,,,,,,2
-1992,53081,OLJ,Olimpija,Olimpija,Slovenia,Eslovenia,,,,,,,,,2
-1992,52697,VKR,Víkingur R.,Víkingur R.,Iceland,Islandia,,,,,,,,,2
-1992,52319,VFK,Viking,Viking,Norway,Noruega,,,,,,,,,2
-1992,52298,FER,Ferencváros,Ferencváros,Hungary,Hungría,,,,,,,,,2
-1992,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,,,,,2
-1992,50140,USL,US Luxembourg,US Luxembourg,Luxembourg,Luxemburgo,,,,,,,,,2
-1992,50118,APO,APOEL,APOEL,Cyprus,Chipre,,,,,,,,,2
-1992,50076,CSS,CSKA Sofia,CSKA Sofia,Bulgaria,Bulgaria,,,,,,,,,2
-1992,50056,GLE,Glentoran,Glentoran,Northern Ireland,Irlanda del Norte,,,,,,,,,2
-1992,50020,LYN,Lyngby,Lyngby,Denmark,Dinamarca,,,,,,,,,2
-1992,2602334,ZAL,Žalgiris,Žalgiris,Lithuania,Lituania,,,,,,,,,2
-1993,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,12
-1993,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,12
-1993,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,11
-1993,50023,MON,Monaco,Monaco,France,Francia,,,,,,,,,11
-1993,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,,,,,10
-1993,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,,,,,10
-1993,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,,,,,10
-1993,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,,,,,10
-1993,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,,,,,,,,,4
-1993,64227,LPO,Lech Poznań,Lech Poznań,Poland,Polonia,,,,,,,,,4
-1993,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,,,,,,,,4
-1993,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,4
-1993,50110,AUS,Austria Wien,Austria Wien,Austria,Austria,,,,,,,,,4
-1993,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,,,,,4
-1993,50044,LSO,Levski Sofia,Levski Sofia,Bulgaria,Bulgaria,,,,,,,,,4
-1993,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,,,,,4
-1993,50134,LIN,Linfield,Linfield,Northern Ireland,Irlanda del Norte,,,,,,,,,2
-1993,59034,BEI,Beitar,Beitar,Israel,Israel,,,,,,,,,2
-1993,57479,SKO,Skonto,Skonto,Latvia,Letonia,,,,,,,,,2
-1993,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,2
-1993,52803,COR,Cork,Cork,Republic of Ireland,República de Irlanda,,,,,,,,,2
-1993,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,2
-1993,52341,AIK,AIK,AIK,Sweden,Suecia,,,,,,,,,2
-1993,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,,,,,,,,2
-1993,50161,DMI,Dinamo-Minsk,Dinamo-Minsk,Belarus,Bielorrusia,,,,,,,,,2
-1993,50135,AKR,ÍA,ÍA,Iceland,Islandia,,,,,,,,,2
-1993,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,,,,,2
-1993,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,2
-1993,50092,FLO,Floriana,Floriana,Malta,Malta,,,,,,,,,2
-1993,50054,HON,Honvéd,Honvéd,Hungary,Hungría,,,,,,,,,2
-1993,50052,HJK,HJK,HJK,Finland,Finlandia,,,,,,,,,2
-1993,50035,AAR,Aarau,Aarau,Switzerland,Suiza,,,,,,,,,2
-1994,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,,,,,11
-1994,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,11
-1994,52747,PSG,Paris,Paris,France,Francia,,,,,,,,,10
-1994,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,10
-1994,52359,HAJ,Hajduk Split,Hajduk Split,Croatia,Croacia,,,,,,,,,8
-1994,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,,,,,8
-1994,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,8
-1994,50066,IFK,Göteborg,Göteborg,Sweden,Suecia,,,,,,,,,8
-1994,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,6
-1994,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,6
-1994,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,,,,,6
-1994,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,,,,,6
-1994,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,,,,,6
-1994,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,,,,,6
-1994,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,,,,,6
-1994,50030,SAL,Salzburg,Salzburg,Austria,Austria,,,,,,,,,6
-1995,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,,,,,11
-1995,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,,11
-1995,52693,NAN,Nantes,Nantes,France,Francia,,,,,,,,,10
-1995,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,,,,,10
-1995,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,,,,,8
-1995,50146,LEG,Legia Warszawa,Legia Warszawa,Poland,Polonia,,,,,,,,,8
-1995,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,,,,,8
-1995,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,8
-1995,54186,AAL,AaB,AaB,Denmark,Dinamarca,,,,,,,,,6
-1995,53344,BLA,Blackburn,Blackburn,England,Inglaterra,,,,,,,,,6
-1995,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,6
-1995,52298,FER,Ferencváros,Ferencváros,Hungary,Hungría,,,,,,,,,6
-1995,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,6
-1995,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,,,,,6
-1995,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,6
-1995,50004,GCZ,Grasshoppers,Grasshoppers,Switzerland,Suiza,,,,,,,,,6
-1996,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,,,,,11
-1996,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,,11
-1996,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,,,,,10
-1996,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,10
-1996,50124,ATM,Atleti,Atleti,Spain,España,,,,,,,,,8
-1996,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,8
-1996,52269,AJA,Auxerre,Auxerre,France,Francia,,,,,,,,,8
-1996,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,8
-1996,52752,WID,Widzew,Widzew,Poland,Polonia,,,,,,,,,6
-1996,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,,,,,6
-1996,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,6
-1996,50066,IFK,Göteborg,Göteborg,Sweden,Suecia,,,,,,,,,6
-1996,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,,,,,6
-1996,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,6
-1996,50042,RAP,SK Rapid,SK Rapid,Austria,Austria,,,,,,,,,6
-1996,50004,GCZ,Grasshoppers,Grasshoppers,Switzerland,Suiza,,,,,,,,,6
-1997,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,,11
-1997,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,11
-1997,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,,,,,10
-1997,50023,MON,Monaco,Monaco,France,Francia,,,,,,,,,10
-1997,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,8
-1997,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,8
-1997,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,8
-1997,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,,,,,8
-1997,8404,LIE,Lierse,Lierse,Belgium,Bélgica,,,,,,,,,6
-1997,59324,NEW,Newcastle,Newcastle,England,Inglaterra,,,,,,,,,6
-1997,59029,KOS,Košice,Košice,Slovakia,Eslovaquia,,,,,,,,,6
-1997,54262,PAR,Parma,Parma,Italy,Italia,,,,,,,,,6
-1997,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,6
-1997,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,,,,,,,,6
-1997,52747,PSG,Paris,Paris,France,Francia,,,,,,,,,6
-1997,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,,,,,6
-1997,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,,,,,,,,6
-1997,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,6
-1997,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,,,,,6
-1997,50066,IFK,Göteborg,Göteborg,Sweden,Suecia,,,,,,,,,6
-1997,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,6
-1997,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,6
-1997,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,,,,,6
-1997,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,6
-1998,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,11
-1998,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,11
-1998,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,10
-1998,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,,10
-1998,50138,INT,Inter,Inter,Italy,Italia,,,,,,,,,8
-1998,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,8
-1998,3695,KAI,Kaiserslautern,Kaiserslautern,Germany,Alemania,,,,,,,,,8
-1998,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,8
-1998,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,6
-1998,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,6
-1998,52277,LEN,Lens,Lens,France,Francia,,,,,,,,,6
-1998,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,,,,,,,,6
-1998,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,,,,,6
-1998,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,,,,,6
-1998,50125,ATH,Athletic Club,Athletic Club,Spain,España,,,,,,,,,6
-1998,50111,SGR,Sturm Graz,Sturm Graz,Austria,Austria,,,,,,,,,6
-1998,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,,,,,6
-1998,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,6
-1998,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,,,,,6
-1998,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,,,,,6
-1998,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,6
-1998,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,6
-1998,50052,HJK,HJK,HJK,Finland,Finlandia,,,,,,,,,6
-1998,50021,BRO,Brøndby,Brøndby,Denmark,Dinamarca,,,,,,,,,6
-1999,52268,VAL,Valencia,Valencia,Spain,España,,,,,,,,,17
-1999,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,17
-1999,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,16
-1999,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,16
-1999,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,,,,,14
-1999,52973,LAZ,Lazio,Lazio,Italy,Italia,,,,,,,,,14
-1999,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,14
-1999,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,14
-1999,5451,HER,Hertha,Hertha,Germany,Alemania,,,,,,,,,12
-1999,52817,FIO,Fiorentina,Fiorentina,Italy,Italia,,,,,,,,,12
-1999,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,12
-1999,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,,,,,,,,12
-1999,52748,MAR,Marseille,Marseille,France,Francia,,,,,,,,,12
-1999,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,12
-1999,50127,BOR,Bordeaux,Bordeaux,France,Francia,,,,,,,,,12
-1999,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,,,,,12
-1999,57490,MRB,Maribor,Maribor,Slovenia,Eslovenia,,,,,,,,,6
-1999,52987,WIL,Willem II,Willem II,Netherlands,Holanda,,,,,,,,,6
-1999,52819,BOA,Boavista,Boavista,Portugal,Portugal,,,,,,,,,6
-1999,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,,,,,6
-1999,52341,AIK,AIK,AIK,Sweden,Suecia,,,,,,,,,6
-1999,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,6
-1999,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,,,,,,,,6
-1999,50142,MOL,Molde,Molde,Norway,Noruega,,,,,,,,,6
-1999,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,6
-1999,50111,SGR,Sturm Graz,Sturm Graz,Austria,Austria,,,,,,,,,6
-1999,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,,,,,6
-1999,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,,,,,6
-1999,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,,,,,6
-1999,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,6
-1999,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,6
-1999,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,6
-2000,52268,VAL,Valencia,Valencia,Spain,España,,,,,,,,,17
-2000,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,17
-2000,53361,LEE,Leeds,Leeds,England,Inglaterra,,,,,,,,,16
-2000,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,16
-2000,59044,DEP,Deportivo,Deportivo,Spain,España,,,,,,,,,14
-2000,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,14
-2000,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,14
-2000,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,,,,,14
-2000,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,,12
-2000,52973,LAZ,Lazio,Lazio,Italy,Italia,,,,,,,,,12
-2000,52747,PSG,Paris,Paris,France,Francia,,,,,,,,,12
-2000,50111,SGR,Sturm Graz,Sturm Graz,Austria,Austria,,,,,,,,,12
-2000,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,,,,,12
-2000,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,,,,,12
-2000,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,,,,,12
-2000,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,12
-2000,60401,HEL,Helsingborg,Helsingborg,Sweden,Suecia,,,,,,,,,6
-2000,59862,HVN,Heerenveen,Heerenveen,Netherlands,Holanda,,,,,,,,,6
-2000,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,6
-2000,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,6
-2000,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,,,,,6
-2000,52167,HSV,Hamburg,Hamburg,Germany,Alemania,,,,,,,,,6
-2000,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,,,,,6
-2000,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,,,,,,,,6
-2000,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,,6
-2000,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,6
-2000,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,,,,,6
-2000,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,6
-2000,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,6
-2000,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,,,,,6
-2000,50023,MON,Monaco,Monaco,France,Francia,,,,,,,,,6
-2000,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,6
-2001,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,,,,,17
-2001,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,17
-2001,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,16
-2001,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,16
-2001,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,,,,,14
-2001,59044,DEP,Deportivo,Deportivo,Spain,España,,,,,,,,,14
-2001,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,,,,,14
-2001,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,14
-2001,52819,BOA,Boavista,Boavista,Portugal,Portugal,,,,,,,,,12
-2001,52693,NAN,Nantes,Nantes,France,Francia,,,,,,,,,12
-2001,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,12
-2001,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,,12
-2001,50137,ROM,Roma,Roma,Italy,Italia,,,,,,,,,12
-2001,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,,,,,12
-2001,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,12
-2001,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,,,,,12
-2001,75797,LIL,Lille,Lille,France,Francia,,,,,,,,,6
-2001,57388,SCH,Schalke,Schalke,Germany,Alemania,,,,,,,,,6
-2001,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,,6
-2001,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,,,,,,,,,6
-2001,53044,MAL,Mallorca,Mallorca,Spain,España,,,,,,,,,6
-2001,52973,LAZ,Lazio,Lazio,Italy,Italia,,,,,,,,,6
-2001,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,6
-2001,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,,,,,6
-2001,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,,,,,,,,6
-2001,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,6
-2001,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,,,,,6
-2001,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,,,,,6
-2001,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,,,,,6
-2001,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,6
-2001,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,,,,,6
-2001,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,6
-2002,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,,17
-2002,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,17
-2002,50138,INT,Inter,Inter,Italy,Italia,,,,,,,,,16
-2002,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,16
-2002,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,14
-2002,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,14
-2002,52268,VAL,Valencia,Valencia,Spain,España,,,,,,,,,14
-2002,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,,,,,14
-2002,59856,BSL,Basel,Basel,Switzerland,Suiza,,,,,,,,,12
-2002,59324,NEW,Newcastle,Newcastle,England,Inglaterra,,,,,,,,,12
-2002,59044,DEP,Deportivo,Deportivo,Spain,España,,,,,,,,,12
-2002,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,,,,,,,,,12
-2002,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,,,,,12
-2002,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,12
-2002,50137,ROM,Roma,Roma,Italy,Italia,,,,,,,,,12
-2002,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,,,,,12
-2002,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,,,,,6
-2002,61582,GEN,Genk,Genk,Belgium,Bélgica,,,,,,,,,6
-2002,59045,MHA,Maccabi Haifa,Maccabi Haifa,Israel,Israel,,,,,,,,,6
-2002,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,,6
-2002,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,6
-2002,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,,,,,,,,6
-2002,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,6
-2002,52277,LEN,Lens,Lens,France,Francia,,,,,,,,,6
-2002,52269,AJA,Auxerre,Auxerre,France,Francia,,,,,,,,,6
-2002,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,,,,,6
-2002,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,,,,,6
-2002,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,,,,,6
-2002,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,6
-2002,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,,,,,,,,6
-2002,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,6
-2002,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,6
-2003,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,,,,,,,2.0,6
-2003,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,2.0,6
-2003,53043,CLT,Celta,Celta,Spain,España,,,,,,,,1.0,8
-2003,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,,,,1.0,6
-2003,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,13
-2003,50023,MON,Monaco,Monaco,France,Francia,,,,,,,,,13
-2003,59044,DEP,Deportivo,Deportivo,Spain,España,,,,,,,,,12
-2003,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,,,,,12
-2003,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,,10
-2003,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,10
-2003,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,10
-2003,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,10
-2003,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,,,,,,,,,8
-2003,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,8
-2003,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,,8
-2003,50123,RSO,Real Sociedad,Real Sociedad,Spain,España,,,,,,,,,8
-2003,50107,STU,Stuttgart,Stuttgart,Germany,Alemania,,,,,,,,,8
-2003,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,8
-2003,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,,,,,8
-2003,52973,LAZ,Lazio,Lazio,Italy,Italia,,,,,,,,,6
-2003,52748,MAR,Marseille,Marseille,France,Francia,,,,,,,,,6
-2003,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,6
-2003,50162,PRT,Partizan,Partizan,Serbia,Serbia,,,,,,,,,6
-2003,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,,,,,6
-2003,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,,,,,6
-2003,50138,INT,Inter,Inter,Italy,Italia,,,,,,,,,6
-2003,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,,,,,6
-2003,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,6
-2003,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,,,,,6
-2003,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,,,,,6
-2003,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,6
-2003,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,,,,,6
-2004,57477,MTA,M. Tel-Aviv,M. Tel-Aviv,Israel,Israel,,,,,,,,5.0,6
-2004,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,2.0,10
-2004,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,,,,,13
-2004,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,13
-2004,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,12
-2004,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,,,,,12
-2004,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,,10
-2004,50138,INT,Inter,Inter,Italy,Italia,,,,,,,,,10
-2004,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,10
-2004,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,8
-2004,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,8
-2004,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,8
-2004,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,,,,,8
-2004,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,8
-2004,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,8
-2004,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,,,,,8
-2004,50023,MON,Monaco,Monaco,France,Francia,,,,,,,,,8
-2004,59044,DEP,Deportivo,Deportivo,Spain,España,,,,,,,,,6
-2004,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,,,,,,,,6
-2004,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,6
-2004,52747,PSG,Paris,Paris,France,Francia,,,,,,,,,6
-2004,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,,,,,6
-2004,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,,,,,6
-2004,52268,VAL,Valencia,Valencia,Spain,España,,,,,,,,,6
-2004,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,,,,,6
-2004,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,,,,,6
-2004,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,,,,,6
-2004,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,,,,,6
-2004,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,,,,,6
-2004,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,6
-2004,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,6
-2004,50137,ROM,Roma,Roma,Italy,Italia,,,,,,,,,6
-2005,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,13
-2005,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,13
-2005,70691,VIL,Villarreal,Villarreal,Spain,España,,,,,,,,,12
-2005,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,12
-2005,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,,10
-2005,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,,,,,10
-2005,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,,10
-2005,50138,INT,Inter,Inter,Italy,Italia,,,,,,,,,10
-2005,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,,,,,8
-2005,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,,,,,8
-2005,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,,,,,8
-2005,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,8
-2005,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,8
-2005,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,8
-2005,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,,,,,8
-2005,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,8
-2005,80409,THU,Thun,Thun,Switzerland,Suiza,,,,,,,,,6
-2005,75797,LIL,Lille,Lille,France,Francia,,,,,,,,,6
-2005,64519,PET,Petržalka,Petržalka,Slovakia,Eslovaquia,,,,,,,,,6
-2005,57388,SCH,Schalke,Schalke,Germany,Alemania,,,,,,,,,6
-2005,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,6
-2005,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,,,,,6
-2005,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,6
-2005,52265,BET,Real Betis,Real Betis,Spain,España,,,,,,,,,6
-2005,51310,UDI,Udinese,Udinese,Italy,Italia,,,,,,,,,6
-2005,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,,,,,6
-2005,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,,,,,6
-2005,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,6
-2005,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,,,,,,,,6
-2005,50042,RAP,SK Rapid,SK Rapid,Austria,Austria,,,,,,,,,6
-2005,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,,,,,6
-2005,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,6
-2006,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,,,,,13
-2006,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,13
-2006,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,,,,,12
-2006,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,12
-2006,52268,VAL,Valencia,Valencia,Spain,España,,,,,,,,,10
-2006,50137,ROM,Roma,Roma,Italy,Italia,,,,,,,,,10
-2006,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,10
-2006,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,10
-2006,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,,,,,8
-2006,75797,LIL,Lille,Lille,France,Francia,,,,,,,,,8
-2006,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,,8
-2006,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,8
-2006,50138,INT,Inter,Inter,Italy,Italia,,,,,,,,,8
-2006,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,8
-2006,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,8
-2006,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,8
-2006,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,,,,,,,,6
-2006,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,6
-2006,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,,,,,,,,,6
-2006,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,,,,,6
-2006,52167,HSV,Hamburg,Hamburg,Germany,Alemania,,,,,,,,,6
-2006,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,,,,,,,,6
-2006,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,,,,,6
-2006,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,,,,,6
-2006,50127,BOR,Bordeaux,Bordeaux,France,Francia,,,,,,,,,6
-2006,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,,,,,6
-2006,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,,,,,6
-2006,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,,,,,6
-2006,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,,,,,6
-2006,50044,LSO,Levski Sofia,Levski Sofia,Bulgaria,Bulgaria,,,,,,,,,6
-2006,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,,,,,6
-2006,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,6
-2008,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,,,,,13
-2008,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,13
-2008,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,,,,,12
-2008,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,12
-2008,57388,SCH,Schalke,Schalke,Germany,Alemania,,,,,,,,,10
-2008,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,,,,,10
-2008,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,10
-2008,50137,ROM,Roma,Roma,Italy,Italia,,,,,,,,,10
-2008,52714,SEV,Sevilla,Sevilla,Spain,España,,,,,,,,,8
-2008,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,8
-2008,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,,8
-2008,50138,INT,Inter,Inter,Italy,Italia,,,,,,,,,8
-2008,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,8
-2008,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,8
-2008,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,,,,,8
-2008,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,8
-2008,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,,,,,,,,6
-2008,52973,LAZ,Lazio,Lazio,Italy,Italia,,,,,,,,,6
-2008,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,,,,,6
-2008,52748,MAR,Marseille,Marseille,France,Francia,,,,,,,,,6
-2008,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,6
-2008,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,,,,,6
-2008,52498,SLA,Slavia Praha,Slavia Praha,Czechia,Chequia,,,,,,,,,6
-2008,52268,VAL,Valencia,Valencia,Spain,España,,,,,,,,,6
-2008,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,,,,,6
-2008,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,,,,,,,,6
-2008,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,,,,,6
-2008,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,6
-2008,50107,STU,Stuttgart,Stuttgart,Germany,Alemania,,,,,,,,,6
-2008,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,,,,,6
-2008,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,6
-2008,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,,,,,6
-2009,52826,ZEN,Zenit,Zenit,Russia,Rusia,,,,,,,,27.0,6
-2009,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,13.0,13
-2009,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,11.0,8
-2009,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,10.0,8
-2009,66168,BTE,BATE Borisov,BATE Borisov,Belarus,Bielorrusia,,,,,,,,10.0,6
-2009,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,5.0,13
-2009,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,2.0,10
-2009,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,12
-2009,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,,,,,12
-2009,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,,,,,10
-2009,70691,VIL,Villarreal,Villarreal,Spain,España,,,,,,,,,10
-2009,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,10
-2009,50137,ROM,Roma,Roma,Italy,Italia,,,,,,,,,8
-2009,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,,8
-2009,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,,,,,,,,8
-2009,50138,INT,Inter,Inter,Italy,Italia,,,,,,,,,8
-2009,50124,ATM,Atleti,Atleti,Spain,España,,,,,,,,,8
-2009,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,,,,,8
-2009,88131,CLU,CFR Cluj,CFR Cluj,Romania,Rumanía,,,,,,,,,6
-2009,59856,BSL,Basel,Basel,Switzerland,Suiza,,,,,,,,,6
-2009,54186,AAL,AaB,AaB,Denmark,Dinamarca,,,,,,,,,6
-2009,52897,ANO,Anorthosis,Anorthosis,Cyprus,Chipre,,,,,,,,,6
-2009,52817,FIO,Fiorentina,Fiorentina,Italy,Italia,,,,,,,,,6
-2009,52748,MAR,Marseille,Marseille,France,Francia,,,,,,,,,6
-2009,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,6
-2009,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,,,,,6
-2009,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,,,,,6
-2009,50127,BOR,Bordeaux,Bordeaux,France,Francia,,,,,,,,,6
-2009,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,,,,,6
-2009,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,,,,,6
-2009,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,,,,,6
-2009,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,,,,,6
-2010,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,24.0,13
-2010,50138,INT,Inter,Inter,Italy,Italia,,,,,,,,11.0,13
-2010,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,,,,9.0,6
-2010,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,,12
-2010,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,,12
-2010,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,,,,,,,,10
-2010,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,,10
-2010,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,10
-2010,50127,BOR,Bordeaux,Bordeaux,France,Francia,,,,,,,,,10
-2010,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,,,,,8
-2010,52817,FIO,Fiorentina,Fiorentina,Italy,Italia,,,,,,,,,8
-2010,52714,SEV,Sevilla,Sevilla,Spain,España,,,,,,,,,8
-2010,50107,STU,Stuttgart,Stuttgart,Germany,Alemania,,,,,,,,,8
-2010,50064,POR,Porto,Porto,Portugal,Portugal,,,,,,,,,8
-2010,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,8
-2010,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,8
-2010,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,,,,,8
-2010,92507,URZ,Unirea Urziceni,Unirea Urziceni,Romania,Rumanía,,,,,,,,,6
-2010,82818,RUB,Rubin,Rubin,Russia,Rusia,,,,,,,,,6
-2010,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,,,,,6
-2010,64332,WOB,Wolfsburg,Wolfsburg,Germany,Alemania,,,,,,,,,6
-2010,59045,MHA,Maccabi Haifa,Maccabi Haifa,Israel,Israel,,,,,,,,,6
-2010,52958,DEB,Debrecen,Debrecen,Hungary,Hungría,,,,,,,,,6
-2010,52748,MAR,Marseille,Marseille,France,Francia,,,,,,,,,6
-2010,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,,,,,6
-2010,52327,AZ,AZ Alkmaar,AZ Alkmaar,Netherlands,Holanda,,,,,,,,,6
-2010,52165,STD,Standard Liège,Standard Liège,Belgium,Bélgica,,,,,,,,,6
-2010,51150,ZUR,Zürich,Zürich,Switzerland,Suiza,,,,,,,,,6
-2010,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,,,,,6
-2010,50124,ATM,Atleti,Atleti,Spain,España,,,,,,,,,6
-2010,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,6
-2010,50118,APO,APOEL,APOEL,Cyprus,Chipre,,,,,,,,,6
-2011,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,,,,,,1.0,,,8
-2011,59869,HTA,H. Tel Aviv,H. Tel Aviv,Israel,Israel,,,,,,,,31.0,6
-2011,5312,LYO,Lyon,Lyon,France,Francia,,,,,,,,23.0,8
-2011,57388,SCH,Schalke,Schalke,Germany,Alemania,,,,,,,,20.0,12
-2011,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,,,,15.0,13
-2011,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,,,,11.0,6
-2011,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,,,,4.0,13
-2011,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,,,,,12
-2011,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,,,,,10
-2011,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,,,,,10
-2011,50138,INT,Inter,Inter,Italy,Italia,,,,,,,,,10
-2011,1652,TOT,Tottenham,Tottenham,England,Inglaterra,,,,,,,,,10
-2011,52748,MAR,Marseille,Marseille,France,Francia,,,,,,,,,8
-2011,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,,,,,8
-2011,52268,VAL,Valencia,Valencia,Spain,España,,,,,,,,,8
-2011,50137,ROM,Roma,Roma,Italy,Italia,,,,,,,,,8
-2011,50058,MIL,Milan,Milan,Italy,Italia,,,,,,,,,8
-2011,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,,,,,8
-2011,88131,CLU,CFR Cluj,CFR Cluj,Romania,Rumanía,,,,,,,,,6
-2011,82818,RUB,Rubin,Rubin,Russia,Rusia,,,,,,,,,6
-2011,61601,ZIL,Žilina,Žilina,Slovakia,Eslovaquia,,,,,,,,,6
-2011,59856,BSL,Basel,Basel,Switzerland,Suiza,,,,,,,,,6
-2011,52818,TWE,Twente,Twente,Netherlands,Holanda,,,,,,,,,6
-2011,52695,BUR,Bursaspor,Bursaspor,Türkiye,Turquía,,,,,,,,,6
-2011,52336,BRA,Braga,Braga,Portugal,Portugal,,,,,,,,,6
-2011,52269,AJA,Auxerre,Auxerre,France,Francia,,,,,,,,,6
-2011,50162,PRT,Partizan,Partizan,Serbia,Serbia,,,,,,,,,6
-2011,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,,,,,6
-2011,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,,,,,6
-2011,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,,,,,6
-2011,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,,,,,6
-2011,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,,,,,6
-2012,50080,BAR,Barcelona,Barcelona,Spain,España,,9549,8555,,,88.0,30,,12
-2012,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,7994,6734,,,138.0,37,21.0,13
-2012,50051,RMA,Real Madrid,Real Madrid,Spain,España,,7452,6327,,,97.0,26,,12
-2012,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,6512,5137,,,87.0,28,10.0,13
-2012,50058,MIL,Milan,Milan,Italy,Italia,,4833,4027,,,46.0,24,,10
-2012,50147,BEN,Benfica,Benfica,Portugal,Portugal,,4813,3920,,,71.0,18,12.0,10
-2012,5312,LYO,Lyon,Lyon,France,Francia,,4584,3965,52.0,,47.0,14,,8
-2012,52748,MAR,Marseille,Marseille,France,Francia,,4439,3601,,,76.0,19,,10
-2012,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,4180,3606,,,35.0,4,,8
-2012,59856,BSL,Basel,Basel,Switzerland,Suiza,,3982,3430,,,27.0,9,,8
-2012,52919,MCI,Man City,Man City,England,Inglaterra,,3946,3709,,,9.0,3,3.0,6
-2012,50118,APO,APOEL,APOEL,Cyprus,Chipre,,3944,2985,,,16.0,4,23.0,10
-2012,52826,ZEN,Zenit,Zenit,Russia,Rusia,,3871,3210,51.0,,46.0,13,61.0,8
-2012,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,3680,3439,,,28.0,11,,6
-2012,52268,VAL,Valencia,Valencia,Spain,España,,3558,3332,,,28.0,11,,6
-2012,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,3526,3323,,,22.0,2,,6
-2012,50138,INT,Inter,Inter,Italy,Italia,,3519,2923,,,32.0,9,16.0,8
-2012,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,3495,2992,,,25.0,8,,8
-2012,50136,NAP,Napoli,Napoli,Italy,Italia,,3372,2713,,,21.0,8,,8
-2012,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,3285,2758,,,29.0,6,,8
-2012,75797,LIL,Lille,Lille,France,Francia,,2982,2771,,,20.0,4,13.0,6
-2012,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,2894,2600,,,12.0,2,,6
-2012,50064,POR,Porto,Porto,Portugal,Portugal,,2837,2543,,,13.0,3,14.0,6
-2012,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,2690,2435,,,14.0,5,17.0,6
-2012,52731,TRA,Trabzonspor,Trabzonspor,Türkiye,Turquía,,2676,2435,,,6.0,1,,6
-2012,70691,VIL,Villarreal,Villarreal,Spain,España,,2631,2384,,,8.0,2,,6
-2012,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,2454,2201,,,8.0,2,,6
-2012,50151,OTE,Oţelul,Oţelul,Romania,Rumanía,,2341,2058,,,9.0,2,,6
-2012,66168,BTE,BATE Borisov,BATE Borisov,Belarus,Bielorrusia,,2265,2052,,,5.0,2,,6
-2012,61582,GEN,Genk,Genk,Belgium,Bélgica,,2205,1991,,,12.0,5,,6
-2012,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,2200,1985,,,23.0,8,,6
-2012,64388,PLZ,Viktoria Plzeň,Viktoria Plzeň,Czechia,Chequia,,1762,1558,,,18.0,6,,6
-2013,50080,BAR,Barcelona,Barcelona,Spain,España,,9403,7799,66.0,,132.0,27,2.0,12
-2013,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,7591,5724,,,218.0,39,3.0,13
-2013,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,6998,4624,,,157.0,34,1.0,13
-2013,50051,RMA,Real Madrid,Real Madrid,Spain,España,,6759,4907,,,149.0,37,3.0,12
-2013,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,5292,3732,,,198.0,34,3.0,10
-2013,52747,PSG,Paris,Paris,France,Francia,,5227,3721,,,113.0,35,7.0,10
-2013,50139,JUV,Juventus,Juventus,Italy,Italia,,5173,3660,,,156.0,38,2.0,10
-2013,74069,MAL,Málaga,Málaga,Spain,España,,4814,3095,,,116.0,22,1.0,10
-2013,50064,POR,Porto,Porto,Portugal,Portugal,,4701,3428,,,138.0,28,3.0,8
-2013,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,4480,3277,,,106.0,28,3.0,8
-2013,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,4476,3264,,,144.0,26,,8
-2013,52268,VAL,Valencia,Valencia,Spain,España,,4353,3168,,,131.0,33,3.0,8
-2013,57388,SCH,Schalke,Schalke,Germany,Alemania,,4285,3074,,,143.0,20,1.0,8
-2013,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3965,2820,,,108.0,19,,8
-2013,50058,MIL,Milan,Milan,Italy,Italia,,3752,2487,,,124.0,42,3.0,8
-2013,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,3649,2756,,,93.0,17,,6
-2013,52919,MCI,Man City,Man City,England,Inglaterra,,3449,2570,,,100.0,18,,6
-2013,50050,CEL,Celtic,Celtic,Scotland,Escocia,,3337,2046,,,135.0,29,2.0,8
-2013,52336,BRA,Braga,Braga,Portugal,Portugal,,3176,2306,,,119.0,23,3.0,6
-2013,79940,NRS,Nordsjælland,Nordsjælland,Denmark,Dinamarca,,3157,2329,,,65.0,12,,6
-2013,50128,MON,Montpellier,Montpellier,France,Francia,,3114,2189,,,113.0,17,1.0,6
-2013,52826,ZEN,Zenit,Zenit,Russia,Rusia,,3105,2166,,,74.0,13,1.0,6
-2013,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,3088,2287,,,112.0,22,1.0,6
-2013,66168,BTE,BATE Borisov,BATE Borisov,Belarus,Bielorrusia,,3033,2135,,,43.0,10,,6
-2013,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,3016,2127,,,122.0,21,1.0,6
-2013,75797,LIL,Lille,Lille,France,Francia,,2987,2039,,,114.0,23,1.0,6
-2013,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,2895,1981,,,77.0,11,,6
-2013,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,2803,1921,,,71.0,20,,6
-2013,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,2686,1747,,,85.0,17,2.0,6
-2013,50147,BEN,Benfica,Benfica,Portugal,Portugal,,2633,1636,,,125.0,38,3.0,6
-2013,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,2609,1630,46.0,,111.0,23,2.0,6
-2013,88131,CLU,CFR Cluj,CFR Cluj,Romania,Rumanía,,2194,1138,,,60.0,8,,6
-2014,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,9575,7948,,,346.0,100,67.0,12
-2014,50051,RMA,Real Madrid,Real Madrid,Spain,España,,8480,6678,,,222.0,69,68.0,13
-2014,50080,BAR,Barcelona,Barcelona,Spain,España,,8190,6912,,,210.0,48,76.0,10
-2014,52747,PSG,Paris,Paris,France,Francia,,7418,6191,58.0,,157.0,42,54.0,10
-2014,50124,ATM,Atleti,Atleti,Spain,España,,6833,4742,,,259.0,71,67.0,13
-2014,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,6808,5135,,,157.0,40,75.0,12
-2014,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,5619,4003,,,161.0,35,39.0,10
-2014,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,5556,4066,,,178.0,44,28.0,10
-2014,52826,ZEN,Zenit,Zenit,Russia,Rusia,,5154,3885,,,146.0,30,35.0,8
-2014,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,4889,3763,,,114.0,30,22.0,8
-2014,57388,SCH,Schalke,Schalke,Germany,Alemania,,4856,3764,,,157.0,37,15.0,8
-2014,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,4520,3323,,,111.0,30,36.0,8
-2014,52919,MCI,Man City,Man City,England,Inglaterra,,4370,3337,,,136.0,53,22.0,8
-2014,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,4288,3143,,,166.0,42,20.0,8
-2014,50058,MIL,Milan,Milan,Italy,Italia,,4057,2982,,,137.0,43,26.0,8
-2014,50064,POR,Porto,Porto,Portugal,Portugal,,3715,2795,,,190.0,71,2.0,6
-2014,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,3659,2853,,,136.0,30,1.0,6
-2014,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,3657,2549,,,143.0,40,22.0,8
-2014,50139,JUV,Juventus,Juventus,Italy,Italia,,3544,2722,,,123.0,36,,6
-2014,59856,BSL,Basel,Basel,Switzerland,Suiza,,3463,2524,,,86.0,16,1.0,6
-2014,50136,NAP,Napoli,Napoli,Italy,Italia,,3425,2524,50.0,,75.0,13,2.0,6
-2014,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3220,2367,,,117.0,33,,6
-2014,50123,RSO,Real Sociedad,Real Sociedad,Spain,España,,3198,2274,,,136.0,36,3.0,6
-2014,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,3194,2213,,,84.0,24,,6
-2014,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,,3185,2341,,,65.0,13,2.0,6
-2014,50147,BEN,Benfica,Benfica,Portugal,Portugal,,3175,2353,,,116.0,44,2.0,6
-2014,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,3073,2261,42.0,,84.0,22,,6
-2014,52748,MAR,Marseille,Marseille,France,Francia,,2988,2149,,,102.0,30,1.0,6
-2014,50110,AUS,Austria Wien,Austria Wien,Austria,Austria,,2819,1820,40.0,,79.0,21,1.0,6
-2014,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,2786,1923,,,154.0,35,,6
-2014,64388,PLZ,Viktoria Plzeň,Viktoria Plzeň,Czechia,Chequia,,2736,1900,,,114.0,38,1.0,6
-2014,50050,CEL,Celtic,Celtic,Scotland,Escocia,,2508,1701,41.0,,126.0,30,2.0,6
-2015,50051,RMA,Real Madrid,Real Madrid,Spain,España,90.0,6795,6120,56.0,,333.0,83,126.0,12
-2015,50037,BAY,Bayern München,Bayern München,Germany,Alemania,88.0,8027,7244,,,255.0,81,142.0,12
-2015,50080,BAR,Barcelona,Barcelona,Spain,España,,8419,7606,,,195.0,40,163.0,13
-2015,50139,JUV,Juventus,Juventus,Italy,Italia,86.0,6442,5680,,,244.0,57,155.0,13
-2015,52747,PSG,Paris,Paris,France,Francia,,5367,4867,,,203.0,52,91.0,10
-2015,50064,POR,Porto,Porto,Portugal,Portugal,,4984,4393,56.0,,160.0,34,132.0,10
-2015,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,4249,3839,,,159.0,43,77.0,8
-2015,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,4145,3688,,,140.0,29,57.0,8
-2015,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,4032,3498,,,150.0,32,62.0,8
-2015,52919,MCI,Man City,Man City,England,Inglaterra,,4004,3523,,,140.0,26,69.0,8
-2015,57388,SCH,Schalke,Schalke,Germany,Alemania,,3787,3411,,,164.0,31,66.0,8
-2015,50023,MON,Monaco,Monaco,France,Francia,,3356,2768,,,193.0,38,79.0,10
-2015,50124,ATM,Atleti,Atleti,Spain,España,,3329,2771,,,266.0,73,86.0,10
-2015,59856,BSL,Basel,Basel,Switzerland,Suiza,,3303,2842,,,107.0,22,69.0,8
-2015,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3183,2766,,,105.0,26,77.0,8
-2015,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,3177,2875,,,108.0,22,62.0,6
-2015,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,3122,2443,,,116.0,27,44.0,8
-2015,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,2878,2530,,,111.0,24,44.0,6
-2015,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,2866,2544,,,140.0,29,71.0,6
-2015,50137,ROM,Roma,Roma,Italy,Italia,,2858,2562,48.0,,62.0,10,52.0,6
-2015,52826,ZEN,Zenit,Zenit,Russia,Rusia,,2650,2216,,,86.0,16,66.0,6
-2015,2603104,LUD,Ludogorets,Ludogorets,Bulgaria,Bulgaria,,2528,2213,,,119.0,20,67.0,6
-2015,50125,ATH,Athletic Club,Athletic Club,Spain,España,,2407,1956,,,135.0,24,65.0,6
-2015,50147,BEN,Benfica,Benfica,Portugal,Portugal,,2355,1885,,,111.0,35,83.0,6
-2015,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,2316,2031,49.0,,140.0,33,65.0,6
-2015,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,2254,1908,,,68.0,14,46.0,6
-2015,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,2201,1937,48.0,,119.0,24,58.0,6
-2015,57490,MRB,Maribor,Maribor,Slovenia,Eslovenia,,2114,1822,,,73.0,13,49.0,6
-2015,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,2020,1753,,,111.0,23,41.0,6
-2015,50152,MAL,Malmö,Malmö,Sweden,Suecia,,1870,1576,,,92.0,23,46.0,6
-2015,50118,APO,APOEL,APOEL,Cyprus,Chipre,,1782,1470,,,71.0,12,37.0,6
-2015,66168,BTE,BATE Borisov,BATE Borisov,Belarus,Bielorrusia,,1640,1264,,,61.0,14,34.0,6
-2016,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,8887,8099,,,320.0,81,153.0,12
-2016,52747,PSG,Paris,Paris,France,Francia,,7215,6551,,,212.0,59,149.0,10
-2016,50051,RMA,Real Madrid,Real Madrid,Spain,España,,8105,7298,,,286.0,72,179.0,13
-2016,50080,BAR,Barcelona,Barcelona,Spain,España,,7157,6381,,,151.0,38,162.0,10
-2016,50064,POR,Porto,Porto,Portugal,Portugal,,2971,2567,,,106.0,28,89.0,6
-2016,52682,MUN,Man Utd,Man Utd,England,Inglaterra,87.0,3513,3081,60.0,,134.0,33,65.0,6
-2016,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3282,2879,,,127.0,33,84.0,6
-2016,50139,JUV,Juventus,Juventus,Italy,Italia,,3214,2806,,,132.0,35,128.0,8
-2016,5312,LYO,Lyon,Lyon,France,Francia,,3006,2604,,,133.0,24,99.0,6
-2016,52919,MCI,Man City,Man City,England,Inglaterra,,5756,4968,,,203.0,52,150.0,12
-2016,52714,SEV,Sevilla,Sevilla,Spain,España,,2948,2525,,,163.0,31,74.0,6
-2016,52914,CHE,Chelsea,Chelsea,England,Inglaterra,85.0,3582,3068,49.0,,129.0,25,139.0,8
-2016,4608,GNT,Gent,Gent,Belgium,Bélgica,,3868,3284,,,139.0,38,135.0,8
-2016,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,3732,3178,,,131.0,17,122.0,8
-2016,64332,WOB,Wolfsburg,Wolfsburg,Germany,Alemania,,4672,3977,,,162.0,43,136.0,10
-2016,52757,MON,Mönchengladbach,Mönchengladbach,Germany,Alemania,,2937,2492,48.0,,48.0,8,55.0,6
-2016,50062,PSV,PSV,PSV,Netherlands,Holanda,,3472,2901,,,111.0,21,82.0,8
-2016,52268,VAL,Valencia,Valencia,Spain,España,,2785,2356,,,167.0,39,112.0,6
-2016,57477,MTA,M. Tel-Aviv,M. Tel-Aviv,Israel,Israel,83.0,2309,1926,,,66.0,19,87.0,6
-2016,50137,ROM,Roma,Roma,Italy,Italia,,3145,2619,,,145.0,24,115.0,8
-2016,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,2856,2335,,,81.0,24,72.0,6
-2016,52826,ZEN,Zenit,Zenit,Russia,Rusia,,2911,2422,,,109.0,26,132.0,8
-2016,50124,ATM,Atleti,Atleti,Spain,España,,6086,5126,,,278.0,65,178.0,13
-2016,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,3530,2981,,,135.0,40,84.0,8
-2016,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,2003,1600,43.0,,108.0,18,82.0,6
-2016,50147,BEN,Benfica,Benfica,Portugal,Portugal,,4511,3741,,,159.0,30,170.0,10
-2016,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,81.0,2826,2339,,,94.0,23,71.0,6
-2016,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,2205,1799,,,77.0,13,63.0,6
-2016,2600605,AST,Astana,Astana,Kazakhstan,Kazajstán,,2108,1667,43.0,,81.0,25,61.0,6
-2016,50152,MAL,Malmö,Malmö,Sweden,Suecia,,1963,1522,,,61.0,10,71.0,6
-2016,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,2399,1911,,,55.0,12,100.0,6
-2016,66168,BTE,BATE Borisov,BATE Borisov,Belarus,Bielorrusia,71.0,1813,1311,,,39.0,6,66.0,6
-2017,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,7209,6568,,,262.0,71,82.0,10
-2017,50080,BAR,Barcelona,Barcelona,Spain,España,,6692,5974,,,167.0,35,127.0,10
-2017,50051,RMA,Real Madrid,Real Madrid,Spain,España,,7692,6838,,,299.0,83,175.0,13
-2017,52747,PSG,Paris,Paris,France,Francia,,4693,4201,54.0,,151.0,36,98.0,8
-2017,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,6294,5534,,,175.0,38,108.0,10
-2017,50136,NAP,Napoli,Napoli,Italy,Italia,,4735,4161,,,168.0,31,104.0,8
-2017,5312,LYO,Lyon,Lyon,France,Francia,,3056,2691,,,117.0,23,51.0,6
-2017,52919,MCI,Man City,Man City,England,Inglaterra,,4338,3805,,,142.0,26,97.0,8
-2017,50139,JUV,Juventus,Juventus,Italy,Italia,,7112,6246,,,255.0,76,172.0,13
-2017,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,4320,3759,,,111.0,32,76.0,8
-2017,2603104,LUD,Ludogorets,Ludogorets,Bulgaria,Bulgaria,86.0,2806,2421,,,64.0,13,102.0,6
-2017,50062,PSV,PSV,PSV,Netherlands,Holanda,86.0,2693,2323,46.0,,95.0,24,38.0,6
-2017,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,2877,2480,,,107.0,18,86.0,6
-2017,52714,SEV,Sevilla,Sevilla,Spain,España,,4404,3830,,,159.0,27,90.0,8
-2017,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,2785,2374,50.0,,102.0,21,65.0,6
-2017,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,85.0,2953,2521,,,115.0,37,75.0,6
-2017,50050,CEL,Celtic,Celtic,Scotland,Escocia,85.0,2781,2377,,,56.0,12,59.0,6
-2017,1652,TOT,Tottenham,Tottenham,England,Inglaterra,,3589,3061,,,122.0,31,52.0,6
-2017,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,84.0,2628,2219,,,93.0,21,61.0,6
-2017,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,,2958,2480,,,115.0,38,64.0,6
-2017,50064,POR,Porto,Porto,Portugal,Portugal,,3718,3146,,,156.0,30,94.0,8
-2017,52757,MON,Mönchengladbach,Mönchengladbach,Germany,Alemania,,2666,2218,,,56.0,9,46.0,6
-2017,59856,BSL,Basel,Basel,Switzerland,Suiza,83.0,2570,2144,43.0,,122.0,27,62.0,6
-2017,50147,BEN,Benfica,Benfica,Portugal,Portugal,,3392,2819,,,102.0,21,77.0,8
-2017,50146,LEG,Legia Warszawa,Legia Warszawa,Poland,Polonia,,2284,1890,,,82.0,18,63.0,6
-2017,50124,ATM,Atleti,Atleti,Spain,España,,5794,4816,,,208.0,45,80.0,12
-2017,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,80.0,1949,1570,36.0,,55.0,11,60.0,6
-2017,50023,MON,Monaco,Monaco,France,Francia,,4801,3874,,,279.0,61,127.0,12
-2017,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,3731,2935,,,125.0,20,65.0,8
-2017,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,2233,1696,,,71.0,17,44.0,6
-2017,53577,LEI,Leicester,Leicester,England,Inglaterra,,3403,2584,,,157.0,24,43.0,10
-2017,64500,ROS,Rostov,Rostov,Russia,Rusia,71.0,1812,1312,36.0,,41.0,8,32.0,6
-2018,52919,MCI,Man City,Man City,England,Inglaterra,,7852,7043,,,159.0,39,113.0,10
-2018,52747,PSG,Paris,Paris,France,Francia,,4872,4372,,,127.0,21,117.0,8
-2018,50051,RMA,Real Madrid,Real Madrid,Spain,España,,8108,7253,,,333.0,82,179.0,13
-2018,50080,BAR,Barcelona,Barcelona,Spain,España,,7077,6319,61.0,,130.0,23,157.0,10
-2018,50136,NAP,Napoli,Napoli,Italy,Italia,,3668,3222,,,117.0,22,89.0,6
-2018,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,7171,6276,,,376.0,97,170.0,12
-2018,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,3774,3317,,,132.0,30,78.0,6
-2018,50050,CEL,Celtic,Celtic,Scotland,Escocia,,2922,2557,,,51.0,13,75.0,6
-2018,50124,ATM,Atleti,Atleti,Spain,España,86.0,3085,2653,,,125.0,31,74.0,6
-2018,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3974,3412,,,95.0,26,130.0,8
-2018,50139,JUV,Juventus,Juventus,Italy,Italia,,5067,4389,,,162.0,44,158.0,10
-2018,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,3986,3433,47.0,,112.0,28,86.0,8
-2018,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,4723,4053,55.0,,140.0,34,92.0,8
-2018,52714,SEV,Sevilla,Sevilla,Spain,España,,6056,5179,,,201.0,38,141.0,10
-2018,50147,BEN,Benfica,Benfica,Portugal,Portugal,,3399,2905,,,134.0,29,107.0,6
-2018,1652,TOT,Tottenham,Tottenham,England,Inglaterra,,4021,3438,,,141.0,30,109.0,8
-2018,50137,ROM,Roma,Roma,Italy,Italia,,5856,4949,,,254.0,69,186.0,12
-2018,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,2829,2401,47.0,,85.0,18,80.0,6
-2018,60609,QAR,Qarabağ,Qarabağ,Azerbaijan,Azerbaiyán,,2794,2354,46.0,,37.0,8,76.0,6
-2018,57490,MRB,Maribor,Maribor,Slovenia,Eslovenia,,2219,1833,,,58.0,19,68.0,6
-2018,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,6847,5741,,,239.0,53,165.0,13
-2018,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,2441,2000,,,72.0,19,102.0,6
-2018,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,,3043,2449,54.0,,105.0,15,96.0,6
-2018,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,2809,2336,,,89.0,27,74.0,6
-2018,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,2299,1876,,,83.0,14,88.0,6
-2018,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,2473,2000,,,80.0,11,94.0,6
-2018,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,2649,2111,,,60.0,21,77.0,6
-2018,50064,POR,Porto,Porto,Portugal,Portugal,,3351,2677,,,120.0,37,110.0,8
-2018,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,3329,2657,,,129.0,26,141.0,8
-2018,50118,APO,APOEL,APOEL,Cyprus,Chipre,78.0,1885,1485,,,54.0,16,84.0,6
-2018,59856,BSL,Basel,Basel,Switzerland,Suiza,,2988,2314,,,83.0,18,96.0,8
-2018,50023,MON,Monaco,Monaco,France,Francia,,2412,1866,,,140.0,30,101.0,6
-2019,52919,MCI,Man City,Man City,England,Inglaterra,,6554,5907,,,171.0,46,77.0,10
-2019,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,5805,5231,,,108.0,25,75.0,8
-2019,52747,PSG,Paris,Paris,France,Francia,,4913,4372,,,124.0,26,111.0,8
-2019,50080,BAR,Barcelona,Barcelona,Spain,España,,8336,7403,,,135.0,21,171.0,12
-2019,50051,RMA,Real Madrid,Real Madrid,Spain,España,,5301,4648,,,202.0,41,93.0,8
-2019,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,4751,4146,57.0,,149.0,34,79.0,8
-2019,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3082,2669,,,61.0,14,85.0,6
-2019,50139,JUV,Juventus,Juventus,Italy,Italia,86.0,5400,4676,,,224.0,58,122.0,10
-2019,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,4680,4026,,,172.0,29,89.0,10
-2019,50136,NAP,Napoli,Napoli,Italy,Italia,,3998,3415,54.0,,110.0,28,69.0,6
-2019,52268,VAL,Valencia,Valencia,Spain,España,,2874,2430,50.0,,97.0,25,102.0,6
-2019,5312,LYO,Lyon,Lyon,France,Francia,,3732,3167,,,88.0,19,96.0,8
-2019,50023,MON,Monaco,Monaco,France,Francia,,2842,2397,,,107.0,19,69.0,6
-2019,1652,TOT,Tottenham,Tottenham,England,Inglaterra,,6651,5601,,,255.0,71,128.0,13
-2019,2600431,HOF,Hoffenheim,Hoffenheim,Germany,Alemania,,2565,2145,,,110.0,29,51.0,6
-2019,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,2853,2382,,,102.0,17,80.0,6
-2019,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,6159,5110,,,163.0,43,117.0,12
-2019,50137,ROM,Roma,Roma,Italy,Italia,,3853,3220,,,145.0,39,79.0,8
-2019,50138,INT,Inter,Inter,Italy,Italia,,2926,2420,,,124.0,36,77.0,6
-2019,50147,BEN,Benfica,Benfica,Portugal,Portugal,,2642,2176,44.0,,87.0,24,59.0,6
-2019,50124,ATM,Atleti,Atleti,Spain,España,,4025,3340,,,136.0,29,61.0,8
-2019,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,2548,2086,41.0,,87.0,19,46.0,6
-2019,50031,YB,Young Boys,Young Boys,Switzerland,Suiza,,2439,1974,,,115.0,23,63.0,6
-2019,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,2516,2035,,,83.0,13,51.0,6
-2019,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,6833,5538,,,255.0,63,134.0,13
-2019,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,2282,1849,,,68.0,14,56.0,6
-2019,64388,PLZ,Viktoria Plzeň,Viktoria Plzeň,Czechia,Chequia,,2243,1788,41.0,,84.0,25,75.0,6
-2019,50064,POR,Porto,Porto,Portugal,Portugal,,4633,3720,,,186.0,45,136.0,10
-2019,57388,SCH,Schalke,Schalke,Germany,Alemania,,3006,2395,,,120.0,27,69.0,8
-2019,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,,2476,1916,,,66.0,14,62.0,6
-2019,50062,PSV,PSV,PSV,Netherlands,Holanda,,1931,1465,,,78.0,18,42.0,6
-2019,50069,ZVE,Crvena Zvezda,Crvena Zvezda,Serbia,Serbia,,1948,1458,,,66.0,11,60.0,6
-2020,50080,BAR,Barcelona,Barcelona,Spain,España,,5880,5200,,,77.0,18,151.0,9
-2020,52919,MCI,Man City,Man City,England,Inglaterra,88.0,6205,5473,,,162.0,33,93.0,9
-2020,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,7311,6405,,,246.0,62,127.0,11
-2020,50139,JUV,Juventus,Juventus,Italy,Italia,,5203,4560,,,173.0,33,133.0,8
-2020,50051,RMA,Real Madrid,Real Madrid,Spain,España,,5152,4481,,,103.0,22,108.0,8
-2020,52747,PSG,Paris,Paris,France,Francia,,6472,5627,,,97.0,19,214.0,11
-2020,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3265,2812,,,53.0,7,118.0,6
-2020,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,4869,4170,,,81.0,22,105.0,8
-2020,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,3998,3421,,,138.0,26,78.0,6
-2020,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,6064,5134,,,215.0,51,102.0,8
-2020,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,,6167,5229,,,202.0,53,122.0,10
-2020,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,4118,3483,,,168.0,50,90.0,8
-2020,50136,NAP,Napoli,Napoli,Italy,Italia,,4061,3438,,,124.0,29,109.0,8
-2020,52816,ATA,Atalanta,Atalanta,Italy,Italia,,4129,3431,,,124.0,33,129.0,9
-2020,50147,BEN,Benfica,Benfica,Portugal,Portugal,,3058,2536,,,97.0,17,84.0,6
-2020,50138,INT,Inter,Inter,Italy,Italia,,2759,2279,,,59.0,15,98.0,6
-2020,1652,TOT,Tottenham,Tottenham,England,Inglaterra,,4192,3480,,,109.0,25,111.0,8
-2020,52268,VAL,Valencia,Valencia,Spain,España,,3663,3001,,,123.0,30,175.0,8
-2020,52498,SLA,Slavia Praha,Slavia Praha,Czechia,Chequia,,3030,2450,,,93.0,27,76.0,6
-2020,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,3192,2575,53.0,,84.0,19,81.0,6
-2020,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,80.0,2456,1984,,,89.0,33,87.0,6
-2020,5312,LYO,Lyon,Lyon,France,Francia,,4536,3645,,,171.0,31,130.0,10
-2020,50124,ATM,Atleti,Atleti,Spain,España,,4259,3437,,,151.0,27,135.0,9
-2020,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,2913,2311,,,65.0,13,93.0,6
-2020,75797,LIL,Lille,Lille,France,Francia,,2462,1951,,,100.0,21,65.0,6
-2020,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,2445,1921,,,87.0,21,73.0,6
-2020,52826,ZEN,Zenit,Zenit,Russia,Rusia,,2404,1876,,,92.0,26,67.0,6
-2020,50030,SAL,Salzburg,Salzburg,Austria,Austria,,2652,2040,,,74.0,19,47.0,6
-2020,50069,ZVE,Crvena Zvezda,Crvena Zvezda,Serbia,Serbia,,2132,1656,,,65.0,19,89.0,6
-2020,61582,GEN,Genk,Genk,Belgium,Bélgica,,2376,1815,,,104.0,24,92.0,6
-2020,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,,2027,1529,,,51.0,11,95.0,6
-2020,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,2027,1481,,,51.0,8,77.0,6
-2021,50080,BAR,Barcelona,Barcelona,Spain,España,91.0,6136,5581,,,99.0,23,108.0,8
-2021,52919,MCI,Man City,Man City,England,Inglaterra,,9141,8168,,,213.0,40,127.0,13
-2021,50139,JUV,Juventus,Juventus,Italy,Italia,88.0,5166,4545,,,157.0,53,101.0,8
-2021,50051,RMA,Real Madrid,Real Madrid,Spain,España,,8092,7113,,,207.0,55,153.0,12
-2021,50037,BAY,Bayern München,Bayern München,Germany,Alemania,86.0,6242,5377,,,214.0,45,149.0,10
-2021,52714,SEV,Sevilla,Sevilla,Spain,España,,4843,4168,,,194.0,49,132.0,8
-2021,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3085,2639,,,32.0,3,99.0,6
-2021,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,2903,2485,,,71.0,23,74.0,6
-2021,52747,PSG,Paris,Paris,France,Francia,,5998,5151,,,158.0,26,196.0,12
-2021,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,85.0,5834,5034,,,118.0,26,111.0,10
-2021,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,7155,6101,51.0,,170.0,33,164.0,13
-2021,50138,INT,Inter,Inter,Italy,Italia,,3266,2770,,,128.0,40,64.0,6
-2021,52298,FER,Ferencváros,Ferencváros,Hungary,Hungría,,3075,2609,,,66.0,6,92.0,6
-2021,52757,MON,Mönchengladbach,Mönchengladbach,Germany,Alemania,,3880,3261,,,87.0,23,82.0,8
-2021,52748,MAR,Marseille,Marseille,France,Francia,,3066,2568,,,82.0,22,97.0,6
-2021,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,3091,2590,,,113.0,28,88.0,6
-2021,52973,LAZ,Lazio,Lazio,Italy,Italia,83.0,3933,3282,,,112.0,31,106.0,8
-2021,55031,REN,Rennes,Rennes,France,Francia,,3017,2499,,,113.0,29,76.0,6
-2021,52826,ZEN,Zenit,Zenit,Russia,Rusia,,2938,2409,47.0,,103.0,23,66.0,6
-2021,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,2967,2427,,,90.0,20,79.0,6
-2021,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,5718,4667,,,160.0,37,122.0,10
-2021,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,3216,2628,,,92.0,16,72.0,6
-2021,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,,4283,3470,,,139.0,44,132.0,8
-2021,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,3316,2674,,,96.0,17,93.0,6
-2021,50124,ATM,Atleti,Atleti,Spain,España,,4019,3240,48.0,,148.0,26,107.0,8
-2021,2600288,IST,Başakşehir,Başakşehir,Türkiye,Turquía,80.0,2668,2138,45.0,,85.0,20,76.0,6
-2021,52816,ATA,Atalanta,Atalanta,Italy,Italia,,3923,3157,,,120.0,30,126.0,8
-2021,50030,SAL,Salzburg,Salzburg,Austria,Austria,,2889,2230,,,99.0,22,85.0,6
-2021,50064,POR,Porto,Porto,Portugal,Portugal,,3791,2937,,,127.0,34,192.0,10
-2021,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,,2243,1717,,,59.0,13,101.0,6
-2021,2601038,KRA,Krasnodar,Krasnodar,Russia,Rusia,75.0,2306,1738,,,69.0,12,102.0,6
-2021,75795,MID,Midtjylland,Midtjylland,Denmark,Dinamarca,,2472,1816,,,94.0,22,91.0,6
-2022,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3619,3281,,,68.0,16,71.0,6
-2022,52919,MCI,Man City,Man City,England,Inglaterra,,7579,6837,,,225.0,53,147.0,12
-2022,52747,PSG,Paris,Paris,France,Francia,90.0,4631,4177,,,71.0,14,120.0,8
-2022,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,6382,5694,,,224.0,68,110.0,10
-2022,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,6286,5581,,,211.0,58,115.0,10
-2022,50080,BAR,Barcelona,Barcelona,Spain,España,,3533,3103,,,119.0,30,85.0,6
-2022,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,4611,4047,,,161.0,54,94.0,8
-2022,50051,RMA,Real Madrid,Real Madrid,Spain,España,,7550,6628,,,194.0,47,182.0,13
-2022,50139,JUV,Juventus,Juventus,Italy,Italia,,4223,3729,,,130.0,32,86.0,8
-2022,50138,INT,Inter,Inter,Italy,Italia,,3985,3466,,,188.0,60,94.0,8
-2022,52826,ZEN,Zenit,Zenit,Russia,Rusia,,2758,2387,,,124.0,41,71.0,6
-2022,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,8068,6997,,,271.0,68,170.0,13
-2022,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,4178,3581,,,125.0,30,109.0,8
-2022,52714,SEV,Sevilla,Sevilla,Spain,España,,3207,2731,,,155.0,40,104.0,6
-2022,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,84.0,3187,2718,51.0,,95.0,22,61.0,6
-2022,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,2493,2083,43.0,,60.0,13,89.0,6
-2022,50031,YB,Young Boys,Young Boys,Switzerland,Suiza,,2707,2245,49.0,,131.0,33,55.0,6
-2022,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,,2671,2205,,,103.0,29,92.0,6
-2022,52816,ATA,Atalanta,Atalanta,Italy,Italia,82.0,2972,2445,,,104.0,31,89.0,6
-2022,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,3091,2522,,,85.0,22,151.0,8
-2022,50058,MIL,Milan,Milan,Italy,Italia,81.0,2435,1987,,,90.0,31,98.0,6
-2022,70691,VIL,Villarreal,Villarreal,Spain,España,,4794,3943,,,116.0,39,163.0,12
-2022,50147,BEN,Benfica,Benfica,Portugal,Portugal,,3724,3028,,,118.0,37,175.0,10
-2022,75797,LIL,Lille,Lille,France,Francia,,3348,2694,,,111.0,30,126.0,8
-2022,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,80.0,2510,2051,,,78.0,21,79.0,6
-2022,50152,MAL,Malmö,Malmö,Sweden,Suecia,,2209,1771,,,51.0,12,78.0,6
-2022,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,78.0,2232,1744,,,95.0,17,73.0,6
-2022,50064,POR,Porto,Porto,Portugal,Portugal,,2313,1811,,,90.0,27,101.0,6
-2022,50124,ATM,Atleti,Atleti,Spain,España,,3650,2868,,,119.0,27,130.0,10
-2022,69606,SHE,Sheriff,Sheriff,Moldova,Moldavia,,1683,1314,,,71.0,22,61.0,6
-2022,64332,WOB,Wolfsburg,Wolfsburg,Germany,Alemania,,2251,1742,,,74.0,20,85.0,6
-2022,50030,SAL,Salzburg,Salzburg,Austria,Austria,,3022,2294,,,112.0,18,100.0,8
-2023,52919,MCI,Man City,Man City,England,Inglaterra,,8299,7519,,,242.0,64,138.0,13
-2023,50051,RMA,Real Madrid,Real Madrid,Spain,España,,7201,6491,,,166.0,37,144.0,12
-2023,52747,PSG,Paris,Paris,France,Francia,,4976,4479,,,92.0,18,143.0,8
-2023,50080,BAR,Barcelona,Barcelona,Spain,España,,3800,3390,,,156.0,40,95.0,6
-2023,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,5756,5094,,,121.0,32,115.0,10
-2023,50050,CEL,Celtic,Celtic,Scotland,Escocia,,2946,2583,,,114.0,26,48.0,6
-2023,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,5612,4935,,,200.0,54,138.0,10
-2023,52748,MAR,Marseille,Marseille,France,Francia,87.0,3384,2957,59.0,,116.0,17,92.0,6
-2023,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,,4171,3638,,,118.0,34,86.0,8
-2023,50147,BEN,Benfica,Benfica,Portugal,Portugal,,5352,4659,,,158.0,43,109.0,10
-2023,50124,ATM,Atleti,Atleti,Spain,España,,3368,2928,54.0,,152.0,29,66.0,6
-2023,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,2815,2443,,,45.0,9,60.0,6
-2023,50139,JUV,Juventus,Juventus,Italy,Italia,,2848,2471,,,142.0,34,74.0,6
-2023,50136,NAP,Napoli,Napoli,Italy,Italia,,5495,4779,,,183.0,54,148.0,10
-2023,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,4281,3662,,,186.0,52,93.0,8
-2023,52714,SEV,Sevilla,Sevilla,Spain,España,,2977,2549,,,97.0,29,82.0,6
-2023,1652,TOT,Tottenham,Tottenham,England,Inglaterra,85.0,3941,3352,,,160.0,35,97.0,8
-2023,50143,AJX,Ajax,Ajax,Netherlands,Holanda,85.0,3184,2753,,,61.0,16,64.0,6
-2023,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,3041,2583,,,97.0,22,61.0,6
-2023,59045,MHA,Maccabi Haifa,Maccabi Haifa,Israel,Israel,,2524,2133,,,86.0,22,60.0,6
-2023,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,84.0,3858,3258,,,105.0,18,106.0,8
-2023,50058,MIL,Milan,Milan,Italy,Italia,83.0,5032,4206,,,160.0,40,163.0,12
-2023,50138,INT,Inter,Inter,Italy,Italia,,5598,4721,,,238.0,65,169.0,13
-2023,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,2651,2196,,,74.0,16,98.0,6
-2023,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,82.0,3491,2864,,,109.0,21,105.0,8
-2023,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,82.0,2324,1918,,,59.0,18,53.0,6
-2023,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,2652,2187,,,65.0,15,106.0,6
-2023,50064,POR,Porto,Porto,Portugal,Portugal,,3424,2772,48.0,,104.0,23,121.0,8
-2023,50072,FRA,Frankfurt,Frankfurt,Germany,Alemania,,3414,2736,,,103.0,17,108.0,8
-2023,50121,RAN,Rangers,Rangers,Scotland,Escocia,,2247,1788,,,88.0,22,73.0,6
-2023,64388,PLZ,Viktoria Plzeň,Viktoria Plzeň,Czechia,Chequia,,1626,1247,,,91.0,29,67.0,6
-2023,50030,SAL,Salzburg,Salzburg,Austria,Austria,,1996,1472,,,71.0,18,63.0,6
-2024,52919,MCI,Man City,Man City,England,Inglaterra,,7725,7227,,,180.0,50,145.0,10
-2024,50051,RMA,Real Madrid,Real Madrid,Spain,España,,7614,6965,,,212.0,52,150.0,13
-2024,52747,PSG,Paris,Paris,France,Francia,,7261,6520,,,206.0,42,148.0,12
-2024,50037,BAY,Bayern München,Bayern München,Germany,Alemania,89.0,6806,6082,55.0,,162.0,43,131.0,12
-2024,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,5338,4744,,,133.0,37,129.0,10
-2024,52336,BRA,Braga,Braga,Portugal,Portugal,88.0,3148,2781,,,133.0,41,93.0,6
-2024,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,3417,3016,54.0,,100.0,23,60.0,6
-2024,50136,NAP,Napoli,Napoli,Italy,Italia,,4194,3641,,,152.0,26,107.0,8
-2024,50124,ATM,Atleti,Atleti,Spain,España,,5708,4969,,,174.0,45,96.0,10
-2024,50080,BAR,Barcelona,Barcelona,Spain,España,,5364,4705,,,169.0,39,151.0,10
-2024,52973,LAZ,Lazio,Lazio,Italy,Italia,,4014,3483,,,105.0,27,101.0,8
-2024,50050,CEL,Celtic,Celtic,Scotland,Escocia,,3135,2708,,,61.0,10,94.0,6
-2024,50138,INT,Inter,Inter,Italy,Italia,86.0,4333,3756,,,142.0,48,121.0,8
-2024,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,2567,2191,,,55.0,15,64.0,6
-2024,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,,3633,3102,,,119.0,29,117.0,8
-2024,50113,ANT,Antwerp,Antwerp,Belgium,Bélgica,84.0,2428,2051,,,101.0,23,57.0,6
-2024,50058,MIL,Milan,Milan,Italy,Italia,84.0,2256,1913,,,109.0,35,82.0,6
-2024,50062,PSV,PSV,PSV,Netherlands,Holanda,,3647,3057,,,148.0,35,101.0,8
-2024,50123,RSO,Real Sociedad,Real Sociedad,Spain,España,,3690,3101,,,120.0,25,99.0,8
-2024,52682,MUN,Man Utd,Man Utd,England,Inglaterra,83.0,2556,2134,,,83.0,15,72.0,6
-2024,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,5612,4698,,,195.0,53,138.0,13
-2024,50064,POR,Porto,Porto,Portugal,Portugal,,3460,2892,,,97.0,26,132.0,8
-2024,50031,YB,Young Boys,Young Boys,Switzerland,Suiza,,2250,1850,,,92.0,23,68.0,6
-2024,50147,BEN,Benfica,Benfica,Portugal,Portugal,,2756,2273,49.0,,92.0,17,92.0,6
-2024,59324,NEW,Newcastle,Newcastle,England,Inglaterra,,2323,1913,,,73.0,15,95.0,6
-2024,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,81.0,3174,2607,,,109.0,23,67.0,8
-2024,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,2798,2264,,,126.0,27,90.0,6
-2024,52277,LEN,Lens,Lens,France,Francia,,2356,1909,44.0,,96.0,23,91.0,6
-2024,52714,SEV,Sevilla,Sevilla,Spain,España,,2504,2039,,,112.0,25,87.0,6
-2024,50030,SAL,Salzburg,Salzburg,Austria,Austria,80.0,2379,1918,,,80.0,12,66.0,6
-2024,50069,ZVE,Crvena Zvezda,Crvena Zvezda,Serbia,Serbia,79.0,2026,1608,,,90.0,21,68.0,6
-2024,77977,UBE,Union Berlin,Union Berlin,Germany,Alemania,,2009,1580,,,97.0,20,59.0,6
-2025,52919,MCI,Man City,Man City,England,Inglaterra,,6330,5866,,,204.0,43,85.0,10
-2025,50051,RMA,Real Madrid,Real Madrid,Spain,España,90.0,7680,6947,,,237.0,47,168.0,14
-2025,52747,PSG,Paris,Paris,France,Francia,89.0,10764,9679,,,249.0,58,209.0,17
-2025,50058,MIL,Milan,Milan,Italy,Italia,,4934,4403,,,132.0,30,145.0,10
-2025,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,9189,8221,,,320.0,70,146.0,14
-2025,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,5842,5240,,,174.0,38,95.0,10
-2025,50139,JUV,Juventus,Juventus,Italy,Italia,,4941,4367,,,172.0,36,97.0,10
-2025,50080,BAR,Barcelona,Barcelona,Spain,España,88.0,8400,7437,,,210.0,46,245.0,14
-2025,52816,ATA,Atalanta,Atalanta,Italy,Italia,,5133,4490,,,221.0,67,104.0,10
-2025,50050,CEL,Celtic,Celtic,Scotland,Escocia,87.0,5104,4465,,,134.0,26,99.0,10
-2025,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,5538,4835,,,114.0,28,117.0,12
-2025,2602798,GIR,Girona,Girona,Spain,España,,3739,3278,,,131.0,30,101.0,8
-2025,50124,ATM,Atleti,Atleti,Spain,España,,5368,4716,,,166.0,41,117.0,10
-2025,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,7122,6210,,,241.0,73,149.0,14
-2025,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,5128,4465,52.0,,162.0,32,113.0,10
-2025,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,4740,4127,,,109.0,30,170.0,10
-2025,50107,STU,Stuttgart,Stuttgart,Germany,Alemania,,4416,3824,,,177.0,46,115.0,8
-2025,52683,AVL,Aston Villa,Aston Villa,England,Inglaterra,,5206,4525,,,128.0,32,162.0,12
-2025,50062,PSV,PSV,PSV,Netherlands,Holanda,,6252,5407,52.0,,225.0,50,150.0,12
-2025,52280,ARS,Arsenal,Arsenal,England,Inglaterra,86.0,6317,5477,,,235.0,68,152.0,14
-2025,50138,INT,Inter,Inter,Italy,Italia,,7157,6218,,,202.0,58,180.0,15
-2025,50030,SAL,Salzburg,Salzburg,Austria,Austria,,3597,3088,,,112.0,17,93.0,8
-2025,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,,3685,3126,,,118.0,27,91.0,8
-2025,75797,LIL,Lille,Lille,France,Francia,,4653,3973,,,101.0,17,134.0,10
-2025,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3454,2914,,,83.0,18,77.0,8
-2025,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,83.0,4720,3960,46.0,,134.0,29,131.0,12
-2025,52969,BOL,Bologna,Bologna,Italy,Italia,,3318,2756,,,135.0,29,123.0,8
-2025,50023,MON,Monaco,Monaco,France,Francia,,4430,3691,,,135.0,36,149.0,10
-2025,50069,ZVE,Crvena Zvezda,Crvena Zvezda,Serbia,Serbia,,3035,2552,,,169.0,33,122.0,8
-2025,50031,YB,Young Boys,Young Boys,Switzerland,Suiza,,2848,2325,,,112.0,23,98.0,8
-2025,50147,BEN,Benfica,Benfica,Portugal,Portugal,,4977,4098,,,167.0,53,125.0,12
-2025,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,2769,2244,,,98.0,26,98.0,8
-2025,2601306,BRE,Brest,Brest,France,Francia,,3840,3105,,,147.0,38,147.0,10
-2025,52797,SLB,S. Bratislava,S. Bratislava,Slovakia,Eslovaquia,79.0,2888,2316,,,74.0,13,112.0,8
-2025,50111,SGR,Sturm Graz,Sturm Graz,Austria,Austria,,2725,2154,,,95.0,17,100.0,8
-2025,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,2550,1969,,,78.0,24,76.0,8
+season_year,team_id,team_code,team_name_en,team_name_es,country_en,country_es,distribution__passes_accuracy,distribution__passes_attempted,distribution__passes_completed,distribution__ball_possession,distribution__cross_accuracy,distribution__cross_attempted,distribution__cross_completed,distribution__free_kick,distribution__matches_appearance
+1992,52748,MAR,Marseille,Marseille,France,Francia,,,,,0.0,,,,11.0
+1992,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,11.0
+1992,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,,,,0.0,,,,10.0
+1992,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,10.0
+1992,50066,IFK,Göteborg,Göteborg,Sweden,Suecia,,,,,0.0,,,,10.0
+1992,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,10.0
+1992,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,10.0
+1992,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,,,,0.0,,,,10.0
+1992,53361,LEE,Leeds,Leeds,England,Inglaterra,,,,,0.0,,,,5.0
+1992,50098,DB,Dinamo Bucureşti,Dinamo Bucureşti,Romania,Rumanía,,,,,0.0,,,,4.0
+1992,64227,LPO,Lech Poznań,Lech Poznań,Poland,Polonia,,,,,0.0,,,,4.0
+1992,52824,SIO,Sion,Sion,Switzerland,Suiza,,,,,0.0,,,,4.0
+1992,52797,SLB,S. Bratislava,S. Bratislava,Slovakia,Eslovaquia,,,,,0.0,,,,4.0
+1992,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,0.0,,,,4.0
+1992,50110,AUS,Austria Wien,Austria Wien,Austria,Austria,,,,,0.0,,,,4.0
+1992,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,4.0
+1992,50107,STU,Stuttgart,Stuttgart,Germany,Alemania,,,,,0.0,,,,3.0
+1992,50082,LAH,Lahti,Lahti,Finland,Finlandia,,,,,0.0,,,,2.0
+1992,57489,TAV,Tavriya,Tavriya,Ukraine,Ucrania,,,,,0.0,,,,2.0
+1992,57479,SKO,Skonto,Skonto,Latvia,Letonia,,,,,0.0,,,,2.0
+1992,57477,MTA,M. Tel-Aviv,M. Tel-Aviv,Israel,Israel,,,,,0.0,,,,2.0
+1992,53081,OLJ,Olimpija,Olimpija,Slovenia,Eslovenia,,,,,0.0,,,,2.0
+1992,52697,VKR,Víkingur R.,Víkingur R.,Iceland,Islandia,,,,,0.0,,,,2.0
+1992,52319,VFK,Viking,Viking,Norway,Noruega,,,,,0.0,,,,2.0
+1992,52298,FER,Ferencváros,Ferencváros,Hungary,Hungría,,,,,0.0,,,,2.0
+1992,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,0.0,,,,2.0
+1992,50140,USL,US Luxembourg,US Luxembourg,Luxembourg,Luxemburgo,,,,,0.0,,,,2.0
+1992,50118,APO,APOEL,APOEL,Cyprus,Chipre,,,,,0.0,,,,2.0
+1992,50076,CSS,CSKA Sofia,CSKA Sofia,Bulgaria,Bulgaria,,,,,0.0,,,,2.0
+1992,50056,GLE,Glentoran,Glentoran,Northern Ireland,Irlanda del Norte,,,,,0.0,,,,2.0
+1992,50020,LYN,Lyngby,Lyngby,Denmark,Dinamarca,,,,,0.0,,,,2.0
+1992,2602334,ZAL,Žalgiris,Žalgiris,Lithuania,Lituania,,,,,0.0,,,,2.0
+1993,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,12.0
+1993,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,12.0
+1993,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,11.0
+1993,50023,MON,Monaco,Monaco,France,Francia,,,,,0.0,,,,11.0
+1993,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,0.0,,,,10.0
+1993,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,0.0,,,,10.0
+1993,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,0.0,,,,10.0
+1993,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,0.0,,,,10.0
+1993,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,,,,,0.0,,,,4.0
+1993,64227,LPO,Lech Poznań,Lech Poznań,Poland,Polonia,,,,,0.0,,,,4.0
+1993,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,,,,0.0,,,,4.0
+1993,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,4.0
+1993,50110,AUS,Austria Wien,Austria Wien,Austria,Austria,,,,,0.0,,,,4.0
+1993,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,0.0,,,,4.0
+1993,50044,LSO,Levski Sofia,Levski Sofia,Bulgaria,Bulgaria,,,,,0.0,,,,4.0
+1993,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,0.0,,,,4.0
+1993,50134,LIN,Linfield,Linfield,Northern Ireland,Irlanda del Norte,,,,,0.0,,,,2.0
+1993,59034,BEI,Beitar,Beitar,Israel,Israel,,,,,0.0,,,,2.0
+1993,57479,SKO,Skonto,Skonto,Latvia,Letonia,,,,,0.0,,,,2.0
+1993,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,2.0
+1993,52803,COR,Cork,Cork,Republic of Ireland,República de Irlanda,,,,,0.0,,,,2.0
+1993,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,2.0
+1993,52341,AIK,AIK,AIK,Sweden,Suecia,,,,,0.0,,,,2.0
+1993,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,,,,0.0,,,,2.0
+1993,50161,DMI,Dinamo-Minsk,Dinamo-Minsk,Belarus,Bielorrusia,,,,,0.0,,,,2.0
+1993,50135,AKR,ÍA,ÍA,Iceland,Islandia,,,,,0.0,,,,2.0
+1993,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,0.0,,,,2.0
+1993,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,2.0
+1993,50092,FLO,Floriana,Floriana,Malta,Malta,,,,,0.0,,,,2.0
+1993,50054,HON,Honvéd,Honvéd,Hungary,Hungría,,,,,0.0,,,,2.0
+1993,50052,HJK,HJK,HJK,Finland,Finlandia,,,,,0.0,,,,2.0
+1993,50035,AAR,Aarau,Aarau,Switzerland,Suiza,,,,,0.0,,,,2.0
+1994,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,0.0,,,,11.0
+1994,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,11.0
+1994,52747,PSG,Paris,Paris,France,Francia,,,,,0.0,,,,10.0
+1994,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,10.0
+1994,52359,HAJ,Hajduk Split,Hajduk Split,Croatia,Croacia,,,,,0.0,,,,8.0
+1994,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,0.0,,,,8.0
+1994,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,8.0
+1994,50066,IFK,Göteborg,Göteborg,Sweden,Suecia,,,,,0.0,,,,8.0
+1994,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,6.0
+1994,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,6.0
+1994,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,0.0,,,,6.0
+1994,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,0.0,,,,6.0
+1994,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+1994,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,0.0,,,,6.0
+1994,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,0.0,,,,6.0
+1994,50030,SAL,Salzburg,Salzburg,Austria,Austria,,,,,0.0,,,,6.0
+1995,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,0.0,,,,11.0
+1995,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,,11.0
+1995,52693,NAN,Nantes,Nantes,France,Francia,,,,,0.0,,,,10.0
+1995,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,0.0,,,,10.0
+1995,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,0.0,,,,8.0
+1995,50146,LEG,Legia Warszawa,Legia Warszawa,Poland,Polonia,,,,,0.0,,,,8.0
+1995,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,0.0,,,,8.0
+1995,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,8.0
+1995,54186,AAL,AaB,AaB,Denmark,Dinamarca,,,,,0.0,,,,6.0
+1995,53344,BLA,Blackburn,Blackburn,England,Inglaterra,,,,,0.0,,,,6.0
+1995,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,6.0
+1995,52298,FER,Ferencváros,Ferencváros,Hungary,Hungría,,,,,0.0,,,,6.0
+1995,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,6.0
+1995,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,0.0,,,,6.0
+1995,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,6.0
+1995,50004,GCZ,Grasshoppers,Grasshoppers,Switzerland,Suiza,,,,,0.0,,,,6.0
+1996,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,0.0,,,,11.0
+1996,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,,11.0
+1996,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,0.0,,,,10.0
+1996,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,10.0
+1996,50124,ATM,Atleti,Atleti,Spain,España,,,,,0.0,,,,8.0
+1996,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,8.0
+1996,52269,AJA,Auxerre,Auxerre,France,Francia,,,,,0.0,,,,8.0
+1996,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,8.0
+1996,52752,WID,Widzew,Widzew,Poland,Polonia,,,,,0.0,,,,6.0
+1996,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,0.0,,,,6.0
+1996,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,6.0
+1996,50066,IFK,Göteborg,Göteborg,Sweden,Suecia,,,,,0.0,,,,6.0
+1996,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,0.0,,,,6.0
+1996,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,6.0
+1996,50042,RAP,SK Rapid,SK Rapid,Austria,Austria,,,,,0.0,,,,6.0
+1996,50004,GCZ,Grasshoppers,Grasshoppers,Switzerland,Suiza,,,,,0.0,,,,6.0
+1997,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,,11.0
+1997,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,11.0
+1997,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,0.0,,,,10.0
+1997,50023,MON,Monaco,Monaco,France,Francia,,,,,0.0,,,,10.0
+1997,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,8.0
+1997,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,8.0
+1997,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,8.0
+1997,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,0.0,,,,8.0
+1997,8404,LIE,Lierse,Lierse,Belgium,Bélgica,,,,,0.0,,,,6.0
+1997,59324,NEW,Newcastle,Newcastle,England,Inglaterra,,,,,0.0,,,,6.0
+1997,59029,KOS,Košice,Košice,Slovakia,Eslovaquia,,,,,0.0,,,,6.0
+1997,54262,PAR,Parma,Parma,Italy,Italia,,,,,0.0,,,,6.0
+1997,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,6.0
+1997,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,,,,0.0,,,,6.0
+1997,52747,PSG,Paris,Paris,France,Francia,,,,,0.0,,,,6.0
+1997,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,0.0,,,,6.0
+1997,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,,,,0.0,,,,6.0
+1997,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,6.0
+1997,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,0.0,,,,6.0
+1997,50066,IFK,Göteborg,Göteborg,Sweden,Suecia,,,,,0.0,,,,6.0
+1997,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,6.0
+1997,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,6.0
+1997,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,0.0,,,,6.0
+1997,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,6.0
+1998,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,11.0
+1998,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,11.0
+1998,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,10.0
+1998,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,,10.0
+1998,50138,INT,Inter,Inter,Italy,Italia,,,,,0.0,,,,8.0
+1998,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,8.0
+1998,3695,KAI,Kaiserslautern,Kaiserslautern,Germany,Alemania,,,,,0.0,,,,8.0
+1998,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,8.0
+1998,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,6.0
+1998,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,6.0
+1998,52277,LEN,Lens,Lens,France,Francia,,,,,0.0,,,,6.0
+1998,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,,,,0.0,,,,6.0
+1998,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,0.0,,,,6.0
+1998,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,0.0,,,,6.0
+1998,50125,ATH,Athletic Club,Athletic Club,Spain,España,,,,,0.0,,,,6.0
+1998,50111,SGR,Sturm Graz,Sturm Graz,Austria,Austria,,,,,0.0,,,,6.0
+1998,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,0.0,,,,6.0
+1998,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,6.0
+1998,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+1998,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,0.0,,,,6.0
+1998,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,6.0
+1998,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,6.0
+1998,50052,HJK,HJK,HJK,Finland,Finlandia,,,,,0.0,,,,6.0
+1998,50021,BRO,Brøndby,Brøndby,Denmark,Dinamarca,,,,,0.0,,,,6.0
+1999,52268,VAL,Valencia,Valencia,Spain,España,,,,,0.0,,,,17.0
+1999,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,17.0
+1999,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,16.0
+1999,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,16.0
+1999,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,0.0,,,,14.0
+1999,52973,LAZ,Lazio,Lazio,Italy,Italia,,,,,0.0,,,,14.0
+1999,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,14.0
+1999,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,14.0
+1999,5451,HER,Hertha,Hertha,Germany,Alemania,,,,,0.0,,,,12.0
+1999,52817,FIO,Fiorentina,Fiorentina,Italy,Italia,,,,,0.0,,,,12.0
+1999,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,12.0
+1999,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,,,,0.0,,,,12.0
+1999,52748,MAR,Marseille,Marseille,France,Francia,,,,,0.0,,,,12.0
+1999,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,12.0
+1999,50127,BOR,Bordeaux,Bordeaux,France,Francia,,,,,0.0,,,,12.0
+1999,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,0.0,,,,12.0
+1999,57490,MRB,Maribor,Maribor,Slovenia,Eslovenia,,,,,0.0,,,,6.0
+1999,52987,WIL,Willem II,Willem II,Netherlands,Holanda,,,,,0.0,,,,6.0
+1999,52819,BOA,Boavista,Boavista,Portugal,Portugal,,,,,0.0,,,,6.0
+1999,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,0.0,,,,6.0
+1999,52341,AIK,AIK,AIK,Sweden,Suecia,,,,,0.0,,,,6.0
+1999,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,6.0
+1999,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,,,,0.0,,,,6.0
+1999,50142,MOL,Molde,Molde,Norway,Noruega,,,,,0.0,,,,6.0
+1999,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,6.0
+1999,50111,SGR,Sturm Graz,Sturm Graz,Austria,Austria,,,,,0.0,,,,6.0
+1999,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,0.0,,,,6.0
+1999,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+1999,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,0.0,,,,6.0
+1999,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,6.0
+1999,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,6.0
+1999,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,6.0
+2000,52268,VAL,Valencia,Valencia,Spain,España,,,,,0.0,,,,17.0
+2000,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,17.0
+2000,53361,LEE,Leeds,Leeds,England,Inglaterra,,,,,0.0,,,,16.0
+2000,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,16.0
+2000,59044,DEP,Deportivo,Deportivo,Spain,España,,,,,0.0,,,,14.0
+2000,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,14.0
+2000,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,14.0
+2000,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,0.0,,,,14.0
+2000,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,,12.0
+2000,52973,LAZ,Lazio,Lazio,Italy,Italia,,,,,0.0,,,,12.0
+2000,52747,PSG,Paris,Paris,France,Francia,,,,,0.0,,,,12.0
+2000,50111,SGR,Sturm Graz,Sturm Graz,Austria,Austria,,,,,0.0,,,,12.0
+2000,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,0.0,,,,12.0
+2000,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,0.0,,,,12.0
+2000,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,0.0,,,,12.0
+2000,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,12.0
+2000,60401,HEL,Helsingborg,Helsingborg,Sweden,Suecia,,,,,0.0,,,,6.0
+2000,59862,HVN,Heerenveen,Heerenveen,Netherlands,Holanda,,,,,0.0,,,,6.0
+2000,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,6.0
+2000,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2000,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2000,52167,HSV,Hamburg,Hamburg,Germany,Alemania,,,,,0.0,,,,6.0
+2000,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,0.0,,,,6.0
+2000,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,,,,0.0,,,,6.0
+2000,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,,6.0
+2000,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,6.0
+2000,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,0.0,,,,6.0
+2000,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,6.0
+2000,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,6.0
+2000,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,0.0,,,,6.0
+2000,50023,MON,Monaco,Monaco,France,Francia,,,,,0.0,,,,6.0
+2000,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,6.0
+2001,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,0.0,,,,17.0
+2001,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,17.0
+2001,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,16.0
+2001,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,16.0
+2001,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,0.0,,,,14.0
+2001,59044,DEP,Deportivo,Deportivo,Spain,España,,,,,0.0,,,,14.0
+2001,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,0.0,,,,14.0
+2001,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,14.0
+2001,52819,BOA,Boavista,Boavista,Portugal,Portugal,,,,,0.0,,,,12.0
+2001,52693,NAN,Nantes,Nantes,France,Francia,,,,,0.0,,,,12.0
+2001,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,12.0
+2001,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,,12.0
+2001,50137,ROM,Roma,Roma,Italy,Italia,,,,,0.0,,,,12.0
+2001,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,0.0,,,,12.0
+2001,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,12.0
+2001,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,0.0,,,,12.0
+2001,75797,LIL,Lille,Lille,France,Francia,,,,,0.0,,,,6.0
+2001,57388,SCH,Schalke,Schalke,Germany,Alemania,,,,,0.0,,,,6.0
+2001,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,,6.0
+2001,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+2001,53044,MAL,Mallorca,Mallorca,Spain,España,,,,,0.0,,,,6.0
+2001,52973,LAZ,Lazio,Lazio,Italy,Italia,,,,,0.0,,,,6.0
+2001,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,6.0
+2001,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,0.0,,,,6.0
+2001,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,,,,0.0,,,,6.0
+2001,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2001,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,0.0,,,,6.0
+2001,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,0.0,,,,6.0
+2001,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+2001,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,6.0
+2001,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,0.0,,,,6.0
+2001,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,6.0
+2002,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,,17.0
+2002,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,17.0
+2002,50138,INT,Inter,Inter,Italy,Italia,,,,,0.0,,,,16.0
+2002,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,16.0
+2002,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,14.0
+2002,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,14.0
+2002,52268,VAL,Valencia,Valencia,Spain,España,,,,,0.0,,,,14.0
+2002,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,0.0,,,,14.0
+2002,59856,BSL,Basel,Basel,Switzerland,Suiza,,,,,0.0,,,,12.0
+2002,59324,NEW,Newcastle,Newcastle,England,Inglaterra,,,,,0.0,,,,12.0
+2002,59044,DEP,Deportivo,Deportivo,Spain,España,,,,,0.0,,,,12.0
+2002,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,,,,,0.0,,,,12.0
+2002,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,,,,0.0,,,,12.0
+2002,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,12.0
+2002,50137,ROM,Roma,Roma,Italy,Italia,,,,,0.0,,,,12.0
+2002,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,0.0,,,,12.0
+2002,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,0.0,,,,6.0
+2002,61582,GEN,Genk,Genk,Belgium,Bélgica,,,,,0.0,,,,6.0
+2002,59045,MHA,Maccabi Haifa,Maccabi Haifa,Israel,Israel,,,,,0.0,,,,6.0
+2002,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,,6.0
+2002,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,6.0
+2002,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,,,,,0.0,,,,6.0
+2002,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2002,52277,LEN,Lens,Lens,France,Francia,,,,,0.0,,,,6.0
+2002,52269,AJA,Auxerre,Auxerre,France,Francia,,,,,0.0,,,,6.0
+2002,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,0.0,,,,6.0
+2002,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+2002,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,0.0,,,,6.0
+2002,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,6.0
+2002,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,,,,0.0,,,,6.0
+2002,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,6.0
+2002,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,6.0
+2003,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,,,,0.0,,,2.0,6.0
+2003,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,2.0,6.0
+2003,53043,CLT,Celta,Celta,Spain,España,,,,,0.0,,,1.0,8.0
+2003,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,0.0,,,1.0,6.0
+2003,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,13.0
+2003,50023,MON,Monaco,Monaco,France,Francia,,,,,0.0,,,,13.0
+2003,59044,DEP,Deportivo,Deportivo,Spain,España,,,,,0.0,,,,12.0
+2003,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,0.0,,,,12.0
+2003,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,,10.0
+2003,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,10.0
+2003,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,10.0
+2003,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,10.0
+2003,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,,,,,0.0,,,,8.0
+2003,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,8.0
+2003,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,,8.0
+2003,50123,RSO,Real Sociedad,Real Sociedad,Spain,España,,,,,0.0,,,,8.0
+2003,50107,STU,Stuttgart,Stuttgart,Germany,Alemania,,,,,0.0,,,,8.0
+2003,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,8.0
+2003,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,0.0,,,,8.0
+2003,52973,LAZ,Lazio,Lazio,Italy,Italia,,,,,0.0,,,,6.0
+2003,52748,MAR,Marseille,Marseille,France,Francia,,,,,0.0,,,,6.0
+2003,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2003,50162,PRT,Partizan,Partizan,Serbia,Serbia,,,,,0.0,,,,6.0
+2003,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,0.0,,,,6.0
+2003,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,0.0,,,,6.0
+2003,50138,INT,Inter,Inter,Italy,Italia,,,,,0.0,,,,6.0
+2003,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,0.0,,,,6.0
+2003,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,6.0
+2003,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,0.0,,,,6.0
+2003,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,0.0,,,,6.0
+2003,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,6.0
+2003,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,0.0,,,,6.0
+2004,57477,MTA,M. Tel-Aviv,M. Tel-Aviv,Israel,Israel,,,,,0.0,,,5.0,6.0
+2004,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,2.0,10.0
+2004,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,0.0,,,,13.0
+2004,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,13.0
+2004,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,12.0
+2004,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,0.0,,,,12.0
+2004,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,,10.0
+2004,50138,INT,Inter,Inter,Italy,Italia,,,,,0.0,,,,10.0
+2004,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,10.0
+2004,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,8.0
+2004,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,8.0
+2004,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,8.0
+2004,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,,,,0.0,,,,8.0
+2004,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,8.0
+2004,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,8.0
+2004,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,0.0,,,,8.0
+2004,50023,MON,Monaco,Monaco,France,Francia,,,,,0.0,,,,8.0
+2004,59044,DEP,Deportivo,Deportivo,Spain,España,,,,,0.0,,,,6.0
+2004,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+2004,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,6.0
+2004,52747,PSG,Paris,Paris,France,Francia,,,,,0.0,,,,6.0
+2004,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2004,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,0.0,,,,6.0
+2004,52268,VAL,Valencia,Valencia,Spain,España,,,,,0.0,,,,6.0
+2004,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,0.0,,,,6.0
+2004,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,0.0,,,,6.0
+2004,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,0.0,,,,6.0
+2004,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,0.0,,,,6.0
+2004,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,0.0,,,,6.0
+2004,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,6.0
+2004,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2004,50137,ROM,Roma,Roma,Italy,Italia,,,,,0.0,,,,6.0
+2005,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,13.0
+2005,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,13.0
+2005,70691,VIL,Villarreal,Villarreal,Spain,España,,,,,0.0,,,,12.0
+2005,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,12.0
+2005,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,,10.0
+2005,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,0.0,,,,10.0
+2005,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,,10.0
+2005,50138,INT,Inter,Inter,Italy,Italia,,,,,0.0,,,,10.0
+2005,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,0.0,,,,8.0
+2005,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,0.0,,,,8.0
+2005,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,0.0,,,,8.0
+2005,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,8.0
+2005,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,8.0
+2005,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,8.0
+2005,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,0.0,,,,8.0
+2005,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,8.0
+2005,80409,THU,Thun,Thun,Switzerland,Suiza,,,,,0.0,,,,6.0
+2005,75797,LIL,Lille,Lille,France,Francia,,,,,0.0,,,,6.0
+2005,64519,PET,Petržalka,Petržalka,Slovakia,Eslovaquia,,,,,0.0,,,,6.0
+2005,57388,SCH,Schalke,Schalke,Germany,Alemania,,,,,0.0,,,,6.0
+2005,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,6.0
+2005,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,0.0,,,,6.0
+2005,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,6.0
+2005,52265,BET,Real Betis,Real Betis,Spain,España,,,,,0.0,,,,6.0
+2005,51310,UDI,Udinese,Udinese,Italy,Italia,,,,,0.0,,,,6.0
+2005,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,0.0,,,,6.0
+2005,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,0.0,,,,6.0
+2005,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,6.0
+2005,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,,,,,0.0,,,,6.0
+2005,50042,RAP,SK Rapid,SK Rapid,Austria,Austria,,,,,0.0,,,,6.0
+2005,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,,,,,0.0,,,,6.0
+2005,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,6.0
+2006,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,0.0,,,,13.0
+2006,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,13.0
+2006,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,0.0,,,,12.0
+2006,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,12.0
+2006,52268,VAL,Valencia,Valencia,Spain,España,,,,,0.0,,,,10.0
+2006,50137,ROM,Roma,Roma,Italy,Italia,,,,,0.0,,,,10.0
+2006,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,10.0
+2006,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,10.0
+2006,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,0.0,,,,8.0
+2006,75797,LIL,Lille,Lille,France,Francia,,,,,0.0,,,,8.0
+2006,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,,8.0
+2006,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,8.0
+2006,50138,INT,Inter,Inter,Italy,Italia,,,,,0.0,,,,8.0
+2006,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,8.0
+2006,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,8.0
+2006,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,8.0
+2006,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+2006,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2006,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,,,,,0.0,,,,6.0
+2006,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2006,52167,HSV,Hamburg,Hamburg,Germany,Alemania,,,,,0.0,,,,6.0
+2006,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,,,,0.0,,,,6.0
+2006,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,0.0,,,,6.0
+2006,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,,,,,0.0,,,,6.0
+2006,50127,BOR,Bordeaux,Bordeaux,France,Francia,,,,,0.0,,,,6.0
+2006,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,,,,0.0,,,,6.0
+2006,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+2006,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,,,,0.0,,,,6.0
+2006,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,0.0,,,,6.0
+2006,50044,LSO,Levski Sofia,Levski Sofia,Bulgaria,Bulgaria,,,,,0.0,,,,6.0
+2006,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,0.0,,,,6.0
+2006,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,6.0
+2008,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,0.0,,,,13.0
+2008,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,13.0
+2008,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,0.0,,,,12.0
+2008,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,12.0
+2008,57388,SCH,Schalke,Schalke,Germany,Alemania,,,,,0.0,,,,10.0
+2008,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,0.0,,,,10.0
+2008,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,10.0
+2008,50137,ROM,Roma,Roma,Italy,Italia,,,,,0.0,,,,10.0
+2008,52714,SEV,Sevilla,Sevilla,Spain,España,,,,,0.0,,,,8.0
+2008,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,8.0
+2008,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,,8.0
+2008,50138,INT,Inter,Inter,Italy,Italia,,,,,0.0,,,,8.0
+2008,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,8.0
+2008,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,8.0
+2008,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,0.0,,,,8.0
+2008,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,8.0
+2008,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+2008,52973,LAZ,Lazio,Lazio,Italy,Italia,,,,,0.0,,,,6.0
+2008,52806,ROS,Rosenborg,Rosenborg,Norway,Noruega,,,,,0.0,,,,6.0
+2008,52748,MAR,Marseille,Marseille,France,Francia,,,,,0.0,,,,6.0
+2008,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2008,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2008,52498,SLA,Slavia Praha,Slavia Praha,Czechia,Chequia,,,,,0.0,,,,6.0
+2008,52268,VAL,Valencia,Valencia,Spain,España,,,,,0.0,,,,6.0
+2008,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,0.0,,,,6.0
+2008,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,,,,0.0,,,,6.0
+2008,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,0.0,,,,6.0
+2008,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,6.0
+2008,50107,STU,Stuttgart,Stuttgart,Germany,Alemania,,,,,0.0,,,,6.0
+2008,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,0.0,,,,6.0
+2008,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,6.0
+2008,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,0.0,,,,6.0
+2009,52826,ZEN,Zenit,Zenit,Russia,Rusia,,,,,0.0,,,27.0,6.0
+2009,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,13.0,13.0
+2009,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,11.0,8.0
+2009,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,10.0,8.0
+2009,66168,BTE,BATE Borisov,BATE Borisov,Belarus,Bielorrusia,,,,,0.0,,,10.0,6.0
+2009,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,5.0,13.0
+2009,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,2.0,10.0
+2009,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,12.0
+2009,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,0.0,,,,12.0
+2009,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,0.0,,,,10.0
+2009,70691,VIL,Villarreal,Villarreal,Spain,España,,,,,0.0,,,,10.0
+2009,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,10.0
+2009,50137,ROM,Roma,Roma,Italy,Italia,,,,,0.0,,,,8.0
+2009,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,,8.0
+2009,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,,,,0.0,,,,8.0
+2009,50138,INT,Inter,Inter,Italy,Italia,,,,,0.0,,,,8.0
+2009,50124,ATM,Atleti,Atleti,Spain,España,,,,,0.0,,,,8.0
+2009,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,0.0,,,,8.0
+2009,88131,CLU,CFR Cluj,CFR Cluj,Romania,Rumanía,,,,,0.0,,,,6.0
+2009,59856,BSL,Basel,Basel,Switzerland,Suiza,,,,,0.0,,,,6.0
+2009,54186,AAL,AaB,AaB,Denmark,Dinamarca,,,,,0.0,,,,6.0
+2009,52897,ANO,Anorthosis,Anorthosis,Cyprus,Chipre,,,,,0.0,,,,6.0
+2009,52817,FIO,Fiorentina,Fiorentina,Italy,Italia,,,,,0.0,,,,6.0
+2009,52748,MAR,Marseille,Marseille,France,Francia,,,,,0.0,,,,6.0
+2009,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2009,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2009,52692,FEN,Fenerbahçe,Fenerbahçe,Türkiye,Turquía,,,,,0.0,,,,6.0
+2009,50127,BOR,Bordeaux,Bordeaux,France,Francia,,,,,0.0,,,,6.0
+2009,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,,,,0.0,,,,6.0
+2009,50062,PSV,PSV,PSV,Netherlands,Holanda,,,,,0.0,,,,6.0
+2009,50050,CEL,Celtic,Celtic,Scotland,Escocia,,,,,0.0,,,,6.0
+2009,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,0.0,,,,6.0
+2010,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,24.0,13.0
+2010,50138,INT,Inter,Inter,Italy,Italia,,,,,0.0,,,11.0,13.0
+2010,50139,JUV,Juventus,Juventus,Italy,Italia,,,,,0.0,,,9.0,6.0
+2010,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,,12.0
+2010,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,,12.0
+2010,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,,,,0.0,,,,10.0
+2010,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,,10.0
+2010,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,10.0
+2010,50127,BOR,Bordeaux,Bordeaux,France,Francia,,,,,0.0,,,,10.0
+2010,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,0.0,,,,8.0
+2010,52817,FIO,Fiorentina,Fiorentina,Italy,Italia,,,,,0.0,,,,8.0
+2010,52714,SEV,Sevilla,Sevilla,Spain,España,,,,,0.0,,,,8.0
+2010,50107,STU,Stuttgart,Stuttgart,Germany,Alemania,,,,,0.0,,,,8.0
+2010,50064,POR,Porto,Porto,Portugal,Portugal,,,,,0.0,,,,8.0
+2010,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,8.0
+2010,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,8.0
+2010,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,,,,0.0,,,,8.0
+2010,92507,URZ,Unirea Urziceni,Unirea Urziceni,Romania,Rumanía,,,,,0.0,,,,6.0
+2010,82818,RUB,Rubin,Rubin,Russia,Rusia,,,,,0.0,,,,6.0
+2010,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,,,,0.0,,,,6.0
+2010,64332,WOB,Wolfsburg,Wolfsburg,Germany,Alemania,,,,,0.0,,,,6.0
+2010,59045,MHA,Maccabi Haifa,Maccabi Haifa,Israel,Israel,,,,,0.0,,,,6.0
+2010,52958,DEB,Debrecen,Debrecen,Hungary,Hungría,,,,,0.0,,,,6.0
+2010,52748,MAR,Marseille,Marseille,France,Francia,,,,,0.0,,,,6.0
+2010,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,,,,0.0,,,,6.0
+2010,52327,AZ,AZ Alkmaar,AZ Alkmaar,Netherlands,Holanda,,,,,0.0,,,,6.0
+2010,52165,STD,Standard Liège,Standard Liège,Belgium,Bélgica,,,,,0.0,,,,6.0
+2010,51150,ZUR,Zürich,Zürich,Switzerland,Suiza,,,,,0.0,,,,6.0
+2010,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,,,,,0.0,,,,6.0
+2010,50124,ATM,Atleti,Atleti,Spain,España,,,,,0.0,,,,6.0
+2010,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,6.0
+2010,50118,APO,APOEL,APOEL,Cyprus,Chipre,,,,,0.0,,,,6.0
+2011,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,,,,,0.0,1.0,,,8.0
+2011,59869,HTA,H. Tel Aviv,H. Tel Aviv,Israel,Israel,,,,,0.0,,,31.0,6.0
+2011,5312,LYO,Lyon,Lyon,France,Francia,,,,,0.0,,,23.0,8.0
+2011,57388,SCH,Schalke,Schalke,Germany,Alemania,,,,,0.0,,,20.0,12.0
+2011,50080,BAR,Barcelona,Barcelona,Spain,España,,,,,0.0,,,15.0,13.0
+2011,50147,BEN,Benfica,Benfica,Portugal,Portugal,,,,,0.0,,,11.0,6.0
+2011,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,,,,0.0,,,4.0,13.0
+2011,50051,RMA,Real Madrid,Real Madrid,Spain,España,,,,,0.0,,,,12.0
+2011,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,,,,0.0,,,,10.0
+2011,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,,,,0.0,,,,10.0
+2011,50138,INT,Inter,Inter,Italy,Italia,,,,,0.0,,,,10.0
+2011,1652,TOT,Tottenham,Tottenham,England,Inglaterra,,,,,0.0,,,,10.0
+2011,52748,MAR,Marseille,Marseille,France,Francia,,,,,0.0,,,,8.0
+2011,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,,,,0.0,,,,8.0
+2011,52268,VAL,Valencia,Valencia,Spain,España,,,,,0.0,,,,8.0
+2011,50137,ROM,Roma,Roma,Italy,Italia,,,,,0.0,,,,8.0
+2011,50058,MIL,Milan,Milan,Italy,Italia,,,,,0.0,,,,8.0
+2011,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,,,,0.0,,,,8.0
+2011,88131,CLU,CFR Cluj,CFR Cluj,Romania,Rumanía,,,,,0.0,,,,6.0
+2011,82818,RUB,Rubin,Rubin,Russia,Rusia,,,,,0.0,,,,6.0
+2011,61601,ZIL,Žilina,Žilina,Slovakia,Eslovaquia,,,,,0.0,,,,6.0
+2011,59856,BSL,Basel,Basel,Switzerland,Suiza,,,,,0.0,,,,6.0
+2011,52818,TWE,Twente,Twente,Netherlands,Holanda,,,,,0.0,,,,6.0
+2011,52695,BUR,Bursaspor,Bursaspor,Türkiye,Turquía,,,,,0.0,,,,6.0
+2011,52336,BRA,Braga,Braga,Portugal,Portugal,,,,,0.0,,,,6.0
+2011,52269,AJA,Auxerre,Auxerre,France,Francia,,,,,0.0,,,,6.0
+2011,50162,PRT,Partizan,Partizan,Serbia,Serbia,,,,,0.0,,,,6.0
+2011,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,,,,0.0,,,,6.0
+2011,50121,RAN,Rangers,Rangers,Scotland,Escocia,,,,,0.0,,,,6.0
+2011,50084,PAN,Panathinaikos,Panathinaikos,Greece,Grecia,,,,,0.0,,,,6.0
+2011,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,,,,0.0,,,,6.0
+2011,50040,BRM,Bremen,Bremen,Germany,Alemania,,,,,0.0,,,,6.0
+2012,50080,BAR,Barcelona,Barcelona,Spain,España,,9549.0,8555.0,67.42,34.1,88.0,30.0,,12.0
+2012,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,7994.0,6734.0,56.54,26.82,138.0,37.0,21.0,13.0
+2012,50051,RMA,Real Madrid,Real Madrid,Spain,España,,7452.0,6327.0,55.84,26.81,97.0,26.0,,12.0
+2012,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,6512.0,5137.0,46.77,32.19,87.0,28.0,10.0,13.0
+2012,50058,MIL,Milan,Milan,Italy,Italia,,4833.0,4027.0,46.8,52.18,46.0,24.0,,10.0
+2012,50147,BEN,Benfica,Benfica,Portugal,Portugal,,4813.0,3920.0,48.3,25.36,71.0,18.0,12.0,10.0
+2012,5312,LYO,Lyon,Lyon,France,Francia,,4584.0,3965.0,52.0,29.79,47.0,14.0,,8.0
+2012,52748,MAR,Marseille,Marseille,France,Francia,,4439.0,3601.0,48.3,25.0,76.0,19.0,,10.0
+2012,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,4180.0,3606.0,53.63,11.43,35.0,4.0,,8.0
+2012,59856,BSL,Basel,Basel,Switzerland,Suiza,,3982.0,3430.0,50.25,33.34,27.0,9.0,,8.0
+2012,52919,MCI,Man City,Man City,England,Inglaterra,,3946.0,3709.0,57.17,33.34,9.0,3.0,3.0,6.0
+2012,50118,APO,APOEL,APOEL,Cyprus,Chipre,,3944.0,2985.0,40.21,25.0,16.0,4.0,23.0,10.0
+2012,52826,ZEN,Zenit,Zenit,Russia,Rusia,,3871.0,3210.0,51.0,28.27,46.0,13.0,61.0,8.0
+2012,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,3680.0,3439.0,58.17,39.29,28.0,11.0,,6.0
+2012,52268,VAL,Valencia,Valencia,Spain,España,,3558.0,3332.0,60.5,39.29,28.0,11.0,,6.0
+2012,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,3526.0,3323.0,54.34,9.1,22.0,2.0,,6.0
+2012,50138,INT,Inter,Inter,Italy,Italia,,3519.0,2923.0,47.38,28.13,32.0,9.0,16.0,8.0
+2012,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,3495.0,2992.0,44.75,32.0,25.0,8.0,,8.0
+2012,50136,NAP,Napoli,Napoli,Italy,Italia,,3372.0,2713.0,42.88,38.1,21.0,8.0,,8.0
+2012,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,3285.0,2758.0,46.75,20.69,29.0,6.0,,8.0
+2012,75797,LIL,Lille,Lille,France,Francia,,2982.0,2771.0,55.5,20.0,20.0,4.0,13.0,6.0
+2012,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,2894.0,2600.0,51.17,16.67,12.0,2.0,,6.0
+2012,50064,POR,Porto,Porto,Portugal,Portugal,,2837.0,2543.0,53.5,23.08,13.0,3.0,14.0,6.0
+2012,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,2690.0,2435.0,53.67,35.72,14.0,5.0,17.0,6.0
+2012,52731,TRA,Trabzonspor,Trabzonspor,Türkiye,Turquía,,2676.0,2435.0,49.17,16.67,6.0,1.0,,6.0
+2012,70691,VIL,Villarreal,Villarreal,Spain,España,,2631.0,2384.0,43.67,25.0,8.0,2.0,,6.0
+2012,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,2454.0,2201.0,41.17,25.0,8.0,2.0,,6.0
+2012,50151,OTE,Oţelul,Oţelul,Romania,Rumanía,,2341.0,2058.0,40.5,22.23,9.0,2.0,,6.0
+2012,66168,BTE,BATE Borisov,BATE Borisov,Belarus,Bielorrusia,,2265.0,2052.0,42.84,40.0,5.0,2.0,,6.0
+2012,61582,GEN,Genk,Genk,Belgium,Bélgica,,2205.0,1991.0,40.34,41.67,12.0,5.0,,6.0
+2012,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,2200.0,1985.0,47.84,34.79,23.0,8.0,,6.0
+2012,64388,PLZ,Viktoria Plzeň,Viktoria Plzeň,Czechia,Chequia,,1762.0,1558.0,39.34,33.34,18.0,6.0,,6.0
+2013,50080,BAR,Barcelona,Barcelona,Spain,España,,9403.0,7799.0,66.0,20.46,132.0,27.0,2.0,12.0
+2013,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,7591.0,5724.0,53.93,17.89,218.0,39.0,3.0,13.0
+2013,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,6998.0,4624.0,46.08,21.66,157.0,34.0,1.0,13.0
+2013,50051,RMA,Real Madrid,Real Madrid,Spain,España,,6759.0,4907.0,52.84,24.84,149.0,37.0,3.0,12.0
+2013,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,5292.0,3732.0,53.8,17.18,198.0,34.0,3.0,10.0
+2013,52747,PSG,Paris,Paris,France,Francia,,5227.0,3721.0,46.8,30.98,113.0,35.0,7.0,10.0
+2013,50139,JUV,Juventus,Juventus,Italy,Italia,,5173.0,3660.0,47.8,24.36,156.0,38.0,2.0,10.0
+2013,74069,MAL,Málaga,Málaga,Spain,España,,4814.0,3095.0,46.2,18.97,116.0,22.0,1.0,10.0
+2013,50064,POR,Porto,Porto,Portugal,Portugal,,4701.0,3428.0,55.25,20.29,138.0,28.0,3.0,8.0
+2013,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,4480.0,3277.0,50.88,26.42,106.0,28.0,3.0,8.0
+2013,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,4476.0,3264.0,52.38,18.06,144.0,26.0,,8.0
+2013,52268,VAL,Valencia,Valencia,Spain,España,,4353.0,3168.0,51.75,25.2,131.0,33.0,3.0,8.0
+2013,57388,SCH,Schalke,Schalke,Germany,Alemania,,4285.0,3074.0,51.5,13.99,143.0,20.0,1.0,8.0
+2013,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3965.0,2820.0,51.13,17.6,108.0,19.0,,8.0
+2013,50058,MIL,Milan,Milan,Italy,Italia,,3752.0,2487.0,45.88,33.88,124.0,42.0,3.0,8.0
+2013,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,3649.0,2756.0,53.17,18.28,93.0,17.0,,6.0
+2013,52919,MCI,Man City,Man City,England,Inglaterra,,3449.0,2570.0,52.5,18.0,100.0,18.0,,6.0
+2013,50050,CEL,Celtic,Celtic,Scotland,Escocia,,3337.0,2046.0,41.88,21.49,135.0,29.0,2.0,8.0
+2013,52336,BRA,Braga,Braga,Portugal,Portugal,,3176.0,2306.0,51.84,19.33,119.0,23.0,3.0,6.0
+2013,79940,NRS,Nordsjælland,Nordsjælland,Denmark,Dinamarca,,3157.0,2329.0,48.34,18.47,65.0,12.0,,6.0
+2013,50128,MON,Montpellier,Montpellier,France,Francia,,3114.0,2189.0,51.5,15.05,113.0,17.0,1.0,6.0
+2013,52826,ZEN,Zenit,Zenit,Russia,Rusia,,3105.0,2166.0,50.67,17.57,74.0,13.0,1.0,6.0
+2013,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,3088.0,2287.0,50.34,19.65,112.0,22.0,1.0,6.0
+2013,66168,BTE,BATE Borisov,BATE Borisov,Belarus,Bielorrusia,,3033.0,2135.0,46.17,23.26,43.0,10.0,,6.0
+2013,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,3016.0,2127.0,52.17,17.22,122.0,21.0,1.0,6.0
+2013,75797,LIL,Lille,Lille,France,Francia,,2987.0,2039.0,45.84,20.18,114.0,23.0,1.0,6.0
+2013,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,,2895.0,1981.0,45.67,14.29,77.0,11.0,,6.0
+2013,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,,2803.0,1921.0,47.5,28.17,71.0,20.0,,6.0
+2013,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,,2686.0,1747.0,47.5,20.0,85.0,17.0,2.0,6.0
+2013,50147,BEN,Benfica,Benfica,Portugal,Portugal,,2633.0,1636.0,44.84,30.4,125.0,38.0,3.0,6.0
+2013,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,2609.0,1630.0,46.0,20.73,111.0,23.0,2.0,6.0
+2013,88131,CLU,CFR Cluj,CFR Cluj,Romania,Rumanía,,2194.0,1138.0,36.5,13.34,60.0,8.0,,6.0
+2014,50037,BAY,Bayern München,Bayern München,Germany,Alemania,,9575.0,7948.0,64.92,28.91,346.0,100.0,67.0,12.0
+2014,50051,RMA,Real Madrid,Real Madrid,Spain,España,,8480.0,6678.0,51.47,31.09,222.0,69.0,68.0,13.0
+2014,50080,BAR,Barcelona,Barcelona,Spain,España,,8190.0,6912.0,62.5,22.86,210.0,48.0,76.0,10.0
+2014,52747,PSG,Paris,Paris,France,Francia,,7418.0,6191.0,58.0,26.76,157.0,42.0,54.0,10.0
+2014,50124,ATM,Atleti,Atleti,Spain,España,,6833.0,4742.0,45.08,27.42,259.0,71.0,67.0,13.0
+2014,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,6808.0,5135.0,50.67,25.48,157.0,40.0,75.0,12.0
+2014,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,5619.0,4003.0,48.5,21.74,161.0,35.0,39.0,10.0
+2014,52682,MUN,Man Utd,Man Utd,England,Inglaterra,,5556.0,4066.0,47.8,24.72,178.0,44.0,28.0,10.0
+2014,52826,ZEN,Zenit,Zenit,Russia,Rusia,,5154.0,3885.0,55.13,20.55,146.0,30.0,35.0,8.0
+2014,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,4889.0,3763.0,48.13,26.32,114.0,30.0,22.0,8.0
+2014,57388,SCH,Schalke,Schalke,Germany,Alemania,,4856.0,3764.0,48.38,23.57,157.0,37.0,15.0,8.0
+2014,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,4520.0,3323.0,51.5,27.03,111.0,30.0,36.0,8.0
+2014,52919,MCI,Man City,Man City,England,Inglaterra,,4370.0,3337.0,48.25,38.98,136.0,53.0,22.0,8.0
+2014,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,4288.0,3143.0,46.38,25.31,166.0,42.0,20.0,8.0
+2014,50058,MIL,Milan,Milan,Italy,Italia,,4057.0,2982.0,45.25,31.39,137.0,43.0,26.0,8.0
+2014,50064,POR,Porto,Porto,Portugal,Portugal,,3715.0,2795.0,58.5,37.37,190.0,71.0,2.0,6.0
+2014,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,3659.0,2853.0,53.67,22.06,136.0,30.0,1.0,6.0
+2014,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,3657.0,2549.0,47.38,27.98,143.0,40.0,22.0,8.0
+2014,50139,JUV,Juventus,Juventus,Italy,Italia,,3544.0,2722.0,52.34,29.27,123.0,36.0,,6.0
+2014,59856,BSL,Basel,Basel,Switzerland,Suiza,,3463.0,2524.0,50.84,18.61,86.0,16.0,1.0,6.0
+2014,50136,NAP,Napoli,Napoli,Italy,Italia,,3425.0,2524.0,50.0,17.34,75.0,13.0,2.0,6.0
+2014,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3220.0,2367.0,50.5,28.21,117.0,33.0,,6.0
+2014,50123,RSO,Real Sociedad,Real Sociedad,Spain,España,,3198.0,2274.0,49.67,26.48,136.0,36.0,3.0,6.0
+2014,50065,FCSB,FCSB,FCSB,Romania,Rumanía,,3194.0,2213.0,45.17,28.58,84.0,24.0,,6.0
+2014,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,,3185.0,2341.0,43.67,20.0,65.0,13.0,2.0,6.0
+2014,50147,BEN,Benfica,Benfica,Portugal,Portugal,,3175.0,2353.0,48.34,37.94,116.0,44.0,2.0,6.0
+2014,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,3073.0,2261.0,42.0,26.2,84.0,22.0,,6.0
+2014,52748,MAR,Marseille,Marseille,France,Francia,,2988.0,2149.0,46.67,29.42,102.0,30.0,1.0,6.0
+2014,50110,AUS,Austria Wien,Austria Wien,Austria,Austria,,2819.0,1820.0,40.0,26.59,79.0,21.0,1.0,6.0
+2014,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,2786.0,1923.0,44.67,22.73,154.0,35.0,,6.0
+2014,64388,PLZ,Viktoria Plzeň,Viktoria Plzeň,Czechia,Chequia,,2736.0,1900.0,44.17,33.34,114.0,38.0,1.0,6.0
+2014,50050,CEL,Celtic,Celtic,Scotland,Escocia,,2508.0,1701.0,41.0,23.81,126.0,30.0,2.0,6.0
+2015,50051,RMA,Real Madrid,Real Madrid,Spain,España,90.0,6795.0,6120.0,56.0,24.93,333.0,83.0,126.0,12.0
+2015,50037,BAY,Bayern München,Bayern München,Germany,Alemania,88.0,8027.0,7244.0,60.84,31.77,255.0,81.0,142.0,12.0
+2015,50080,BAR,Barcelona,Barcelona,Spain,España,86.5,8419.0,7606.0,59.39,20.52,195.0,40.0,163.0,13.0
+2015,50139,JUV,Juventus,Juventus,Italy,Italia,86.0,6442.0,5680.0,53.85,23.37,244.0,57.0,155.0,13.0
+2015,52747,PSG,Paris,Paris,France,Francia,,5367.0,4867.0,48.8,25.62,203.0,52.0,91.0,10.0
+2015,50064,POR,Porto,Porto,Portugal,Portugal,,4984.0,4393.0,56.0,21.25,160.0,34.0,132.0,10.0
+2015,52914,CHE,Chelsea,Chelsea,England,Inglaterra,,4249.0,3839.0,53.25,27.05,159.0,43.0,77.0,8.0
+2015,52280,ARS,Arsenal,Arsenal,England,Inglaterra,,4145.0,3688.0,53.88,20.72,140.0,29.0,57.0,8.0
+2015,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,,4032.0,3498.0,51.25,21.34,150.0,32.0,62.0,8.0
+2015,52919,MCI,Man City,Man City,England,Inglaterra,,4004.0,3523.0,48.25,18.58,140.0,26.0,69.0,8.0
+2015,57388,SCH,Schalke,Schalke,Germany,Alemania,,3787.0,3411.0,50.75,18.91,164.0,31.0,66.0,8.0
+2015,50023,MON,Monaco,Monaco,France,Francia,,3356.0,2768.0,46.4,19.69,193.0,38.0,79.0,10.0
+2015,50124,ATM,Atleti,Atleti,Spain,España,,3329.0,2771.0,45.3,27.45,266.0,73.0,86.0,10.0
+2015,59856,BSL,Basel,Basel,Switzerland,Suiza,,3303.0,2842.0,45.88,20.57,107.0,22.0,69.0,8.0
+2015,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,,3183.0,2766.0,48.75,24.77,105.0,26.0,77.0,8.0
+2015,50143,AJX,Ajax,Ajax,Netherlands,Holanda,,3177.0,2875.0,53.17,20.38,108.0,22.0,62.0,6.0
+2015,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,,3122.0,2443.0,50.88,23.28,116.0,27.0,44.0,8.0
+2015,7889,LIV,Liverpool,Liverpool,England,Inglaterra,,2878.0,2530.0,49.17,21.63,111.0,24.0,44.0,6.0
+2015,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,,2866.0,2544.0,52.34,20.72,140.0,29.0,71.0,6.0
+2015,50137,ROM,Roma,Roma,Italy,Italia,,2858.0,2562.0,48.0,16.13,62.0,10.0,52.0,6.0
+2015,52826,ZEN,Zenit,Zenit,Russia,Rusia,,2650.0,2216.0,52.17,18.61,86.0,16.0,66.0,6.0
+2015,2603104,LUD,Ludogorets,Ludogorets,Bulgaria,Bulgaria,,2528.0,2213.0,48.5,16.81,119.0,20.0,67.0,6.0
+2015,50125,ATH,Athletic Club,Athletic Club,Spain,España,,2407.0,1956.0,49.34,17.78,135.0,24.0,65.0,6.0
+2015,50147,BEN,Benfica,Benfica,Portugal,Portugal,,2355.0,1885.0,50.67,31.54,111.0,35.0,83.0,6.0
+2015,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,,2316.0,2031.0,49.0,23.58,140.0,33.0,65.0,6.0
+2015,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,,2254.0,1908.0,36.67,20.59,68.0,14.0,46.0,6.0
+2015,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,,2201.0,1937.0,48.0,20.17,119.0,24.0,58.0,6.0
+2015,57490,MRB,Maribor,Maribor,Slovenia,Eslovenia,,2114.0,1822.0,43.17,17.81,73.0,13.0,49.0,6.0
+2015,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,,2020.0,1753.0,44.5,20.73,111.0,23.0,41.0,6.0
+2015,50152,MAL,Malmö,Malmö,Sweden,Suecia,,1870.0,1576.0,43.5,25.0,92.0,23.0,46.0,6.0
+2015,50118,APO,APOEL,APOEL,Cyprus,Chipre,,1782.0,1470.0,33.34,16.91,71.0,12.0,37.0,6.0
+2015,66168,BTE,BATE Borisov,BATE Borisov,Belarus,Bielorrusia,,1640.0,1264.0,38.17,22.96,61.0,14.0,34.0,6.0
+2016,50037,BAY,Bayern München,Bayern München,Germany,Alemania,90.9,8887.0,8099.0,67.17,25.32,320.0,81.0,153.0,12.0
+2016,52747,PSG,Paris,Paris,France,Francia,90.63,7215.0,6551.0,59.6,27.84,212.0,59.0,149.0,10.0
+2016,50051,RMA,Real Madrid,Real Madrid,Spain,España,89.46,8105.0,7298.0,53.54,25.18,286.0,72.0,179.0,13.0
+2016,50080,BAR,Barcelona,Barcelona,Spain,España,89.25,7157.0,6381.0,65.41,25.17,151.0,38.0,162.0,10.0
+2016,50064,POR,Porto,Porto,Portugal,Portugal,87.75,2971.0,2567.0,53.34,26.42,106.0,28.0,89.0,6.0
+2016,52682,MUN,Man Utd,Man Utd,England,Inglaterra,87.0,3513.0,3081.0,60.0,24.63,134.0,33.0,65.0,6.0
+2016,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,86.75,3282.0,2879.0,53.5,25.99,127.0,33.0,84.0,6.0
+2016,50139,JUV,Juventus,Juventus,Italy,Italia,86.43,3214.0,2806.0,43.38,26.52,132.0,35.0,128.0,8.0
+2016,5312,LYO,Lyon,Lyon,France,Francia,85.75,3006.0,2604.0,53.5,18.05,133.0,24.0,99.0,6.0
+2016,52919,MCI,Man City,Man City,England,Inglaterra,85.73,5756.0,4968.0,47.75,25.62,203.0,52.0,150.0,12.0
+2016,52714,SEV,Sevilla,Sevilla,Spain,España,85.6,2948.0,2525.0,53.5,19.02,163.0,31.0,74.0,6.0
+2016,52914,CHE,Chelsea,Chelsea,England,Inglaterra,85.0,3582.0,3068.0,49.0,19.38,129.0,25.0,139.0,8.0
+2016,4608,GNT,Gent,Gent,Belgium,Bélgica,84.84,3868.0,3284.0,52.63,27.34,139.0,38.0,135.0,8.0
+2016,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,84.84,3732.0,3178.0,52.38,12.98,131.0,17.0,122.0,8.0
+2016,64332,WOB,Wolfsburg,Wolfsburg,Germany,Alemania,84.38,4672.0,3977.0,48.3,26.55,162.0,43.0,136.0,10.0
+2016,52757,MON,Mönchengladbach,Mönchengladbach,Germany,Alemania,84.2,2937.0,2492.0,48.0,16.67,48.0,8.0,55.0,6.0
+2016,50062,PSV,PSV,PSV,Netherlands,Holanda,83.58,3472.0,2901.0,49.38,18.92,111.0,21.0,82.0,8.0
+2016,52268,VAL,Valencia,Valencia,Spain,España,83.25,2785.0,2356.0,51.17,23.36,167.0,39.0,112.0,6.0
+2016,57477,MTA,M. Tel-Aviv,M. Tel-Aviv,Israel,Israel,83.0,2309.0,1926.0,42.84,28.79,66.0,19.0,87.0,6.0
+2016,50137,ROM,Roma,Roma,Italy,Italia,82.67,3145.0,2619.0,43.88,16.56,145.0,24.0,115.0,8.0
+2016,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,82.5,2856.0,2335.0,52.67,29.63,81.0,24.0,72.0,6.0
+2016,52826,ZEN,Zenit,Zenit,Russia,Rusia,82.34,2911.0,2422.0,43.88,23.86,109.0,26.0,132.0,8.0
+2016,50124,ATM,Atleti,Atleti,Spain,España,81.67,6086.0,5126.0,46.16,23.39,278.0,65.0,178.0,13.0
+2016,52280,ARS,Arsenal,Arsenal,England,Inglaterra,81.5,3530.0,2981.0,45.25,29.63,135.0,40.0,84.0,8.0
+2016,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,81.5,2003.0,1600.0,43.0,16.67,108.0,18.0,82.0,6.0
+2016,50147,BEN,Benfica,Benfica,Portugal,Portugal,81.45,4511.0,3741.0,50.1,18.87,159.0,30.0,170.0,10.0
+2016,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,81.0,2826.0,2339.0,49.34,24.47,94.0,23.0,71.0,6.0
+2016,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,80.75,2205.0,1799.0,41.5,16.89,77.0,13.0,63.0,6.0
+2016,2600605,AST,Astana,Astana,Kazakhstan,Kazajstán,77.75,2108.0,1667.0,43.0,30.87,81.0,25.0,61.0,6.0
+2016,50152,MAL,Malmö,Malmö,Sweden,Suecia,77.5,1963.0,1522.0,35.34,16.4,61.0,10.0,71.0,6.0
+2016,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,76.6,2399.0,1911.0,39.67,21.82,55.0,12.0,100.0,6.0
+2016,66168,BTE,BATE Borisov,BATE Borisov,Belarus,Bielorrusia,71.0,1813.0,1311.0,38.5,15.39,39.0,6.0,66.0,6.0
+2017,50037,BAY,Bayern München,Bayern München,Germany,Alemania,90.9,7209.0,6568.0,63.2,27.1,262.0,71.0,82.0,10.0
+2017,50080,BAR,Barcelona,Barcelona,Spain,España,88.9,6692.0,5974.0,62.1,20.96,167.0,35.0,127.0,10.0
+2017,50051,RMA,Real Madrid,Real Madrid,Spain,España,88.7,7692.0,6838.0,53.47,27.76,299.0,83.0,175.0,13.0
+2017,52747,PSG,Paris,Paris,France,Francia,88.13,4693.0,4201.0,54.0,23.85,151.0,36.0,98.0,8.0
+2017,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,87.9,6294.0,5534.0,60.1,21.72,175.0,38.0,108.0,10.0
+2017,50136,NAP,Napoli,Napoli,Italy,Italia,87.63,4735.0,4161.0,50.25,18.46,168.0,31.0,104.0,8.0
+2017,5312,LYO,Lyon,Lyon,France,Francia,87.5,3056.0,2691.0,51.84,19.66,117.0,23.0,51.0,6.0
+2017,52919,MCI,Man City,Man City,England,Inglaterra,86.75,4338.0,3805.0,55.5,18.31,142.0,26.0,97.0,8.0
+2017,50139,JUV,Juventus,Juventus,Italy,Italia,86.7,7112.0,6246.0,52.7,29.81,255.0,76.0,172.0,13.0
+2017,52280,ARS,Arsenal,Arsenal,England,Inglaterra,86.25,4320.0,3759.0,47.5,28.83,111.0,32.0,76.0,8.0
+2017,2603104,LUD,Ludogorets,Ludogorets,Bulgaria,Bulgaria,86.0,2806.0,2421.0,47.17,20.32,64.0,13.0,102.0,6.0
+2017,50062,PSV,PSV,PSV,Netherlands,Holanda,86.0,2693.0,2323.0,46.0,25.27,95.0,24.0,38.0,6.0
+2017,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,85.84,2877.0,2480.0,52.5,16.83,107.0,18.0,86.0,6.0
+2017,52714,SEV,Sevilla,Sevilla,Spain,España,85.75,4404.0,3830.0,58.38,16.99,159.0,27.0,90.0,8.0
+2017,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,85.17,2785.0,2374.0,50.0,20.59,102.0,21.0,65.0,6.0
+2017,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,85.0,2953.0,2521.0,47.67,32.18,115.0,37.0,75.0,6.0
+2017,50050,CEL,Celtic,Celtic,Scotland,Escocia,85.0,2781.0,2377.0,45.17,21.43,56.0,12.0,59.0,6.0
+2017,1652,TOT,Tottenham,Tottenham,England,Inglaterra,84.84,3589.0,3061.0,60.84,25.41,122.0,31.0,52.0,6.0
+2017,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,84.0,2628.0,2219.0,48.67,22.59,93.0,21.0,61.0,6.0
+2017,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,83.84,2958.0,2480.0,52.34,33.05,115.0,38.0,64.0,6.0
+2017,50064,POR,Porto,Porto,Portugal,Portugal,83.75,3718.0,3146.0,50.63,19.24,156.0,30.0,94.0,8.0
+2017,52757,MON,Mönchengladbach,Mönchengladbach,Germany,Alemania,83.17,2666.0,2218.0,38.84,16.08,56.0,9.0,46.0,6.0
+2017,59856,BSL,Basel,Basel,Switzerland,Suiza,83.0,2570.0,2144.0,43.0,22.14,122.0,27.0,62.0,6.0
+2017,50147,BEN,Benfica,Benfica,Portugal,Portugal,82.38,3392.0,2819.0,45.13,20.59,102.0,21.0,77.0,8.0
+2017,50146,LEG,Legia Warszawa,Legia Warszawa,Poland,Polonia,82.17,2284.0,1890.0,40.34,21.96,82.0,18.0,63.0,6.0
+2017,50124,ATM,Atleti,Atleti,Spain,España,81.42,5794.0,4816.0,48.42,21.64,208.0,45.0,80.0,12.0
+2017,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,80.0,1949.0,1570.0,36.0,20.0,55.0,11.0,60.0,6.0
+2017,50023,MON,Monaco,Monaco,France,Francia,79.67,4801.0,3874.0,46.92,21.87,279.0,61.0,127.0,12.0
+2017,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,77.75,3731.0,2935.0,50.25,16.0,125.0,20.0,65.0,8.0
+2017,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,75.5,2233.0,1696.0,40.34,23.95,71.0,17.0,44.0,6.0
+2017,53577,LEI,Leicester,Leicester,England,Inglaterra,75.2,3403.0,2584.0,40.9,15.29,157.0,24.0,43.0,10.0
+2017,64500,ROS,Rostov,Rostov,Russia,Rusia,71.0,1812.0,1312.0,36.0,19.52,41.0,8.0,32.0,6.0
+2018,52919,MCI,Man City,Man City,England,Inglaterra,89.5,7852.0,7043.0,62.8,24.53,159.0,39.0,113.0,10.0
+2018,52747,PSG,Paris,Paris,France,Francia,89.38,4872.0,4372.0,51.75,16.54,127.0,21.0,117.0,8.0
+2018,50051,RMA,Real Madrid,Real Madrid,Spain,España,89.24,8108.0,7253.0,54.62,24.63,333.0,82.0,179.0,13.0
+2018,50080,BAR,Barcelona,Barcelona,Spain,España,88.7,7077.0,6319.0,61.0,17.7,130.0,23.0,157.0,10.0
+2018,50136,NAP,Napoli,Napoli,Italy,Italia,87.84,3668.0,3222.0,50.34,18.81,117.0,22.0,89.0,6.0
+2018,50037,BAY,Bayern München,Bayern München,Germany,Alemania,87.5,7171.0,6276.0,56.84,25.8,376.0,97.0,170.0,12.0
+2018,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,87.34,3774.0,3317.0,56.84,22.73,132.0,30.0,78.0,6.0
+2018,50050,CEL,Celtic,Celtic,Scotland,Escocia,87.34,2922.0,2557.0,46.34,25.5,51.0,13.0,75.0,6.0
+2018,50124,ATM,Atleti,Atleti,Spain,España,86.0,3085.0,2653.0,50.34,24.8,125.0,31.0,74.0,6.0
+2018,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,85.88,3974.0,3412.0,49.38,27.37,95.0,26.0,130.0,8.0
+2018,50139,JUV,Juventus,Juventus,Italy,Italia,85.7,5067.0,4389.0,49.3,27.17,162.0,44.0,158.0,10.0
+2018,52914,CHE,Chelsea,Chelsea,England,Inglaterra,85.63,3986.0,3433.0,47.0,25.0,112.0,28.0,86.0,8.0
+2018,52682,MUN,Man Utd,Man Utd,England,Inglaterra,85.38,4723.0,4053.0,55.0,24.29,140.0,34.0,92.0,8.0
+2018,52714,SEV,Sevilla,Sevilla,Spain,España,84.8,6056.0,5179.0,55.5,18.91,201.0,38.0,141.0,10.0
+2018,50147,BEN,Benfica,Benfica,Portugal,Portugal,84.67,3399.0,2905.0,54.5,21.65,134.0,29.0,107.0,6.0
+2018,1652,TOT,Tottenham,Tottenham,England,Inglaterra,84.38,4021.0,3438.0,50.13,21.28,141.0,30.0,109.0,8.0
+2018,50137,ROM,Roma,Roma,Italy,Italia,84.09,5856.0,4949.0,50.84,27.17,254.0,69.0,186.0,12.0
+2018,50068,SPM,Spartak Moskva,Spartak Moskva,Russia,Rusia,83.84,2829.0,2401.0,47.0,21.18,85.0,18.0,80.0,6.0
+2018,60609,QAR,Qarabağ,Qarabağ,Azerbaijan,Azerbaiyán,83.5,2794.0,2354.0,46.0,21.63,37.0,8.0,76.0,6.0
+2018,57490,MRB,Maribor,Maribor,Slovenia,Eslovenia,82.34,2219.0,1833.0,37.34,32.76,58.0,19.0,68.0,6.0
+2018,7889,LIV,Liverpool,Liverpool,England,Inglaterra,81.62,6847.0,5741.0,50.24,22.18,239.0,53.0,165.0,13.0
+2018,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,81.17,2441.0,2000.0,43.84,26.39,72.0,19.0,102.0,6.0
+2018,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,80.67,3043.0,2449.0,54.0,14.29,105.0,15.0,96.0,6.0
+2018,50074,AND,Anderlecht,Anderlecht,Belgium,Bélgica,80.67,2809.0,2336.0,44.17,30.34,89.0,27.0,74.0,6.0
+2018,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,79.84,2299.0,1876.0,40.17,16.87,83.0,14.0,88.0,6.0
+2018,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,79.67,2473.0,2000.0,42.34,13.76,80.0,11.0,94.0,6.0
+2018,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,79.5,2649.0,2111.0,45.17,35.0,60.0,21.0,77.0,6.0
+2018,50064,POR,Porto,Porto,Portugal,Portugal,79.13,3351.0,2677.0,46.38,30.84,120.0,37.0,110.0,8.0
+2018,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,78.75,3329.0,2657.0,49.13,20.16,129.0,26.0,141.0,8.0
+2018,50118,APO,APOEL,APOEL,Cyprus,Chipre,78.0,1885.0,1485.0,36.34,29.63,54.0,16.0,84.0,6.0
+2018,59856,BSL,Basel,Basel,Switzerland,Suiza,77.5,2988.0,2314.0,39.75,21.69,83.0,18.0,96.0,8.0
+2018,50023,MON,Monaco,Monaco,France,Francia,76.84,2412.0,1866.0,47.17,21.43,140.0,30.0,101.0,6.0
+2019,52919,MCI,Man City,Man City,England,Inglaterra,90.1,6554.0,5907.0,60.1,26.91,171.0,46.0,77.0,10.0
+2019,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,89.75,5805.0,5231.0,58.63,23.15,108.0,25.0,75.0,8.0
+2019,52747,PSG,Paris,Paris,France,Francia,88.75,4913.0,4372.0,57.88,20.97,124.0,26.0,111.0,8.0
+2019,50080,BAR,Barcelona,Barcelona,Spain,España,88.5,8336.0,7403.0,58.25,15.56,135.0,21.0,171.0,12.0
+2019,50051,RMA,Real Madrid,Real Madrid,Spain,España,87.25,5301.0,4648.0,59.63,20.3,202.0,41.0,93.0,8.0
+2019,50037,BAY,Bayern München,Bayern München,Germany,Alemania,86.88,4751.0,4146.0,57.0,22.82,149.0,34.0,79.0,8.0
+2019,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,86.5,3082.0,2669.0,49.5,22.96,61.0,14.0,85.0,6.0
+2019,50139,JUV,Juventus,Juventus,Italy,Italia,86.0,5400.0,4676.0,55.3,25.9,224.0,58.0,122.0,10.0
+2019,52682,MUN,Man Utd,Man Utd,England,Inglaterra,85.5,4680.0,4026.0,45.6,16.87,172.0,29.0,89.0,10.0
+2019,50136,NAP,Napoli,Napoli,Italy,Italia,84.84,3998.0,3415.0,54.0,25.46,110.0,28.0,69.0,6.0
+2019,52268,VAL,Valencia,Valencia,Spain,España,84.34,2874.0,2430.0,50.0,25.78,97.0,25.0,102.0,6.0
+2019,5312,LYO,Lyon,Lyon,France,Francia,84.25,3732.0,3167.0,45.5,21.6,88.0,19.0,96.0,8.0
+2019,50023,MON,Monaco,Monaco,France,Francia,84.17,2842.0,2397.0,46.67,17.76,107.0,19.0,69.0,6.0
+2019,1652,TOT,Tottenham,Tottenham,England,Inglaterra,83.7,6651.0,5601.0,51.39,27.85,255.0,71.0,128.0,13.0
+2019,2600431,HOF,Hoffenheim,Hoffenheim,Germany,Alemania,82.67,2565.0,2145.0,45.67,26.37,110.0,29.0,51.0,6.0
+2019,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,82.34,2853.0,2382.0,53.84,16.67,102.0,17.0,80.0,6.0
+2019,50143,AJX,Ajax,Ajax,Netherlands,Holanda,82.25,6159.0,5110.0,52.75,26.39,163.0,43.0,117.0,12.0
+2019,50137,ROM,Roma,Roma,Italy,Italia,82.25,3853.0,3220.0,48.5,26.9,145.0,39.0,79.0,8.0
+2019,50138,INT,Inter,Inter,Italy,Italia,82.17,2926.0,2420.0,47.84,29.04,124.0,36.0,77.0,6.0
+2019,50147,BEN,Benfica,Benfica,Portugal,Portugal,82.17,2642.0,2176.0,44.0,27.59,87.0,24.0,59.0,6.0
+2019,50124,ATM,Atleti,Atleti,Spain,España,81.63,4025.0,3340.0,48.63,21.33,136.0,29.0,61.0,8.0
+2019,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,81.34,2548.0,2086.0,41.0,21.84,87.0,19.0,46.0,6.0
+2019,50031,YB,Young Boys,Young Boys,Switzerland,Suiza,80.84,2439.0,1974.0,43.17,20.0,115.0,23.0,63.0,6.0
+2019,54266,CSM,CSKA Moskva,CSKA Moskva,Russia,Rusia,80.5,2516.0,2035.0,46.34,15.67,83.0,13.0,51.0,6.0
+2019,7889,LIV,Liverpool,Liverpool,England,Inglaterra,80.24,6833.0,5538.0,50.47,24.71,255.0,63.0,134.0,13.0
+2019,50129,AEK,AEK Athens,AEK Athens,Greece,Grecia,79.67,2282.0,1849.0,42.34,20.59,68.0,14.0,56.0,6.0
+2019,64388,PLZ,Viktoria Plzeň,Viktoria Plzeň,Czechia,Chequia,79.67,2243.0,1788.0,41.0,29.77,84.0,25.0,75.0,6.0
+2019,50064,POR,Porto,Porto,Portugal,Portugal,79.6,4633.0,3720.0,53.5,24.2,186.0,45.0,136.0,10.0
+2019,57388,SCH,Schalke,Schalke,Germany,Alemania,78.88,3006.0,2395.0,44.38,22.5,120.0,27.0,69.0,8.0
+2019,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,77.34,2476.0,1916.0,45.17,21.22,66.0,14.0,62.0,6.0
+2019,50062,PSV,PSV,PSV,Netherlands,Holanda,74.67,1931.0,1465.0,37.34,23.08,78.0,18.0,42.0,6.0
+2019,50069,ZVE,Crvena Zvezda,Crvena Zvezda,Serbia,Serbia,73.84,1948.0,1458.0,35.17,16.67,66.0,11.0,60.0,6.0
+2020,50080,BAR,Barcelona,Barcelona,Spain,España,88.34,5880.0,5200.0,55.67,23.38,77.0,18.0,151.0,9.0
+2020,52919,MCI,Man City,Man City,England,Inglaterra,88.0,6205.0,5473.0,59.67,20.38,162.0,33.0,93.0,9.0
+2020,50037,BAY,Bayern München,Bayern München,Germany,Alemania,87.64,7311.0,6405.0,61.37,25.21,246.0,62.0,127.0,11.0
+2020,50139,JUV,Juventus,Juventus,Italy,Italia,87.63,5203.0,4560.0,57.5,19.08,173.0,33.0,133.0,8.0
+2020,50051,RMA,Real Madrid,Real Madrid,Spain,España,86.75,5152.0,4481.0,53.5,21.36,103.0,22.0,108.0,8.0
+2020,52747,PSG,Paris,Paris,France,Francia,86.46,6472.0,5627.0,52.82,19.59,97.0,19.0,214.0,11.0
+2020,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,85.67,3265.0,2812.0,51.17,13.21,53.0,7.0,118.0,6.0
+2020,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,85.38,4869.0,4170.0,49.63,27.17,81.0,22.0,105.0,8.0
+2020,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,85.34,3998.0,3421.0,56.84,18.85,138.0,26.0,78.0,6.0
+2020,7889,LIV,Liverpool,Liverpool,England,Inglaterra,84.75,6064.0,5134.0,62.38,23.73,215.0,51.0,102.0,8.0
+2020,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,84.7,6167.0,5229.0,54.9,26.24,202.0,53.0,122.0,10.0
+2020,52914,CHE,Chelsea,Chelsea,England,Inglaterra,84.38,4118.0,3483.0,50.5,29.77,168.0,50.0,90.0,8.0
+2020,50136,NAP,Napoli,Napoli,Italy,Italia,83.75,4061.0,3438.0,48.5,23.39,124.0,29.0,109.0,8.0
+2020,52816,ATA,Atalanta,Atalanta,Italy,Italia,82.67,4129.0,3431.0,47.23,26.62,124.0,33.0,129.0,9.0
+2020,50147,BEN,Benfica,Benfica,Portugal,Portugal,82.5,3058.0,2536.0,48.17,17.53,97.0,17.0,84.0,6.0
+2020,50138,INT,Inter,Inter,Italy,Italia,82.5,2759.0,2279.0,44.67,25.43,59.0,15.0,98.0,6.0
+2020,1652,TOT,Tottenham,Tottenham,England,Inglaterra,82.25,4192.0,3480.0,50.25,22.94,109.0,25.0,111.0,8.0
+2020,52268,VAL,Valencia,Valencia,Spain,España,81.25,3663.0,3001.0,49.75,24.4,123.0,30.0,175.0,8.0
+2020,52498,SLA,Slavia Praha,Slavia Praha,Czechia,Chequia,80.67,3030.0,2450.0,48.5,29.04,93.0,27.0,76.0,6.0
+2020,50143,AJX,Ajax,Ajax,Netherlands,Holanda,80.17,3192.0,2575.0,53.0,22.62,84.0,19.0,81.0,6.0
+2020,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,80.0,2456.0,1984.0,46.34,37.08,89.0,33.0,87.0,6.0
+2020,5312,LYO,Lyon,Lyon,France,Francia,79.6,4536.0,3645.0,45.5,18.13,171.0,31.0,130.0,10.0
+2020,50124,ATM,Atleti,Atleti,Spain,España,79.34,4259.0,3437.0,45.78,17.89,151.0,27.0,135.0,9.0
+2020,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,79.17,2913.0,2311.0,46.67,20.0,65.0,13.0,93.0,6.0
+2020,75797,LIL,Lille,Lille,France,Francia,78.84,2462.0,1951.0,44.17,21.0,100.0,21.0,65.0,6.0
+2020,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,77.84,2445.0,1921.0,44.34,24.14,87.0,21.0,73.0,6.0
+2020,52826,ZEN,Zenit,Zenit,Russia,Rusia,77.84,2404.0,1876.0,43.17,28.27,92.0,26.0,67.0,6.0
+2020,50030,SAL,Salzburg,Salzburg,Austria,Austria,76.67,2652.0,2040.0,44.5,25.68,74.0,19.0,47.0,6.0
+2020,50069,ZVE,Crvena Zvezda,Crvena Zvezda,Serbia,Serbia,76.34,2132.0,1656.0,39.67,29.24,65.0,19.0,89.0,6.0
+2020,61582,GEN,Genk,Genk,Belgium,Bélgica,75.67,2376.0,1815.0,44.5,23.08,104.0,24.0,92.0,6.0
+2020,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,74.67,2027.0,1529.0,37.17,21.57,51.0,11.0,95.0,6.0
+2020,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,71.84,2027.0,1481.0,38.67,15.69,51.0,8.0,77.0,6.0
+2021,50080,BAR,Barcelona,Barcelona,Spain,España,91.0,6136.0,5581.0,57.75,23.24,99.0,23.0,108.0,8.0
+2021,52919,MCI,Man City,Man City,England,Inglaterra,89.24,9141.0,8168.0,58.08,18.78,213.0,40.0,127.0,13.0
+2021,50139,JUV,Juventus,Juventus,Italy,Italia,88.0,5166.0,4545.0,54.38,33.76,157.0,53.0,101.0,8.0
+2021,50051,RMA,Real Madrid,Real Madrid,Spain,España,87.67,8092.0,7113.0,56.92,26.58,207.0,55.0,153.0,12.0
+2021,50037,BAY,Bayern München,Bayern München,Germany,Alemania,86.0,6242.0,5377.0,59.8,21.03,214.0,45.0,149.0,10.0
+2021,52714,SEV,Sevilla,Sevilla,Spain,España,85.75,4843.0,4168.0,58.63,25.26,194.0,49.0,132.0,8.0
+2021,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,85.34,3085.0,2639.0,47.34,9.38,32.0,3.0,99.0,6.0
+2021,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,85.34,2903.0,2485.0,44.5,32.4,71.0,23.0,74.0,6.0
+2021,52747,PSG,Paris,Paris,France,Francia,85.25,5998.0,5151.0,49.09,16.46,158.0,26.0,196.0,12.0
+2021,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,85.0,5834.0,5034.0,49.4,22.04,118.0,26.0,111.0,10.0
+2021,52914,CHE,Chelsea,Chelsea,England,Inglaterra,84.85,7155.0,6101.0,51.0,19.42,170.0,33.0,164.0,13.0
+2021,50138,INT,Inter,Inter,Italy,Italia,84.5,3266.0,2770.0,50.67,31.25,128.0,40.0,64.0,6.0
+2021,52298,FER,Ferencváros,Ferencváros,Hungary,Hungría,84.5,3075.0,2609.0,46.5,9.1,66.0,6.0,92.0,6.0
+2021,52757,MON,Mönchengladbach,Mönchengladbach,Germany,Alemania,83.88,3880.0,3261.0,42.38,26.44,87.0,23.0,82.0,8.0
+2021,52748,MAR,Marseille,Marseille,France,Francia,83.84,3066.0,2568.0,49.84,26.83,82.0,22.0,97.0,6.0
+2021,52682,MUN,Man Utd,Man Utd,England,Inglaterra,83.5,3091.0,2590.0,49.5,24.78,113.0,28.0,88.0,6.0
+2021,52973,LAZ,Lazio,Lazio,Italy,Italia,83.0,3933.0,3282.0,45.63,27.68,112.0,31.0,106.0,8.0
+2021,55031,REN,Rennes,Rennes,France,Francia,82.17,3017.0,2499.0,49.5,25.67,113.0,29.0,76.0,6.0
+2021,52826,ZEN,Zenit,Zenit,Russia,Rusia,81.84,2938.0,2409.0,47.0,22.34,103.0,23.0,66.0,6.0
+2021,2610,OLY,Olympiacos,Olympiacos,Greece,Grecia,81.67,2967.0,2427.0,49.67,22.23,90.0,20.0,79.0,6.0
+2021,7889,LIV,Liverpool,Liverpool,England,Inglaterra,81.41,5718.0,4667.0,51.5,23.13,160.0,37.0,122.0,10.0
+2021,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,81.34,3216.0,2628.0,50.5,17.4,92.0,16.0,72.0,6.0
+2021,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,80.75,4283.0,3470.0,51.75,31.66,139.0,44.0,132.0,8.0
+2021,50143,AJX,Ajax,Ajax,Netherlands,Holanda,80.34,3316.0,2674.0,54.84,17.71,96.0,17.0,93.0,6.0
+2021,50124,ATM,Atleti,Atleti,Spain,España,80.13,4019.0,3240.0,48.0,17.57,148.0,26.0,107.0,8.0
+2021,2600288,IST,Başakşehir,Başakşehir,Türkiye,Turquía,80.0,2668.0,2138.0,45.0,23.53,85.0,20.0,76.0,6.0
+2021,52816,ATA,Atalanta,Atalanta,Italy,Italia,79.88,3923.0,3157.0,44.63,25.0,120.0,30.0,126.0,8.0
+2021,50030,SAL,Salzburg,Salzburg,Austria,Austria,77.17,2889.0,2230.0,47.67,22.23,99.0,22.0,85.0,6.0
+2021,50064,POR,Porto,Porto,Portugal,Portugal,77.1,3791.0,2937.0,42.1,26.78,127.0,34.0,192.0,10.0
+2021,53065,LMO,Lokomotiv Moskva,Lokomotiv Moskva,Russia,Rusia,76.84,2243.0,1717.0,41.5,22.04,59.0,13.0,101.0,6.0
+2021,2601038,KRA,Krasnodar,Krasnodar,Russia,Rusia,75.0,2306.0,1738.0,39.67,17.4,69.0,12.0,102.0,6.0
+2021,75795,MID,Midtjylland,Midtjylland,Denmark,Dinamarca,73.17,2472.0,1816.0,45.84,23.41,94.0,22.0,91.0,6.0
+2022,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,90.5,3619.0,3281.0,57.5,23.53,68.0,16.0,71.0,6.0
+2022,52919,MCI,Man City,Man City,England,Inglaterra,90.17,7579.0,6837.0,59.75,23.56,225.0,53.0,147.0,12.0
+2022,52747,PSG,Paris,Paris,France,Francia,90.0,4631.0,4177.0,54.5,19.72,71.0,14.0,120.0,8.0
+2022,52914,CHE,Chelsea,Chelsea,England,Inglaterra,89.1,6382.0,5694.0,59.1,30.36,224.0,68.0,110.0,10.0
+2022,50037,BAY,Bayern München,Bayern München,Germany,Alemania,88.8,6286.0,5581.0,60.1,27.49,211.0,58.0,115.0,10.0
+2022,50080,BAR,Barcelona,Barcelona,Spain,España,87.84,3533.0,3103.0,55.84,25.22,119.0,30.0,85.0,6.0
+2022,50143,AJX,Ajax,Ajax,Netherlands,Holanda,87.63,4611.0,4047.0,59.5,33.55,161.0,54.0,94.0,8.0
+2022,50051,RMA,Real Madrid,Real Madrid,Spain,España,87.39,7550.0,6628.0,50.39,24.23,194.0,47.0,182.0,13.0
+2022,50139,JUV,Juventus,Juventus,Italy,Italia,87.38,4223.0,3729.0,50.38,24.62,130.0,32.0,86.0,8.0
+2022,50138,INT,Inter,Inter,Italy,Italia,86.5,3985.0,3466.0,49.63,31.92,188.0,60.0,94.0,8.0
+2022,52826,ZEN,Zenit,Zenit,Russia,Rusia,86.5,2758.0,2387.0,46.84,33.07,124.0,41.0,71.0,6.0
+2022,7889,LIV,Liverpool,Liverpool,England,Inglaterra,86.24,8068.0,6997.0,59.31,25.1,271.0,68.0,170.0,13.0
+2022,52682,MUN,Man Utd,Man Utd,England,Inglaterra,85.63,4178.0,3581.0,52.25,24.0,125.0,30.0,109.0,8.0
+2022,52714,SEV,Sevilla,Sevilla,Spain,España,84.84,3207.0,2731.0,56.34,25.81,155.0,40.0,104.0,6.0
+2022,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,84.0,3187.0,2718.0,51.0,23.16,95.0,22.0,61.0,6.0
+2022,52723,DKY,Dynamo Kyiv,Dynamo Kyiv,Ukraine,Ucrania,82.84,2493.0,2083.0,43.0,21.67,60.0,13.0,89.0,6.0
+2022,50031,YB,Young Boys,Young Boys,Switzerland,Suiza,82.5,2707.0,2245.0,49.0,25.2,131.0,33.0,55.0,6.0
+2022,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,82.17,2671.0,2205.0,47.5,28.16,103.0,29.0,92.0,6.0
+2022,52816,ATA,Atalanta,Atalanta,Italy,Italia,82.0,2972.0,2445.0,51.34,29.81,104.0,31.0,89.0,6.0
+2022,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,81.25,3091.0,2522.0,43.25,25.89,85.0,22.0,151.0,8.0
+2022,50058,MIL,Milan,Milan,Italy,Italia,81.0,2435.0,1987.0,48.34,34.45,90.0,31.0,98.0,6.0
+2022,70691,VIL,Villarreal,Villarreal,Spain,España,80.84,4794.0,3943.0,46.42,33.63,116.0,39.0,163.0,12.0
+2022,50147,BEN,Benfica,Benfica,Portugal,Portugal,80.5,3724.0,3028.0,41.4,31.36,118.0,37.0,175.0,10.0
+2022,75797,LIL,Lille,Lille,France,Francia,80.13,3348.0,2694.0,48.5,27.03,111.0,30.0,126.0,8.0
+2022,50157,BES,Beşiktaş,Beşiktaş,Türkiye,Turquía,80.0,2510.0,2051.0,44.34,26.93,78.0,21.0,79.0,6.0
+2022,50152,MAL,Malmö,Malmö,Sweden,Suecia,78.34,2209.0,1771.0,39.17,23.53,51.0,12.0,78.0,6.0
+2022,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,78.0,2232.0,1744.0,40.5,17.9,95.0,17.0,73.0,6.0
+2022,50064,POR,Porto,Porto,Portugal,Portugal,77.67,2313.0,1811.0,48.34,30.0,90.0,27.0,101.0,6.0
+2022,50124,ATM,Atleti,Atleti,Spain,España,77.5,3650.0,2868.0,41.5,22.69,119.0,27.0,130.0,10.0
+2022,69606,SHE,Sheriff,Sheriff,Moldova,Moldavia,77.5,1683.0,1314.0,34.17,30.99,71.0,22.0,61.0,6.0
+2022,64332,WOB,Wolfsburg,Wolfsburg,Germany,Alemania,77.17,2251.0,1742.0,45.5,27.03,74.0,20.0,85.0,6.0
+2022,50030,SAL,Salzburg,Salzburg,Austria,Austria,74.38,3022.0,2294.0,45.38,16.08,112.0,18.0,100.0,8.0
+2023,52919,MCI,Man City,Man City,England,Inglaterra,90.16,8299.0,7519.0,59.62,26.45,242.0,64.0,138.0,13.0
+2023,50051,RMA,Real Madrid,Real Madrid,Spain,España,89.92,7201.0,6491.0,52.75,22.29,166.0,37.0,144.0,12.0
+2023,52747,PSG,Paris,Paris,France,Francia,89.88,4976.0,4479.0,53.75,19.57,92.0,18.0,143.0,8.0
+2023,50080,BAR,Barcelona,Barcelona,Spain,España,88.84,3800.0,3390.0,62.5,25.65,156.0,40.0,95.0,6.0
+2023,50037,BAY,Bayern München,Bayern München,Germany,Alemania,88.3,5756.0,5094.0,54.6,26.45,121.0,32.0,115.0,10.0
+2023,50050,CEL,Celtic,Celtic,Scotland,Escocia,87.5,2946.0,2583.0,44.17,22.81,114.0,26.0,48.0,6.0
+2023,52914,CHE,Chelsea,Chelsea,England,Inglaterra,87.3,5612.0,4935.0,55.3,27.0,200.0,54.0,138.0,10.0
+2023,52748,MAR,Marseille,Marseille,France,Francia,87.0,3384.0,2957.0,59.0,14.66,116.0,17.0,92.0,6.0
+2023,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,86.75,4171.0,3638.0,49.63,28.82,118.0,34.0,86.0,8.0
+2023,50147,BEN,Benfica,Benfica,Portugal,Portugal,86.7,5352.0,4659.0,52.5,27.22,158.0,43.0,109.0,10.0
+2023,50124,ATM,Atleti,Atleti,Spain,España,86.5,3368.0,2928.0,54.0,19.08,152.0,29.0,66.0,6.0
+2023,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,86.5,2815.0,2443.0,44.5,20.0,45.0,9.0,60.0,6.0
+2023,50139,JUV,Juventus,Juventus,Italy,Italia,86.34,2848.0,2471.0,49.17,23.95,142.0,34.0,74.0,6.0
+2023,50136,NAP,Napoli,Napoli,Italy,Italia,86.3,5495.0,4779.0,54.6,29.51,183.0,54.0,148.0,10.0
+2023,7889,LIV,Liverpool,Liverpool,England,Inglaterra,85.5,4281.0,3662.0,53.38,27.96,186.0,52.0,93.0,8.0
+2023,52714,SEV,Sevilla,Sevilla,Spain,España,85.34,2977.0,2549.0,50.5,29.9,97.0,29.0,82.0,6.0
+2023,1652,TOT,Tottenham,Tottenham,England,Inglaterra,85.0,3941.0,3352.0,48.88,21.88,160.0,35.0,97.0,8.0
+2023,50143,AJX,Ajax,Ajax,Netherlands,Holanda,85.0,3184.0,2753.0,53.67,26.23,61.0,16.0,64.0,6.0
+2023,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,84.67,3041.0,2583.0,52.34,22.69,97.0,22.0,61.0,6.0
+2023,59045,MHA,Maccabi Haifa,Maccabi Haifa,Israel,Israel,84.5,2524.0,2133.0,45.67,25.59,86.0,22.0,60.0,6.0
+2023,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,84.0,3858.0,3258.0,48.88,17.15,105.0,18.0,106.0,8.0
+2023,50058,MIL,Milan,Milan,Italy,Italia,83.0,5032.0,4206.0,50.42,25.0,160.0,40.0,163.0,12.0
+2023,50138,INT,Inter,Inter,Italy,Italia,82.93,5598.0,4721.0,46.16,27.32,238.0,65.0,169.0,13.0
+2023,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,82.67,2651.0,2196.0,47.5,21.63,74.0,16.0,98.0,6.0
+2023,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,82.0,3491.0,2864.0,46.88,19.27,109.0,21.0,105.0,8.0
+2023,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,82.0,2324.0,1918.0,38.67,30.51,59.0,18.0,53.0,6.0
+2023,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,81.84,2652.0,2187.0,47.67,23.08,65.0,15.0,106.0,6.0
+2023,50064,POR,Porto,Porto,Portugal,Portugal,80.25,3424.0,2772.0,48.0,22.12,104.0,23.0,121.0,8.0
+2023,50072,FRA,Frankfurt,Frankfurt,Germany,Alemania,79.88,3414.0,2736.0,42.88,16.51,103.0,17.0,108.0,8.0
+2023,50121,RAN,Rangers,Rangers,Scotland,Escocia,79.5,2247.0,1788.0,40.67,25.0,88.0,22.0,73.0,6.0
+2023,64388,PLZ,Viktoria Plzeň,Viktoria Plzeň,Czechia,Chequia,76.17,1626.0,1247.0,32.67,31.87,91.0,29.0,67.0,6.0
+2023,50030,SAL,Salzburg,Salzburg,Austria,Austria,71.84,1996.0,1472.0,40.5,25.36,71.0,18.0,63.0,6.0
+2024,52919,MCI,Man City,Man City,England,Inglaterra,93.6,7725.0,7227.0,68.1,27.78,180.0,50.0,145.0,10.0
+2024,50051,RMA,Real Madrid,Real Madrid,Spain,España,91.24,7614.0,6965.0,52.77,24.53,212.0,52.0,150.0,13.0
+2024,52747,PSG,Paris,Paris,France,Francia,89.67,7261.0,6520.0,60.42,20.39,206.0,42.0,148.0,12.0
+2024,50037,BAY,Bayern München,Bayern München,Germany,Alemania,89.0,6806.0,6082.0,55.0,26.55,162.0,43.0,131.0,12.0
+2024,52280,ARS,Arsenal,Arsenal,England,Inglaterra,88.9,5338.0,4744.0,56.2,27.82,133.0,37.0,129.0,10.0
+2024,52336,BRA,Braga,Braga,Portugal,Portugal,88.0,3148.0,2781.0,52.5,30.83,133.0,41.0,93.0,6.0
+2024,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,87.84,3417.0,3016.0,54.0,23.0,100.0,23.0,60.0,6.0
+2024,50136,NAP,Napoli,Napoli,Italy,Italia,86.5,4194.0,3641.0,52.13,17.11,152.0,26.0,107.0,8.0
+2024,50124,ATM,Atleti,Atleti,Spain,España,86.4,5708.0,4969.0,48.1,25.87,174.0,45.0,96.0,10.0
+2024,50080,BAR,Barcelona,Barcelona,Spain,España,86.4,5364.0,4705.0,54.8,23.08,169.0,39.0,151.0,10.0
+2024,52973,LAZ,Lazio,Lazio,Italy,Italia,86.38,4014.0,3483.0,44.13,25.72,105.0,27.0,101.0,8.0
+2024,50050,CEL,Celtic,Celtic,Scotland,Escocia,86.17,3135.0,2708.0,48.5,16.4,61.0,10.0,94.0,6.0
+2024,50138,INT,Inter,Inter,Italy,Italia,86.0,4333.0,3756.0,50.5,33.81,142.0,48.0,121.0,8.0
+2024,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,85.34,2567.0,2191.0,45.5,27.28,55.0,15.0,64.0,6.0
+2024,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,85.25,3633.0,3102.0,46.13,24.37,119.0,29.0,117.0,8.0
+2024,50113,ANT,Antwerp,Antwerp,Belgium,Bélgica,84.0,2428.0,2051.0,45.17,22.78,101.0,23.0,57.0,6.0
+2024,50058,MIL,Milan,Milan,Italy,Italia,84.0,2256.0,1913.0,46.34,32.12,109.0,35.0,82.0,6.0
+2024,50062,PSV,PSV,PSV,Netherlands,Holanda,83.75,3647.0,3057.0,50.75,23.65,148.0,35.0,101.0,8.0
+2024,50123,RSO,Real Sociedad,Real Sociedad,Spain,España,83.25,3690.0,3101.0,53.75,20.84,120.0,25.0,99.0,8.0
+2024,52682,MUN,Man Utd,Man Utd,England,Inglaterra,83.0,2556.0,2134.0,47.34,18.08,83.0,15.0,72.0,6.0
+2024,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,82.93,5612.0,4698.0,47.08,27.18,195.0,53.0,138.0,13.0
+2024,50064,POR,Porto,Porto,Portugal,Portugal,82.5,3460.0,2892.0,46.88,26.81,97.0,26.0,132.0,8.0
+2024,50031,YB,Young Boys,Young Boys,Switzerland,Suiza,82.17,2250.0,1850.0,44.67,25.0,92.0,23.0,68.0,6.0
+2024,50147,BEN,Benfica,Benfica,Portugal,Portugal,81.84,2756.0,2273.0,49.0,18.48,92.0,17.0,92.0,6.0
+2024,59324,NEW,Newcastle,Newcastle,England,Inglaterra,81.34,2323.0,1913.0,46.34,20.55,73.0,15.0,95.0,6.0
+2024,52709,CPH,Copenhagen,Copenhagen,Denmark,Dinamarca,81.0,3174.0,2607.0,39.88,21.11,109.0,23.0,67.0,8.0
+2024,50067,GAL,Galatasaray,Galatasaray,Türkiye,Turquía,80.5,2798.0,2264.0,51.84,21.43,126.0,27.0,90.0,6.0
+2024,52277,LEN,Lens,Lens,France,Francia,80.34,2356.0,1909.0,44.0,23.96,96.0,23.0,91.0,6.0
+2024,52714,SEV,Sevilla,Sevilla,Spain,España,80.17,2504.0,2039.0,48.84,22.33,112.0,25.0,87.0,6.0
+2024,50030,SAL,Salzburg,Salzburg,Austria,Austria,80.0,2379.0,1918.0,44.84,15.0,80.0,12.0,66.0,6.0
+2024,50069,ZVE,Crvena Zvezda,Crvena Zvezda,Serbia,Serbia,79.0,2026.0,1608.0,40.67,23.34,90.0,21.0,68.0,6.0
+2024,77977,UBE,Union Berlin,Union Berlin,Germany,Alemania,77.67,2009.0,1580.0,35.84,20.62,97.0,20.0,59.0,6.0
+2025,52919,MCI,Man City,Man City,England,Inglaterra,92.2,6330.0,5866.0,62.7,21.08,204.0,43.0,85.0,10.0
+2025,50051,RMA,Real Madrid,Real Madrid,Spain,España,90.0,7680.0,6947.0,51.43,19.84,237.0,47.0,168.0,14.0
+2025,52747,PSG,Paris,Paris,France,Francia,89.0,10764.0,9679.0,59.53,23.3,249.0,58.0,209.0,17.0
+2025,50058,MIL,Milan,Milan,Italy,Italia,88.9,4934.0,4403.0,53.6,22.73,132.0,30.0,145.0,10.0
+2025,50037,BAY,Bayern München,Bayern München,Germany,Alemania,88.72,9189.0,8221.0,61.29,21.88,320.0,70.0,146.0,14.0
+2025,50109,LEV,Leverkusen,Leverkusen,Germany,Alemania,88.4,5842.0,5240.0,53.2,21.84,174.0,38.0,95.0,10.0
+2025,50139,JUV,Juventus,Juventus,Italy,Italia,88.1,4941.0,4367.0,51.6,20.94,172.0,36.0,97.0,10.0
+2025,50080,BAR,Barcelona,Barcelona,Spain,España,88.0,8400.0,7437.0,58.36,21.91,210.0,46.0,245.0,14.0
+2025,52816,ATA,Atalanta,Atalanta,Italy,Italia,87.2,5133.0,4490.0,51.7,30.32,221.0,67.0,104.0,10.0
+2025,50050,CEL,Celtic,Celtic,Scotland,Escocia,87.0,5104.0,4465.0,49.5,19.41,134.0,26.0,99.0,10.0
+2025,50043,BRU,Club Brugge,Club Brugge,Belgium,Bélgica,86.84,5538.0,4835.0,42.34,24.57,114.0,28.0,117.0,12.0
+2025,2602798,GIR,Girona,Girona,Spain,España,86.75,3739.0,3278.0,51.63,22.91,131.0,30.0,101.0,8.0
+2025,50124,ATM,Atleti,Atleti,Spain,España,86.7,5368.0,4716.0,47.5,24.7,166.0,41.0,117.0,10.0
+2025,52758,BVB,B. Dortmund,B. Dortmund,Germany,Alemania,86.43,7122.0,6210.0,51.08,30.3,241.0,73.0,149.0,14.0
+2025,7889,LIV,Liverpool,Liverpool,England,Inglaterra,86.4,5128.0,4465.0,52.0,19.76,162.0,32.0,113.0,10.0
+2025,50149,SPO,Sporting CP,Sporting CP,Portugal,Portugal,86.4,4740.0,4127.0,49.8,27.53,109.0,30.0,170.0,10.0
+2025,50107,STU,Stuttgart,Stuttgart,Germany,Alemania,86.25,4416.0,3824.0,56.63,25.99,177.0,46.0,115.0,8.0
+2025,52683,AVL,Aston Villa,Aston Villa,England,Inglaterra,86.17,5206.0,4525.0,50.42,25.0,128.0,32.0,162.0,12.0
+2025,50062,PSV,PSV,PSV,Netherlands,Holanda,86.09,6252.0,5407.0,52.0,22.23,225.0,50.0,150.0,12.0
+2025,52280,ARS,Arsenal,Arsenal,England,Inglaterra,86.0,6317.0,5477.0,51.93,28.94,235.0,68.0,152.0,14.0
+2025,50138,INT,Inter,Inter,Italy,Italia,85.54,7157.0,6218.0,47.27,28.72,202.0,58.0,180.0,15.0
+2025,50030,SAL,Salzburg,Salzburg,Austria,Austria,85.38,3597.0,3088.0,46.63,15.18,112.0,17.0,93.0,8.0
+2025,2603790,RBL,Leipzig,Leipzig,Germany,Alemania,84.88,3685.0,3126.0,47.63,22.89,118.0,27.0,91.0,8.0
+2025,75797,LIL,Lille,Lille,France,Francia,84.7,4653.0,3973.0,49.6,16.84,101.0,17.0,134.0,10.0
+2025,52707,SHK,Shakhtar,Shakhtar,Ukraine,Ucrania,83.88,3454.0,2914.0,46.75,21.69,83.0,18.0,77.0,8.0
+2025,52749,FEY,Feyenoord,Feyenoord,Netherlands,Holanda,83.0,4720.0,3960.0,46.0,21.65,134.0,29.0,131.0,12.0
+2025,52969,BOL,Bologna,Bologna,Italy,Italia,82.75,3318.0,2756.0,49.38,21.49,135.0,29.0,123.0,8.0
+2025,50023,MON,Monaco,Monaco,France,Francia,82.6,4430.0,3691.0,51.1,26.67,135.0,36.0,149.0,10.0
+2025,50069,ZVE,Crvena Zvezda,Crvena Zvezda,Serbia,Serbia,82.38,3035.0,2552.0,45.38,19.53,169.0,33.0,122.0,8.0
+2025,50031,YB,Young Boys,Young Boys,Switzerland,Suiza,81.5,2848.0,2325.0,43.5,20.54,112.0,23.0,98.0,8.0
+2025,50147,BEN,Benfica,Benfica,Portugal,Portugal,81.34,4977.0,4098.0,44.84,31.74,167.0,53.0,125.0,12.0
+2025,50164,DIN,GNK Dinamo,GNK Dinamo,Croatia,Croacia,80.5,2769.0,2244.0,40.38,26.54,98.0,26.0,98.0,8.0
+2025,2601306,BRE,Brest,Brest,France,Francia,80.3,3840.0,3105.0,43.8,25.86,147.0,38.0,147.0,10.0
+2025,52797,SLB,S. Bratislava,S. Bratislava,Slovakia,Eslovaquia,79.0,2888.0,2316.0,39.25,17.57,74.0,13.0,112.0,8.0
+2025,50111,SGR,Sturm Graz,Sturm Graz,Austria,Austria,78.75,2725.0,2154.0,40.25,17.9,95.0,17.0,100.0,8.0
+2025,50033,SPA,Sparta Praha,Sparta Praha,Czechia,Chequia,76.13,2550.0,1969.0,36.88,30.77,78.0,24.0,76.0,8.0

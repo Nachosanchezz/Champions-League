@@ -1,6 +1,14 @@
 import requests
 import pandas as pd
 import time
+import warnings
+
+# Opcional: ocultar el FutureWarning de pandas sobre concat
+warnings.filterwarnings(
+    "ignore",
+    category=FutureWarning,
+    message="The behavior of DataFrame concatenation with empty or all-NA entries is deprecated.*"
+)
 
 BASE_URL_CLUBS = "https://compstats.uefa.com/v1/team-ranking"
 
@@ -8,24 +16,26 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; ucl-research-bot/1.0)"
 }
 
-def safe_int(x):
+
+def safe_num(x):
+    """Convierte a float o devuelve None si no se puede (sirve para enteros y decimales)."""
     try:
-        return int(x)
+        return float(x)
     except (TypeError, ValueError):
         return None
+
 
 def scrape_stats_group(season_year: int, stats_list, group_name: str,
                        limit: int = 200, offset: int = 0) -> pd.DataFrame:
     """
-    Descarga estadísticas de clubes para una temporada y un grupo de stats.
-    Se mantiene la misma estructura (season_year, team_id, team_code, team_name_en,
-    team_name_es, country_en, country_es) en todos los CSV.
+    Descarga estadísticas de CLUBES para una temporada y un grupo de stats.
+    Devuelve un DataFrame con info de equipo + stats del grupo.
     """
     params = {
-        "competitionId": "1",
+        "competitionId": "1",             # UEFA Champions League
         "limit": str(limit),
         "offset": str(offset),
-        "optionalFields": "PLAYER,TEAM",
+        "optionalFields": "TEAM",
         "order": "DESC",
         "phase": "TOURNAMENT",
         "seasonYear": str(season_year),
@@ -38,12 +48,10 @@ def scrape_stats_group(season_year: int, stats_list, group_name: str,
 
     rows = []
     for entry in data:
-        team = entry.get("team", {})
-        stats_list_resp = entry.get("statistics", [])
-        stats_dict = {s.get("name"): s.get("value") for s in stats_list_resp}
-        translations = team.get("translations", {})
-        display_name = translations.get("displayName", {})
-        country_name = translations.get("countryName", {})
+        team = entry.get("team", {}) or {}
+        translations = team.get("translations", {}) or {}
+        display_name = translations.get("displayName", {}) or {}
+        country_name = translations.get("countryName", {}) or {}
 
         row = {
             "season_year": season_year,
@@ -55,9 +63,12 @@ def scrape_stats_group(season_year: int, stats_list, group_name: str,
             "country_es": country_name.get("ES"),
         }
 
-        # Añadimos SOLO las estadísticas específicas de este grupo
+        # Estadísticas del grupo
+        stats_list_resp = entry.get("statistics", []) or []
+        stats_dict = {s.get("name"): s.get("value") for s in stats_list_resp}
+
         for stat in stats_list:
-            row[f"{group_name}__{stat}"] = safe_int(stats_dict.get(stat))
+            row[f"{group_name}__{stat}"] = safe_num(stats_dict.get(stat))
 
         rows.append(row)
 
@@ -95,7 +106,7 @@ if __name__ == "__main__":
             "passes_attempted",
             "passes_completed",
             "ball_possession",
-            "cross_accuruacy",
+            "cross_accuracy",
             "cross_attempted",
             "cross_completed",
             "free_kick",
@@ -111,7 +122,7 @@ if __name__ == "__main__":
         ],
         "defending": [
             "recovered_ball",
-            "tackles"
+            "tackles",
             "tackles_won",
             "tackles_lost",
             "clearance_attempted",
@@ -133,11 +144,10 @@ if __name__ == "__main__":
             "red_cards",
             "matches_appearance",
         ],
-
     }
 
     for group_name, stats_list in STAT_GROUPS.items():
-        print(f"\n📊 Extrayendo estadísticas: {group_name}")
+        print(f"\n📊 Extrayendo estadísticas de CLUBES: {group_name}")
         all_dfs = []
 
         for season in range(1992, 2026):
@@ -148,18 +158,34 @@ if __name__ == "__main__":
                     all_dfs.append(df_season)
             except Exception as e:
                 print(f"    ⚠️ Error en temporada {season}: {e}")
-            time.sleep(1)
+            time.sleep(1)  # para no freír el endpoint
+
+        # Filtramos DF vacíos y DF con todas las celdas a NaN
+        all_dfs = [
+            df for df in all_dfs
+            if not df.empty and not df.isna().all().all()
+        ]
 
         if all_dfs:
             final_df = pd.concat(all_dfs, ignore_index=True)
 
+            # No borramos columnas 100% NaN para no cargarnos ninguna stat.
+            # Si luego quieres limpiar basura, puedes descomentar esto:
+            # final_df = final_df.dropna(axis=1, how="all")
+
             # Ordenamos las columnas para que los datos básicos siempre estén delante
             col_order = [
-                "season_year", "team_id", "team_code", "team_name_en",
-                "team_name_es", "country_en", "country_es"
+                "season_year",
+                "team_id",
+                "team_code",
+                "team_name_en",
+                "team_name_es",
+                "country_en",
+                "country_es",
             ]
-            other_cols = [c for c in final_df.columns if c not in col_order]
-            final_df = final_df[col_order + other_cols]
+            base_cols = [c for c in col_order if c in final_df.columns]
+            other_cols = [c for c in final_df.columns if c not in base_cols]
+            final_df = final_df[base_cols + other_cols]
 
             file_name = f"data/ucl_clubs_{group_name}_stats_1992_2025.csv"
             final_df.to_csv(file_name, index=False)

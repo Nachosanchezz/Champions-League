@@ -1,0 +1,214 @@
+Stage,Date,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Qualifying,2010-06-29,FC Santa Coloma,AND,Birkirkara,MLT,0-3
+Qualifying,2010-06-30,Tre Fiori,SMR,FK Rudar Pljevlja,MNE,0-3
+Qualifying,2010-07-06,Birkirkara,MLT,FC Santa Coloma,AND,4-3
+Qualifying,2010-07-07,FK Rudar Pljevlja,MNE,Tre Fiori,SMR,4-1
+Qualifying,2010-07-13,Bohemians,IRL,The New Saints,WAL,1-0
+Qualifying,2010-07-13,AIK Solna,SWE,Jeunesse Esch,LUX,1-0
+Qualifying,2010-07-13,Birkirkara,MLT,MSK Zilina,SVK,1-0
+Qualifying,2010-07-13,Inter Baku PIK,AZE,Lech Poznan,POL,0-1
+Qualifying,2010-07-13,Levadia,EST,Debreceni VSC,HUN,1-1
+Qualifying,2010-07-13,Dinamo Zagreb,CRO,Koper,SVN,5-1
+Qualifying,2010-07-13,PFC Litex Lovech,BUL,FK Rudar Pljevlja,MNE,1-0
+Qualifying,2010-07-13,Hapoel Tel Aviv,ISR,Zeljeznicar Sarajevo,BIH,5-0
+Qualifying,2010-07-13,FC RB Salzburg,AUT,HB,FRO,5-0
+Qualifying,2010-07-13,Omonia Nicosia,CYP,Renova,MKD,3-0
+Qualifying,2010-07-13,Liepajas Metalurgs,LVA,Sparta Praha,CZE,0-3
+Qualifying,2010-07-14,Aktobe,KAZ,Metalurgi Rustavi,GEO,2-0
+Qualifying,2010-07-14,BATE Borisov,BLR,FH,ISL,5-1
+Qualifying,2010-07-14,Sheriff Tiraspol,MDA,Dinamo Tirana,ALB,3-1
+Qualifying,2010-07-14,FK Ekranas,LTU,HJK Helsinki,FIN,1-0
+Qualifying,2010-07-14,Linfield,NIR,Rosenborg BK,NOR,0-0
+Qualifying,2010-07-14,Partizan Belgrade,SRB,Pyunik,ARM,3-1
+Qualifying,2010-07-20,The New Saints,WAL,Bohemians,IRL,4-0
+Qualifying,2010-07-20,Dinamo Tirana,ALB,Sheriff Tiraspol,MDA,1-0
+Qualifying,2010-07-20,Koper,SVN,Dinamo Zagreb,CRO,3-0
+Qualifying,2010-07-20,FK Rudar Pljevlja,MNE,PFC Litex Lovech,BUL,0-4
+Qualifying,2010-07-20,HB,FRO,FC RB Salzburg,AUT,1-0
+Qualifying,2010-07-20,Renova,MKD,Omonia Nicosia,CYP,0-2
+Qualifying,2010-07-21,Lech Poznan,POL,Inter Baku PIK,AZE,0-1 (*)
+Qualifying,2010-07-21,Jeunesse Esch,LUX,AIK Solna,SWE,0-0
+Qualifying,2010-07-21,Metalurgi Rustavi,GEO,Aktobe,KAZ,1-1
+Qualifying,2010-07-21,FH,ISL,BATE Borisov,BLR,0-1
+Qualifying,2010-07-21,MSK Zilina,SVK,Birkirkara,MLT,3-0
+Qualifying,2010-07-21,Debreceni VSC,HUN,Levadia,EST,3-2
+Qualifying,2010-07-21,HJK Helsinki,FIN,FK Ekranas,LTU,1-0 (*)
+Qualifying,2010-07-21,Zeljeznicar Sarajevo,BIH,Hapoel Tel Aviv,ISR,0-1
+Qualifying,2010-07-21,Pyunik,ARM,Partizan Belgrade,SRB,0-1
+Qualifying,2010-07-21,Rosenborg BK,NOR,Linfield,NIR,2-0
+Qualifying,2010-07-21,Sparta Praha,CZE,Liepajas Metalurgs,LVA,2-0
+Qualifying,2010-07-27,Dinamo Kiev,UKR,KAA Gent,BEL,3-0
+Qualifying,2010-07-27,Unirea Urziceni,ROU,Zenit St. Petersburg,RUS,0-0
+Qualifying,2010-07-27,PFC Litex Lovech,BUL,MSK Zilina,SVK,1-1
+Qualifying,2010-07-27,Omonia Nicosia,CYP,FC RB Salzburg,AUT,1-1
+Qualifying,2010-07-27,The New Saints,WAL,RSC Anderlecht,BEL,1-3
+Qualifying,2010-07-27,Sparta Praha,CZE,Lech Poznan,POL,1-0
+Qualifying,2010-07-28,Sheriff Tiraspol,MDA,Dinamo Zagreb,CRO,1-1
+Qualifying,2010-07-28,AFC Ajax,NED,PAOK FC,GRE,1-1
+Qualifying,2010-07-28,AIK Solna,SWE,Rosenborg BK,NOR,0-1
+Qualifying,2010-07-28,Aktobe,KAZ,Hapoel Tel Aviv,ISR,1-0
+Qualifying,2010-07-28,Debreceni VSC,HUN,Basel,SUI,0-2
+Qualifying,2010-07-28,BATE Borisov,BLR,Kobenhavn,DEN,0-0
+Qualifying,2010-07-28,BSC Young Boys,SUI,Fenerbahçe İstanbul SK,TUR,2-2
+Qualifying,2010-07-28,Sporting Braga,POR,Celtic FC,SCO,3-0
+Qualifying,2010-07-28,Partizan Belgrade,SRB,HJK Helsinki,FIN,3-0
+Qualifying,2010-08-03,Hapoel Tel Aviv,ISR,Aktobe,KAZ,3-1
+Qualifying,2010-08-03,RSC Anderlecht,BEL,The New Saints,WAL,3-0
+Qualifying,2010-08-04,Fenerbahçe İstanbul SK,TUR,BSC Young Boys,SUI,0-1
+Qualifying,2010-08-04,PAOK FC,GRE,AFC Ajax,NED,3-3
+Qualifying,2010-08-04,Rosenborg BK,NOR,AIK Solna,SWE,3-0
+Qualifying,2010-08-04,Basel,SUI,Debreceni VSC,HUN,3-1
+Qualifying,2010-08-04,Kobenhavn,DEN,BATE Borisov,BLR,3-2
+Qualifying,2010-08-04,Dinamo Zagreb,CRO,Sheriff Tiraspol,MDA,1-1 (*)
+Qualifying,2010-08-04,Celtic FC,SCO,Sporting Braga,POR,2-1
+Qualifying,2010-08-04,KAA Gent,BEL,Dinamo Kiev,UKR,1-3
+Qualifying,2010-08-04,Lech Poznan,POL,Sparta Praha,CZE,0-1
+Qualifying,2010-08-04,MSK Zilina,SVK,PFC Litex Lovech,BUL,3-1
+Qualifying,2010-08-04,FC RB Salzburg,AUT,Omonia Nicosia,CYP,4-1
+Qualifying,2010-08-04,Zenit St. Petersburg,RUS,Unirea Urziceni,ROU,1-0
+Qualifying,2010-08-04,HJK Helsinki,FIN,Partizan Belgrade,SRB,1-2
+Qualifying,2010-08-17,Rosenborg BK,NOR,Kobenhavn,DEN,2-1
+Qualifying,2010-08-17,Dinamo Kiev,UKR,AFC Ajax,NED,1-1
+Qualifying,2010-08-17,Zenit St. Petersburg,RUS,AJ Auxerre,FRA,1-0
+Qualifying,2010-08-17,BSC Young Boys,SUI,Tottenham Hotspur FC,ENG,3-2
+Qualifying,2010-08-17,Sparta Praha,CZE,MSK Zilina,SVK,0-2
+Qualifying,2010-08-18,Basel,SUI,Sheriff Tiraspol,MDA,1-0
+Qualifying,2010-08-18,FC RB Salzburg,AUT,Hapoel Tel Aviv,ISR,2-3
+Qualifying,2010-08-18,Partizan Belgrade,SRB,RSC Anderlecht,BEL,2-2
+Qualifying,2010-08-18,Sporting Braga,POR,Sevilla FC,ESP,1-0
+Qualifying,2010-08-18,Werder Bremen,GER,UC Sampdoria,ITA,3-1
+Qualifying,2010-08-24,Sheriff Tiraspol,MDA,Basel,SUI,0-3
+Qualifying,2010-08-24,RSC Anderlecht,BEL,Partizan Belgrade,SRB,2-2 (*)
+Qualifying,2010-08-24,UC Sampdoria,ITA,Werder Bremen,GER,3-1 (*)
+Qualifying,2010-08-24,Sevilla FC,ESP,Sporting Braga,POR,3-4
+Qualifying,2010-08-24,Hapoel Tel Aviv,ISR,FC RB Salzburg,AUT,1-1
+Qualifying,2010-08-25,Kobenhavn,DEN,Rosenborg BK,NOR,1-0
+Qualifying,2010-08-25,AFC Ajax,NED,Dinamo Kiev,UKR,2-1
+Qualifying,2010-08-25,AJ Auxerre,FRA,Zenit St. Petersburg,RUS,2-0
+Qualifying,2010-08-25,Tottenham Hotspur FC,ENG,BSC Young Boys,SUI,4-0
+Qualifying,2010-08-25,MSK Zilina,SVK,Sparta Praha,CZE,1-0
+Group,2010-09-14,Werder Bremen,GER,Tottenham Hotspur FC,ENG,2-2
+Group,2010-09-14,FC Twente,NED,Internazionale,ITA,2-2
+Group,2010-09-14,SL Benfica,POR,Hapoel Tel Aviv,ISR,2-0
+Group,2010-09-14,Olympique Lyon,FRA,FC Schalke 04,GER,1-0
+Group,2010-09-14,Bursaspor,TUR,Valencia CF,ESP,0-4
+Group,2010-09-14,Manchester United FC,ENG,Rangers FC,SCO,0-0
+Group,2010-09-14,Kobenhavn,DEN,Rubin Kazan,RUS,1-0
+Group,2010-09-14,FC Barcelona,ESP,Panathinaikos FC,GRE,5-1
+Group,2010-09-15,CFR Cluj,ROU,Basel,SUI,2-1
+Group,2010-09-15,Bayern München,GER,AS Roma,ITA,2-0
+Group,2010-09-15,MSK Zilina,SVK,Chelsea FC,ENG,1-4
+Group,2010-09-15,Olympique Marseille,FRA,Spartak Moskva,RUS,0-1
+Group,2010-09-15,Real Madrid CF,ESP,AFC Ajax,NED,2-0
+Group,2010-09-15,AC Milan,ITA,AJ Auxerre,FRA,2-0
+Group,2010-09-15,Shakhtar Donetsk,UKR,Partizan Belgrade,SRB,1-0
+Group,2010-09-15,Arsenal FC,ENG,Sporting Braga,POR,6-0
+Group,2010-09-28,Basel,SUI,Bayern München,GER,1-2
+Group,2010-09-28,AS Roma,ITA,CFR Cluj,ROU,2-1
+Group,2010-09-28,Chelsea FC,ENG,Olympique Marseille,FRA,2-0
+Group,2010-09-28,Spartak Moskva,RUS,MSK Zilina,SVK,3-0
+Group,2010-09-28,AJ Auxerre,FRA,Real Madrid CF,ESP,0-1
+Group,2010-09-28,AFC Ajax,NED,AC Milan,ITA,1-1
+Group,2010-09-28,Partizan Belgrade,SRB,Arsenal FC,ENG,1-3
+Group,2010-09-28,Sporting Braga,POR,Shakhtar Donetsk,UKR,0-3
+Group,2010-09-29,Tottenham Hotspur FC,ENG,FC Twente,NED,4-1
+Group,2010-09-29,Internazionale,ITA,Werder Bremen,GER,4-0
+Group,2010-09-29,Hapoel Tel Aviv,ISR,Olympique Lyon,FRA,1-3
+Group,2010-09-29,FC Schalke 04,GER,SL Benfica,POR,2-0
+Group,2010-09-29,Rangers FC,SCO,Bursaspor,TUR,1-0
+Group,2010-09-29,Valencia CF,ESP,Manchester United FC,ENG,0-1
+Group,2010-09-29,Panathinaikos FC,GRE,Kobenhavn,DEN,0-2
+Group,2010-09-29,Rubin Kazan,RUS,FC Barcelona,ESP,1-1
+Group,2010-10-19,Bayern München,GER,CFR Cluj,ROU,3-2
+Group,2010-10-19,AS Roma,ITA,Basel,SUI,1-3
+Group,2010-10-19,Olympique Marseille,FRA,MSK Zilina,SVK,1-0
+Group,2010-10-19,Spartak Moskva,RUS,Chelsea FC,ENG,0-2
+Group,2010-10-19,AFC Ajax,NED,AJ Auxerre,FRA,2-1
+Group,2010-10-19,Real Madrid CF,ESP,AC Milan,ITA,2-0
+Group,2010-10-19,Arsenal FC,ENG,Shakhtar Donetsk,UKR,5-1
+Group,2010-10-19,Sporting Braga,POR,Partizan Belgrade,SRB,2-0
+Group,2010-10-20,FC Twente,NED,Werder Bremen,GER,1-1
+Group,2010-10-20,Internazionale,ITA,Tottenham Hotspur FC,ENG,4-3
+Group,2010-10-20,FC Schalke 04,GER,Hapoel Tel Aviv,ISR,3-1
+Group,2010-10-20,Olympique Lyon,FRA,SL Benfica,POR,2-0
+Group,2010-10-20,Manchester United FC,ENG,Bursaspor,TUR,1-0
+Group,2010-10-20,Rangers FC,SCO,Valencia CF,ESP,1-1
+Group,2010-10-20,Panathinaikos FC,GRE,Rubin Kazan,RUS,0-0
+Group,2010-10-20,FC Barcelona,ESP,Kobenhavn,DEN,2-0
+Group,2010-11-02,Werder Bremen,GER,FC Twente,NED,0-2
+Group,2010-11-02,Tottenham Hotspur FC,ENG,Internazionale,ITA,3-1
+Group,2010-11-02,Hapoel Tel Aviv,ISR,FC Schalke 04,GER,0-0
+Group,2010-11-02,SL Benfica,POR,Olympique Lyon,FRA,4-3
+Group,2010-11-02,Bursaspor,TUR,Manchester United FC,ENG,0-3
+Group,2010-11-02,Valencia CF,ESP,Rangers FC,SCO,3-0
+Group,2010-11-02,Rubin Kazan,RUS,Panathinaikos FC,GRE,0-0
+Group,2010-11-02,Kobenhavn,DEN,FC Barcelona,ESP,1-1
+Group,2010-11-03,Basel,SUI,AS Roma,ITA,2-3
+Group,2010-11-03,CFR Cluj,ROU,Bayern München,GER,0-4
+Group,2010-11-03,MSK Zilina,SVK,Olympique Marseille,FRA,0-7
+Group,2010-11-03,Chelsea FC,ENG,Spartak Moskva,RUS,4-1
+Group,2010-11-03,AC Milan,ITA,Real Madrid CF,ESP,2-2
+Group,2010-11-03,AJ Auxerre,FRA,AFC Ajax,NED,2-1
+Group,2010-11-03,Shakhtar Donetsk,UKR,Arsenal FC,ENG,2-1
+Group,2010-11-03,Partizan Belgrade,SRB,Sporting Braga,POR,0-1
+Group,2010-11-23,Basel,SUI,CFR Cluj,ROU,1-0
+Group,2010-11-23,AS Roma,ITA,Bayern München,GER,3-2
+Group,2010-11-23,Chelsea FC,ENG,MSK Zilina,SVK,2-1
+Group,2010-11-23,Spartak Moskva,RUS,Olympique Marseille,FRA,0-3
+Group,2010-11-23,AFC Ajax,NED,Real Madrid CF,ESP,0-4
+Group,2010-11-23,AJ Auxerre,FRA,AC Milan,ITA,0-2
+Group,2010-11-23,Sporting Braga,POR,Arsenal FC,ENG,2-0
+Group,2010-11-23,Partizan Belgrade,SRB,Shakhtar Donetsk,UKR,0-3
+Group,2010-11-24,Internazionale,ITA,FC Twente,NED,1-0
+Group,2010-11-24,Tottenham Hotspur FC,ENG,Werder Bremen,GER,3-0
+Group,2010-11-24,FC Schalke 04,GER,Olympique Lyon,FRA,3-0
+Group,2010-11-24,Hapoel Tel Aviv,ISR,SL Benfica,POR,3-0
+Group,2010-11-24,Valencia CF,ESP,Bursaspor,TUR,6-1
+Group,2010-11-24,Rangers FC,SCO,Manchester United FC,ENG,0-1
+Group,2010-11-24,Panathinaikos FC,GRE,FC Barcelona,ESP,0-3
+Group,2010-11-24,Rubin Kazan,RUS,Kobenhavn,DEN,1-0
+Group,2010-12-07,FC Twente,NED,Tottenham Hotspur FC,ENG,3-3
+Group,2010-12-07,Werder Bremen,GER,Internazionale,ITA,3-0
+Group,2010-12-07,Olympique Lyon,FRA,Hapoel Tel Aviv,ISR,2-2
+Group,2010-12-07,SL Benfica,POR,FC Schalke 04,GER,1-2
+Group,2010-12-07,Bursaspor,TUR,Rangers FC,SCO,1-1
+Group,2010-12-07,Manchester United FC,ENG,Valencia CF,ESP,1-1
+Group,2010-12-07,Kobenhavn,DEN,Panathinaikos FC,GRE,3-1
+Group,2010-12-07,FC Barcelona,ESP,Rubin Kazan,RUS,2-0
+Group,2010-12-08,Bayern München,GER,Basel,SUI,3-0
+Group,2010-12-08,CFR Cluj,ROU,AS Roma,ITA,1-1
+Group,2010-12-08,MSK Zilina,SVK,Spartak Moskva,RUS,1-2
+Group,2010-12-08,Olympique Marseille,FRA,Chelsea FC,ENG,1-0
+Group,2010-12-08,Real Madrid CF,ESP,AJ Auxerre,FRA,4-0
+Group,2010-12-08,AC Milan,ITA,AFC Ajax,NED,0-2
+Group,2010-12-08,Shakhtar Donetsk,UKR,Sporting Braga,POR,2-0
+Group,2010-12-08,Arsenal FC,ENG,Partizan Belgrade,SRB,3-1
+Knockout,2011-02-15,AC Milan,ITA,Tottenham Hotspur FC,ENG,0-1
+Knockout,2011-02-15,Valencia CF,ESP,FC Schalke 04,GER,1-1
+Knockout,2011-02-16,AS Roma,ITA,Shakhtar Donetsk,UKR,2-3
+Knockout,2011-02-16,Arsenal FC,ENG,FC Barcelona,ESP,2-1
+Knockout,2011-02-22,Kobenhavn,DEN,Chelsea FC,ENG,0-2
+Knockout,2011-02-22,Olympique Lyon,FRA,Real Madrid CF,ESP,1-1
+Knockout,2011-02-23,Internazionale,ITA,Bayern München,GER,0-1
+Knockout,2011-02-23,Olympique Marseille,FRA,Manchester United FC,ENG,0-0
+Knockout,2011-03-08,FC Barcelona,ESP,Arsenal FC,ENG,3-1
+Knockout,2011-03-08,Shakhtar Donetsk,UKR,AS Roma,ITA,3-0
+Knockout,2011-03-09,FC Schalke 04,GER,Valencia CF,ESP,3-1
+Knockout,2011-03-09,Tottenham Hotspur FC,ENG,AC Milan,ITA,0-0
+Knockout,2011-03-15,Bayern München,GER,Internazionale,ITA,2-3
+Knockout,2011-03-15,Manchester United FC,ENG,Olympique Marseille,FRA,2-1
+Knockout,2011-03-16,Real Madrid CF,ESP,Olympique Lyon,FRA,3-0
+Knockout,2011-03-16,Chelsea FC,ENG,Kobenhavn,DEN,0-0
+Knockout,2011-04-05,Real Madrid CF,ESP,Tottenham Hotspur FC,ENG,4-0
+Knockout,2011-04-05,Internazionale,ITA,FC Schalke 04,GER,2-5
+Knockout,2011-04-06,FC Barcelona,ESP,Shakhtar Donetsk,UKR,5-1
+Knockout,2011-04-06,Chelsea FC,ENG,Manchester United FC,ENG,0-1
+Knockout,2011-04-12,Manchester United FC,ENG,Chelsea FC,ENG,2-1
+Knockout,2011-04-12,Shakhtar Donetsk,UKR,FC Barcelona,ESP,0-1
+Knockout,2011-04-13,FC Schalke 04,GER,Internazionale,ITA,2-1
+Knockout,2011-04-13,Tottenham Hotspur FC,ENG,Real Madrid CF,ESP,0-1
+Knockout,2011-04-26,FC Schalke 04,GER,Manchester United FC,ENG,0-2
+Knockout,2011-04-27,Real Madrid CF,ESP,FC Barcelona,ESP,0-2
+Knockout,2011-05-03,FC Barcelona,ESP,Real Madrid CF,ESP,1-1
+Knockout,2011-05-04,Manchester United FC,ENG,FC Schalke 04,GER,4-1
+Knockout,2011-05-28,FC Barcelona,ESP,Manchester United FC,ENG,3-1

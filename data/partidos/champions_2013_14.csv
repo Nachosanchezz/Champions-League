@@ -1,0 +1,126 @@
+Stage,Date,Time,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Group A,2013-09-17,20:45,Manchester United,ENG,Bayer Leverkusen,GER,4-2
+Group A,2013-09-17,20:45,Real Sociedad,ESP,Shakhtar Donetsk,UKR,0-2
+Group A,2013-10-02,20:45,Shakhtar Donetsk,UKR,Manchester United,ENG,1-1
+Group A,2013-10-02,20:45,Bayer Leverkusen,GER,Real Sociedad,ESP,2-1
+Group A,2013-10-23,20:45,Bayer Leverkusen,GER,Shakhtar Donetsk,UKR,4-0
+Group A,2013-10-23,20:45,Manchester United,ENG,Real Sociedad,ESP,1-0
+Group A,2013-11-05,20:45,Shakhtar Donetsk,UKR,Bayer Leverkusen,GER,0-0
+Group A,2013-11-05,20:45,Real Sociedad,ESP,Manchester United,ENG,0-0
+Group A,2013-11-27,20:45,Bayer Leverkusen,GER,Manchester United,ENG,0-5
+Group A,2013-11-27,20:45,Shakhtar Donetsk,UKR,Real Sociedad,ESP,4-0
+Group A,2013-12-10,20:45,Manchester United,ENG,Shakhtar Donetsk,UKR,1-0
+Group A,2013-12-10,20:45,Real Sociedad,ESP,Bayer Leverkusen,GER,0-1
+Group B,2013-09-17,20:45,Galatasaray,TUR,Real Madrid,ESP,1-6
+Group B,2013-09-17,20:45,FC København,DEN,Juventus,ITA,1-1
+Group B,2013-10-02,20:45,Juventus,ITA,Galatasaray,TUR,2-2
+Group B,2013-10-02,20:45,Real Madrid,ESP,FC København,DEN,4-0
+Group B,2013-10-23,20:45,Real Madrid,ESP,Juventus,ITA,2-1
+Group B,2013-10-23,20:45,Galatasaray,TUR,FC København,DEN,3-1
+Group B,2013-11-05,20:45,Juventus,ITA,Real Madrid,ESP,2-2
+Group B,2013-11-05,20:45,FC København,DEN,Galatasaray,TUR,1-0
+Group B,2013-11-27,20:45,Real Madrid,ESP,Galatasaray,TUR,4-1
+Group B,2013-11-27,20:45,Juventus,ITA,FC København,DEN,3-1
+Group B,2013-12-10,20:45,FC København,DEN,Real Madrid,ESP,0-2
+Group B,2013-12-11,14:00,Galatasaray,TUR,Juventus,ITA,1-0
+Group C,2013-09-17,20:45,Olympiakos Piraeus,GRE,Paris Saint-Germain,FRA,1-4
+Group C,2013-09-17,20:45,SL Benfica,POR,RSC Anderlecht,BEL,2-0
+Group C,2013-10-02,20:45,Paris Saint-Germain,FRA,SL Benfica,POR,3-0
+Group C,2013-10-02,20:45,RSC Anderlecht,BEL,Olympiakos Piraeus,GRE,0-3
+Group C,2013-10-23,20:45,RSC Anderlecht,BEL,Paris Saint-Germain,FRA,0-5
+Group C,2013-10-23,20:45,SL Benfica,POR,Olympiakos Piraeus,GRE,1-1
+Group C,2013-11-05,20:45,Paris Saint-Germain,FRA,RSC Anderlecht,BEL,1-1
+Group C,2013-11-05,20:45,Olympiakos Piraeus,GRE,SL Benfica,POR,1-0
+Group C,2013-11-27,20:45,RSC Anderlecht,BEL,SL Benfica,POR,2-3
+Group C,2013-11-27,20:45,Paris Saint-Germain,FRA,Olympiakos Piraeus,GRE,2-1
+Group C,2013-12-10,20:45,SL Benfica,POR,Paris Saint-Germain,FRA,2-1
+Group C,2013-12-10,20:45,Olympiakos Piraeus,GRE,RSC Anderlecht,BEL,3-1
+Group D,2013-09-17,20:45,Bayern München,GER,CSKA Moskva,RUS,3-0
+Group D,2013-09-17,20:45,Viktoria Plzeň,CZE,Manchester City,ENG,0-3
+Group D,2013-10-02,18:00,CSKA Moskva,RUS,Viktoria Plzeň,CZE,3-2
+Group D,2013-10-02,20:45,Manchester City,ENG,Bayern München,GER,1-3
+Group D,2013-10-23,18:00,CSKA Moskva,RUS,Manchester City,ENG,1-2
+Group D,2013-10-23,20:45,Bayern München,GER,Viktoria Plzeň,CZE,5-0
+Group D,2013-11-05,20:45,Manchester City,ENG,CSKA Moskva,RUS,5-2
+Group D,2013-11-05,20:45,Viktoria Plzeň,CZE,Bayern München,GER,0-1
+Group D,2013-11-27,18:00,CSKA Moskva,RUS,Bayern München,GER,1-3
+Group D,2013-11-27,20:45,Manchester City,ENG,Viktoria Plzeň,CZE,4-2
+Group D,2013-12-10,20:45,Bayern München,GER,Manchester City,ENG,2-3
+Group D,2013-12-10,20:45,Viktoria Plzeň,CZE,CSKA Moskva,RUS,2-1
+Group E,2013-09-18,20:45,Chelsea FC,ENG,FC Basel 1893,SUI,1-2
+Group E,2013-09-18,20:45,FC Schalke 04,GER,FC Steaua Bucureşti,ROU,3-0
+Group E,2013-10-01,20:45,FC Basel 1893,SUI,FC Schalke 04,GER,0-1
+Group E,2013-10-01,20:45,FC Steaua Bucureşti,ROU,Chelsea FC,ENG,0-4
+Group E,2013-10-22,20:45,FC Schalke 04,GER,Chelsea FC,ENG,0-3
+Group E,2013-10-22,20:45,FC Steaua Bucureşti,ROU,FC Basel 1893,SUI,1-1
+Group E,2013-11-06,20:45,Chelsea FC,ENG,FC Schalke 04,GER,3-0
+Group E,2013-11-06,20:45,FC Basel 1893,SUI,FC Steaua Bucureşti,ROU,1-1
+Group E,2013-11-26,20:45,FC Basel 1893,SUI,Chelsea FC,ENG,1-0
+Group E,2013-11-26,20:45,FC Steaua Bucureşti,ROU,FC Schalke 04,GER,0-0
+Group E,2013-12-11,20:45,FC Schalke 04,GER,FC Basel 1893,SUI,2-0
+Group E,2013-12-11,20:45,Chelsea FC,ENG,FC Steaua Bucureşti,ROU,1-0
+Group F,2013-09-18,20:45,Olympique Marseille,FRA,Arsenal FC,ENG,1-2
+Group F,2013-09-18,20:45,SSC Napoli,ITA,Borussia Dortmund,GER,2-1
+Group F,2013-10-01,20:45,Borussia Dortmund,GER,Olympique Marseille,FRA,3-0
+Group F,2013-10-01,20:45,Arsenal FC,ENG,SSC Napoli,ITA,2-0
+Group F,2013-10-22,20:45,Arsenal FC,ENG,Borussia Dortmund,GER,1-2
+Group F,2013-10-22,20:45,Olympique Marseille,FRA,SSC Napoli,ITA,1-2
+Group F,2013-11-06,20:45,Borussia Dortmund,GER,Arsenal FC,ENG,0-1
+Group F,2013-11-06,20:45,SSC Napoli,ITA,Olympique Marseille,FRA,3-2
+Group F,2013-11-26,20:45,Arsenal FC,ENG,Olympique Marseille,FRA,2-0
+Group F,2013-11-26,20:45,Borussia Dortmund,GER,SSC Napoli,ITA,3-1
+Group F,2013-12-11,20:45,Olympique Marseille,FRA,Borussia Dortmund,GER,1-2
+Group F,2013-12-11,20:45,SSC Napoli,ITA,Arsenal FC,ENG,2-0
+Group G,2013-09-18,20:45,Atlético Madrid,ESP,Zenit St. Petersburg,RUS,3-1
+Group G,2013-09-18,20:45,Austria Wien,AUT,FC Porto,POR,0-1
+Group G,2013-10-01,18:00,Zenit St. Petersburg,RUS,Austria Wien,AUT,0-0
+Group G,2013-10-01,20:45,FC Porto,POR,Atlético Madrid,ESP,1-2
+Group G,2013-10-22,20:45,FC Porto,POR,Zenit St. Petersburg,RUS,0-1
+Group G,2013-10-22,20:45,Austria Wien,AUT,Atlético Madrid,ESP,0-3
+Group G,2013-11-06,18:00,Zenit St. Petersburg,RUS,FC Porto,POR,1-1
+Group G,2013-11-06,20:45,Atlético Madrid,ESP,Austria Wien,AUT,4-0
+Group G,2013-11-26,18:00,Zenit St. Petersburg,RUS,Atlético Madrid,ESP,1-1
+Group G,2013-11-26,20:45,FC Porto,POR,Austria Wien,AUT,1-1
+Group G,2013-12-11,20:45,Atlético Madrid,ESP,FC Porto,POR,2-0
+Group G,2013-12-11,20:45,Austria Wien,AUT,Zenit St. Petersburg,RUS,4-1
+Group H,2013-09-18,20:45,FC Barcelona,ESP,AFC Ajax,NED,4-0
+Group H,2013-09-18,20:45,AC Milan,ITA,Celtic FC,SCO,2-0
+Group H,2013-10-01,20:45,AFC Ajax,NED,AC Milan,ITA,1-1
+Group H,2013-10-01,20:45,Celtic FC,SCO,FC Barcelona,ESP,0-1
+Group H,2013-10-22,20:45,AC Milan,ITA,FC Barcelona,ESP,1-1
+Group H,2013-10-22,20:45,Celtic FC,SCO,AFC Ajax,NED,2-1
+Group H,2013-11-06,20:45,FC Barcelona,ESP,AC Milan,ITA,3-1
+Group H,2013-11-06,20:45,AFC Ajax,NED,Celtic FC,SCO,1-0
+Group H,2013-11-26,20:45,AFC Ajax,NED,FC Barcelona,ESP,2-1
+Group H,2013-11-26,20:45,Celtic FC,SCO,AC Milan,ITA,0-3
+Group H,2013-12-11,20:45,AC Milan,ITA,AFC Ajax,NED,0-0
+Group H,2013-12-11,20:45,FC Barcelona,ESP,Celtic FC,SCO,6-1
+Round of 16,2014-02-18,20:45,Manchester City,ENG,FC Barcelona,ESP,0-2
+Round of 16,2014-02-18,20:45,Bayer Leverkusen,GER,Paris Saint-Germain,FRA,0-4
+Round of 16,2013-02-19,20:45,AC Milan,ITA,Atlético Madrid,ESP,0-1
+Round of 16,2013-02-19,20:45,Arsenal FC,ENG,Bayern München,GER,0-2
+Round of 16,2013-02-25,18:00,Zenit St. Petersburg,RUS,Borussia Dortmund,GER,2-4
+Round of 16,2013-02-25,20:45,Olympiakos Piraeus,GRE,Manchester United,ENG,2-0
+Round of 16,2013-02-26,20:45,Galatasaray,TUR,Chelsea FC,ENG,1-1
+Round of 16,2013-02-26,20:45,FC Schalke 04,GER,Real Madrid,ESP,1-6
+Round of 16,2013-03-11,20:45,Atlético Madrid,ESP,AC Milan,ITA,4-1
+Round of 16,2013-03-11,20:45,Bayern München,GER,Arsenal FC,ENG,1-1
+Round of 16,2013-03-12,20:45,FC Barcelona,ESP,Manchester City,ENG,2-1
+Round of 16,2013-03-12,20:45,Paris Saint-Germain,FRA,Bayer Leverkusen,GER,2-1
+Round of 16,2013-03-18,20:45,Chelsea FC,ENG,Galatasaray,TUR,2-0
+Round of 16,2013-03-18,20:45,Real Madrid,ESP,FC Schalke 04,GER,3-1
+Round of 16,2013-03-19,20:45,Manchester United,ENG,Olympiakos Piraeus,GRE,3-0
+Round of 16,2013-03-19,20:45,Borussia Dortmund,GER,Zenit St. Petersburg,RUS,1-2
+Quarterfinals,2013-04-01,20:45,FC Barcelona,ESP,Atlético Madrid,ESP,1-1
+Quarterfinals,2013-04-01,20:45,Manchester United,ENG,Bayern München,GER,1-1
+Quarterfinals,2013-04-02,20:45,Real Madrid,ESP,Borussia Dortmund,GER,3-0
+Quarterfinals,2013-04-02,20:45,Paris Saint-Germain,FRA,Chelsea FC,ENG,3-1
+Quarterfinals,2013-04-08,20:45,Borussia Dortmund,GER,Real Madrid,ESP,2-0
+Quarterfinals,2013-04-08,20:45,Chelsea FC,ENG,Paris Saint-Germain,FRA,2-0
+Quarterfinals,2013-04-09,20:45,Atlético Madrid,ESP,FC Barcelona,ESP,1-0
+Quarterfinals,2013-04-09,20:45,Bayern München,GER,Manchester United,ENG,3-1
+Semifinals,2013-04-22,20:45,Atlético Madrid,ESP,Chelsea FC,ENG,0-0
+Semifinals,2013-04-23,20:45,Real Madrid,ESP,Bayern München,GER,1-0
+Semifinals,2013-04-29,20:45,Bayern München,GER,Real Madrid,ESP,0-4
+Semifinals,2013-04-30,20:45,Chelsea FC,ENG,Atlético Madrid,ESP,1-3
+Final,2013-05-24,20:45,Real Madrid,ESP,Atlético Madrid,ESP,4-1

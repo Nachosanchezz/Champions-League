@@ -1,0 +1,238 @@
+Stage,Date,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Qualifying,2001-07-11,Sloga Jugomagnat Skopje,MKD,FBK Kaunas,LTU,0-0
+Qualifying,2001-07-11,KR Reykjavik,ISL,FK Vllaznia,ALB,2-1
+Qualifying,2001-07-11,Araks Ararat,ARM,Sheriff Tiraspol,MDA,0-1
+Qualifying,2001-07-11,Barry Town,WAL,Shamkir,AZE,2-0
+Qualifying,2001-07-11,Bohemians,IRL,Levadia,EST,3-0
+Qualifying,2001-07-11,F91 Dudelange,LUX,Skonto,LVA,1-6
+Qualifying,2001-07-11,Valletta,MLT,Haka Valkeakoski,FIN,0-0
+Qualifying,2001-07-11,Levski Sofia,BUL,Zeljeznicar Sarajevo,BIH,4-0
+Qualifying,2001-07-11,Linfield,NIR,Torpedo Kutaisi,GEO,0-0
+Qualifying,2001-07-11,Vagur,FRO,PFC Slavia Sofia,BUL,0-0
+Qualifying,2001-07-18,FBK Kaunas,LTU,Sloga Jugomagnat Skopje,MKD,1-1
+Qualifying,2001-07-18,FK Vllaznia,ALB,KR Reykjavik,ISL,1-0
+Qualifying,2001-07-18,Sheriff Tiraspol,MDA,Araks Ararat,ARM,2-0
+Qualifying,2001-07-18,Shamkir,AZE,Barry Town,WAL,0-1
+Qualifying,2001-07-18,Levadia,EST,Bohemians,IRL,0-0
+Qualifying,2001-07-18,Skonto,LVA,F91 Dudelange,LUX,0-1
+Qualifying,2001-07-18,PFC Slavia Sofia,BUL,Vagur,FRO,5-0
+Qualifying,2001-07-18,Zeljeznicar Sarajevo,BIH,Levski Sofia,BUL,0-0
+Qualifying,2001-07-18,Torpedo Kutaisi,GEO,Linfield,NIR,1-0
+Qualifying,2001-07-18,Haka Valkeakoski,FIN,Valletta,MLT,5-0
+Qualifying,2001-07-25,Ferencvaros,HUN,Hajduk Split,CRO,0-0
+Qualifying,2001-07-25,Levski Sofia,BUL,Brann,NOR,0-0
+Qualifying,2001-07-25,FC Porto,POR,Barry Town,WAL,8-0
+Qualifying,2001-07-25,Bohemians,IRL,Halmstads BK,SWE,1-2
+Qualifying,2001-07-25,Omonia Nicosia,CYP,Crvena Zvezda,SRB,1-1
+Qualifying,2001-07-25,PFC Slavia Sofia,BUL,FK Inter Bratislava,SVK,0-1
+Qualifying,2001-07-25,Galatasaray İstanbul AŞ,TUR,FK Vllaznia,ALB,2-0
+Qualifying,2001-07-25,Haka Valkeakoski,FIN,Maccabi Haifa,ISR,0-1
+Qualifying,2001-07-25,Torpedo Kutaisi,GEO,Kobenhavn,DEN,1-1
+Qualifying,2001-07-25,Shakhtar Donetsk,UKR,Lugano,SUI,3-0
+Qualifying,2001-07-25,NK Maribor,SVN,Rangers FC,SCO,0-3
+Qualifying,2001-07-25,Steaua Bucuresti,ROU,Sloga Jugomagnat Skopje,MKD,3-0
+Qualifying,2001-07-25,Skonto,LVA,Wisla Krakow,POL,1-2
+Qualifying,2001-07-25,RSC Anderlecht,BEL,Sheriff Tiraspol,MDA,4-0
+Qualifying,2001-08-01,Hajduk Split,CRO,Ferencvaros,HUN,0-0 (*)
+Qualifying,2001-08-01,Brann,NOR,Levski Sofia,BUL,1-1
+Qualifying,2001-08-01,Barry Town,WAL,FC Porto,POR,3-1
+Qualifying,2001-08-01,Halmstads BK,SWE,Bohemians,IRL,2-0
+Qualifying,2001-08-01,Crvena Zvezda,SRB,Omonia Nicosia,CYP,2-1
+Qualifying,2001-08-01,FK Inter Bratislava,SVK,PFC Slavia Sofia,BUL,1-0
+Qualifying,2001-08-01,FK Vllaznia,ALB,Galatasaray İstanbul AŞ,TUR,1-4
+Qualifying,2001-08-01,Maccabi Haifa,ISR,Haka Valkeakoski,FIN,0-3
+Qualifying,2001-08-01,Sloga Jugomagnat Skopje,MKD,Steaua Bucuresti,ROU,1-2
+Qualifying,2001-08-01,Lugano,SUI,Shakhtar Donetsk,UKR,2-1
+Qualifying,2001-08-01,Rangers FC,SCO,NK Maribor,SVN,3-1
+Qualifying,2001-08-01,Sheriff Tiraspol,MDA,RSC Anderlecht,BEL,1-2
+Qualifying,2001-08-01,Wisla Krakow,POL,Skonto,LVA,1-0
+Qualifying,2001-08-01,Kobenhavn,DEN,Torpedo Kutaisi,GEO,3-1
+Qualifying,2001-08-07,Lokomotiv Moskva,RUS,SSW Innsbruck,AUT,3-1
+Qualifying,2001-08-07,Shakhtar Donetsk,UKR,Borussia Dortmund,GER,0-2
+Qualifying,2001-08-07,Kobenhavn,DEN,SS Lazio,ITA,2-1
+Qualifying,2001-08-07,Wisla Krakow,POL,FC Barcelona,ESP,3-4
+Qualifying,2001-08-08,AFC Ajax,NED,Celtic FC,SCO,1-3
+Qualifying,2001-08-08,Crvena Zvezda,SRB,Bayer 04 Leverkusen,GER,0-0
+Qualifying,2001-08-08,Steaua Bucuresti,ROU,Dinamo Kiev,UKR,2-4
+Qualifying,2001-08-08,FC Porto,POR,Grasshoppers Zurich,SUI,2-2
+Qualifying,2001-08-08,Rangers FC,SCO,Fenerbahçe İstanbul SK,TUR,0-0
+Qualifying,2001-08-08,FK Inter Bratislava,SVK,Rosenborg BK,NOR,3-3
+Qualifying,2001-08-08,Slavia Praha,CZE,Panathinaikos FC,GRE,1-2
+Qualifying,2001-08-08,Hajduk Split,CRO,RCD Mallorca,ESP,1-0
+Qualifying,2001-08-08,Haka Valkeakoski,FIN,Liverpool FC,ENG,0-5
+Qualifying,2001-08-08,Halmstads BK,SWE,RSC Anderlecht,BEL,2-3
+Qualifying,2001-08-08,Parma,ITA,Lille OSC,FRA,0-2
+Qualifying,2001-08-08,Galatasaray İstanbul AŞ,TUR,Levski Sofia,BUL,2-1
+Qualifying,2001-08-21,FC Barcelona,ESP,Wisla Krakow,POL,1-0
+Qualifying,2001-08-21,Borussia Dortmund,GER,Shakhtar Donetsk,UKR,3-1
+Qualifying,2001-08-21,SS Lazio,ITA,Kobenhavn,DEN,4-1
+Qualifying,2001-08-21,SSW Innsbruck,AUT,Lokomotiv Moskva,RUS,1-0
+Qualifying,2001-08-22,Grasshoppers Zurich,SUI,FC Porto,POR,2-3
+Qualifying,2001-08-22,Bayer 04 Leverkusen,GER,Crvena Zvezda,SRB,3-0
+Qualifying,2001-08-22,Dinamo Kiev,UKR,Steaua Bucuresti,ROU,1-1
+Qualifying,2001-08-22,Celtic FC,SCO,AFC Ajax,NED,0-1
+Qualifying,2001-08-22,Fenerbahçe İstanbul SK,TUR,Rangers FC,SCO,2-1
+Qualifying,2001-08-22,Rosenborg BK,NOR,FK Inter Bratislava,SVK,4-0
+Qualifying,2001-08-22,Levski Sofia,BUL,Galatasaray İstanbul AŞ,TUR,1-1
+Qualifying,2001-08-22,RCD Mallorca,ESP,Hajduk Split,CRO,1-0 (*)
+Qualifying,2001-08-22,Liverpool FC,ENG,Haka Valkeakoski,FIN,4-1
+Qualifying,2001-08-22,RSC Anderlecht,BEL,Halmstads BK,SWE,1-1
+Qualifying,2001-08-22,Lille OSC,FRA,Parma,ITA,0-1
+Qualifying,2001-08-22,Panathinaikos FC,GRE,Slavia Praha,CZE,1-0
+Group 1st,2001-09-11,Lokomotiv Moskva,RUS,RSC Anderlecht,BEL,1-1
+Group 1st,2001-09-11,AS Roma,ITA,Real Madrid CF,ESP,1-2
+Group 1st,2001-09-11,Dinamo Kiev,UKR,Borussia Dortmund,GER,2-2
+Group 1st,2001-09-11,Liverpool FC,ENG,Boavista FC,POR,1-1
+Group 1st,2001-09-11,RCD Mallorca,ESP,Arsenal FC,ENG,1-0
+Group 1st,2001-09-11,FC Schalke 04,GER,Panathinaikos FC,GRE,0-2
+Group 1st,2001-09-11,FC Nantes,FRA,PSV Eindhoven,NED,4-1
+Group 1st,2001-09-11,Galatasaray İstanbul AŞ,TUR,SS Lazio,ITA,1-0
+Group 1st,2001-09-18,Juventus,ITA,Celtic FC,SCO,3-2
+Group 1st,2001-09-18,Rosenborg BK,NOR,FC Porto,POR,1-2
+Group 1st,2001-09-18,Fenerbahçe İstanbul SK,TUR,FC Barcelona,ESP,0-3
+Group 1st,2001-09-18,Olympique Lyon,FRA,Bayer 04 Leverkusen,GER,0-1
+Group 1st,2001-09-18,Deportivo La Coruna,ESP,Olympiacos,GRE,2-2
+Group 1st,2001-09-18,Manchester United FC,ENG,Lille OSC,FRA,1-0
+Group 1st,2001-09-18,Spartak Moskva,RUS,Feyenoord Rotterdam,NED,2-2
+Group 1st,2001-09-18,Bayern München,GER,Sparta Praha,CZE,0-0
+Group 1st,2001-09-19,Real Madrid CF,ESP,Lokomotiv Moskva,RUS,4-0
+Group 1st,2001-09-19,RSC Anderlecht,BEL,AS Roma,ITA,0-0
+Group 1st,2001-09-19,Borussia Dortmund,GER,Liverpool FC,ENG,0-0
+Group 1st,2001-09-19,Boavista FC,POR,Dinamo Kiev,UKR,3-1
+Group 1st,2001-09-19,Arsenal FC,ENG,FC Schalke 04,GER,3-2
+Group 1st,2001-09-19,Panathinaikos FC,GRE,RCD Mallorca,ESP,2-0
+Group 1st,2001-09-19,SS Lazio,ITA,FC Nantes,FRA,1-3
+Group 1st,2001-09-19,PSV Eindhoven,NED,Galatasaray İstanbul AŞ,TUR,3-1
+Group 1st,2001-09-25,Celtic FC,SCO,FC Porto,POR,1-0
+Group 1st,2001-09-25,Rosenborg BK,NOR,Juventus,ITA,1-1
+Group 1st,2001-09-25,Bayer 04 Leverkusen,GER,FC Barcelona,ESP,2-1
+Group 1st,2001-09-25,Fenerbahçe İstanbul SK,TUR,Olympique Lyon,FRA,0-1
+Group 1st,2001-09-25,Deportivo La Coruna,ESP,Manchester United FC,ENG,2-1
+Group 1st,2001-09-25,Lille OSC,FRA,Olympiacos,GRE,3-1
+Group 1st,2001-09-25,Sparta Praha,CZE,Feyenoord Rotterdam,NED,4-0
+Group 1st,2001-09-25,Spartak Moskva,RUS,Bayern München,GER,1-3
+Group 1st,2001-09-26,Real Madrid CF,ESP,RSC Anderlecht,BEL,4-1
+Group 1st,2001-09-26,AS Roma,ITA,Lokomotiv Moskva,RUS,2-1
+Group 1st,2001-09-26,Liverpool FC,ENG,Dinamo Kiev,UKR,1-0
+Group 1st,2001-09-26,Boavista FC,POR,Borussia Dortmund,GER,2-1
+Group 1st,2001-09-26,Panathinaikos FC,GRE,Arsenal FC,ENG,1-0
+Group 1st,2001-09-26,FC Schalke 04,GER,RCD Mallorca,ESP,0-1
+Group 1st,2001-09-26,PSV Eindhoven,NED,SS Lazio,ITA,1-0
+Group 1st,2001-09-26,FC Nantes,FRA,Galatasaray İstanbul AŞ,TUR,0-1
+Group 1st,2001-10-10,Celtic FC,SCO,Rosenborg BK,NOR,1-0
+Group 1st,2001-10-10,FC Porto,POR,Juventus,ITA,0-0
+Group 1st,2001-10-10,FC Barcelona,ESP,Olympique Lyon,FRA,2-0
+Group 1st,2001-10-10,Bayer 04 Leverkusen,GER,Fenerbahçe İstanbul SK,TUR,2-1
+Group 1st,2001-10-10,Lille OSC,FRA,Deportivo La Coruna,ESP,1-1
+Group 1st,2001-10-10,Olympiacos,GRE,Manchester United FC,ENG,0-2
+Group 1st,2001-10-10,Feyenoord Rotterdam,NED,Bayern München,GER,2-2
+Group 1st,2001-10-10,Sparta Praha,CZE,Spartak Moskva,RUS,2-0
+Group 1st,2001-10-16,Lokomotiv Moskva,RUS,AS Roma,ITA,0-1
+Group 1st,2001-10-16,RSC Anderlecht,BEL,Real Madrid CF,ESP,0-2
+Group 1st,2001-10-16,Dinamo Kiev,UKR,Liverpool FC,ENG,1-2
+Group 1st,2001-10-16,Borussia Dortmund,GER,Boavista FC,POR,2-1
+Group 1st,2001-10-16,RCD Mallorca,ESP,FC Schalke 04,GER,0-4
+Group 1st,2001-10-16,Arsenal FC,ENG,Panathinaikos FC,GRE,2-1
+Group 1st,2001-10-16,Galatasaray İstanbul AŞ,TUR,FC Nantes,FRA,0-0
+Group 1st,2001-10-16,SS Lazio,ITA,PSV Eindhoven,NED,2-1
+Group 1st,2001-10-17,Juventus,ITA,Rosenborg BK,NOR,1-0
+Group 1st,2001-10-17,FC Porto,POR,Celtic FC,SCO,3-0
+Group 1st,2001-10-17,FC Barcelona,ESP,Bayer 04 Leverkusen,GER,2-1
+Group 1st,2001-10-17,Olympique Lyon,FRA,Fenerbahçe İstanbul SK,TUR,3-1
+Group 1st,2001-10-17,Manchester United FC,ENG,Deportivo La Coruna,ESP,2-3
+Group 1st,2001-10-17,Olympiacos,GRE,Lille OSC,FRA,2-1
+Group 1st,2001-10-17,Feyenoord Rotterdam,NED,Sparta Praha,CZE,0-2
+Group 1st,2001-10-17,Bayern München,GER,Spartak Moskva,RUS,5-1
+Group 1st,2001-10-23,Rosenborg BK,NOR,Celtic FC,SCO,2-0
+Group 1st,2001-10-23,Juventus,ITA,FC Porto,POR,3-1
+Group 1st,2001-10-23,Fenerbahçe İstanbul SK,TUR,Bayer 04 Leverkusen,GER,1-2
+Group 1st,2001-10-23,Olympique Lyon,FRA,FC Barcelona,ESP,2-3
+Group 1st,2001-10-23,Manchester United FC,ENG,Olympiacos,GRE,3-0
+Group 1st,2001-10-23,Deportivo La Coruna,ESP,Lille OSC,FRA,1-1
+Group 1st,2001-10-23,Bayern München,GER,Feyenoord Rotterdam,NED,3-1
+Group 1st,2001-10-23,Spartak Moskva,RUS,Sparta Praha,CZE,2-2
+Group 1st,2001-10-24,Real Madrid CF,ESP,AS Roma,ITA,1-1
+Group 1st,2001-10-24,RSC Anderlecht,BEL,Lokomotiv Moskva,RUS,1-5
+Group 1st,2001-10-24,Borussia Dortmund,GER,Dinamo Kiev,UKR,1-0
+Group 1st,2001-10-24,Boavista FC,POR,Liverpool FC,ENG,1-1
+Group 1st,2001-10-24,Panathinaikos FC,GRE,FC Schalke 04,GER,2-0
+Group 1st,2001-10-24,Arsenal FC,ENG,RCD Mallorca,ESP,3-1
+Group 1st,2001-10-24,SS Lazio,ITA,Galatasaray İstanbul AŞ,TUR,1-0
+Group 1st,2001-10-24,PSV Eindhoven,NED,FC Nantes,FRA,0-0
+Group 1st,2001-10-30,Lokomotiv Moskva,RUS,Real Madrid CF,ESP,2-0
+Group 1st,2001-10-30,AS Roma,ITA,RSC Anderlecht,BEL,1-1
+Group 1st,2001-10-30,Dinamo Kiev,UKR,Boavista FC,POR,1-0
+Group 1st,2001-10-30,Liverpool FC,ENG,Borussia Dortmund,GER,2-0
+Group 1st,2001-10-30,RCD Mallorca,ESP,Panathinaikos FC,GRE,1-0
+Group 1st,2001-10-30,FC Schalke 04,GER,Arsenal FC,ENG,3-1
+Group 1st,2001-10-30,FC Nantes,FRA,SS Lazio,ITA,1-0
+Group 1st,2001-10-30,Galatasaray İstanbul AŞ,TUR,PSV Eindhoven,NED,2-0
+Group 1st,2001-10-31,FC Porto,POR,Rosenborg BK,NOR,1-0
+Group 1st,2001-10-31,Celtic FC,SCO,Juventus,ITA,4-3
+Group 1st,2001-10-31,FC Barcelona,ESP,Fenerbahçe İstanbul SK,TUR,1-0
+Group 1st,2001-10-31,Bayer 04 Leverkusen,GER,Olympique Lyon,FRA,2-4
+Group 1st,2001-10-31,Olympiacos,GRE,Deportivo La Coruna,ESP,1-1
+Group 1st,2001-10-31,Lille OSC,FRA,Manchester United FC,ENG,1-1
+Group 1st,2001-10-31,Feyenoord Rotterdam,NED,Spartak Moskva,RUS,2-1
+Group 1st,2001-10-31,Sparta Praha,CZE,Bayern München,GER,0-1
+Group 2nd,2001-11-20,Boavista FC,POR,FC Nantes,FRA,1-0
+Group 2nd,2001-11-20,Bayern München,GER,Manchester United FC,ENG,1-1
+Group 2nd,2001-11-20,Galatasaray İstanbul AŞ,TUR,AS Roma,ITA,1-1
+Group 2nd,2001-11-20,Liverpool FC,ENG,FC Barcelona,ESP,1-3
+Group 2nd,2001-11-21,Sparta Praha,CZE,Real Madrid CF,ESP,2-3
+Group 2nd,2001-11-21,Panathinaikos FC,GRE,FC Porto,POR,0-0
+Group 2nd,2001-11-21,Deportivo La Coruna,ESP,Arsenal FC,ENG,2-0
+Group 2nd,2001-11-29,Juventus,ITA,Bayer 04 Leverkusen,GER,4-0
+Group 2nd,2001-12-04,Real Madrid CF,ESP,Panathinaikos FC,GRE,3-0
+Group 2nd,2001-12-04,FC Porto,POR,Sparta Praha,CZE,0-1
+Group 2nd,2001-12-04,Bayer 04 Leverkusen,GER,Deportivo La Coruna,ESP,3-0
+Group 2nd,2001-12-04,Arsenal FC,ENG,Juventus,ITA,3-1
+Group 2nd,2001-12-05,Manchester United FC,ENG,Boavista FC,POR,3-0
+Group 2nd,2001-12-05,FC Nantes,FRA,Bayern München,GER,0-1
+Group 2nd,2001-12-05,AS Roma,ITA,Liverpool FC,ENG,0-0
+Group 2nd,2001-12-05,FC Barcelona,ESP,Galatasaray İstanbul AŞ,TUR,2-2
+Group 2nd,2002-02-19,Real Madrid CF,ESP,FC Porto,POR,1-0
+Group 2nd,2002-02-19,Sparta Praha,CZE,Panathinaikos FC,GRE,0-2
+Group 2nd,2002-02-19,Juventus,ITA,Deportivo La Coruna,ESP,0-0
+Group 2nd,2002-02-19,Bayer 04 Leverkusen,GER,Arsenal FC,ENG,1-1
+Group 2nd,2002-02-20,Boavista FC,POR,Bayern München,GER,0-0
+Group 2nd,2002-02-20,FC Nantes,FRA,Manchester United FC,ENG,1-1
+Group 2nd,2002-02-20,FC Barcelona,ESP,AS Roma,ITA,1-1
+Group 2nd,2002-02-20,Liverpool FC,ENG,Galatasaray İstanbul AŞ,TUR,0-0
+Group 2nd,2002-02-26,Manchester United FC,ENG,FC Nantes,FRA,5-1
+Group 2nd,2002-02-26,Bayern München,GER,Boavista FC,POR,1-0
+Group 2nd,2002-02-26,AS Roma,ITA,FC Barcelona,ESP,3-0
+Group 2nd,2002-02-26,Galatasaray İstanbul AŞ,TUR,Liverpool FC,ENG,1-1
+Group 2nd,2002-02-27,Panathinaikos FC,GRE,Sparta Praha,CZE,2-1
+Group 2nd,2002-02-27,FC Porto,POR,Real Madrid CF,ESP,1-2
+Group 2nd,2002-02-27,Arsenal FC,ENG,Bayer 04 Leverkusen,GER,4-1
+Group 2nd,2002-02-27,Deportivo La Coruna,ESP,Juventus,ITA,2-0
+Group 2nd,2002-03-12,Real Madrid CF,ESP,Sparta Praha,CZE,3-0
+Group 2nd,2002-03-12,FC Porto,POR,Panathinaikos FC,GRE,2-1
+Group 2nd,2002-03-12,Bayer 04 Leverkusen,GER,Juventus,ITA,3-1
+Group 2nd,2002-03-12,Arsenal FC,ENG,Deportivo La Coruna,ESP,0-2
+Group 2nd,2002-03-13,Manchester United FC,ENG,Bayern München,GER,0-0
+Group 2nd,2002-03-13,FC Nantes,FRA,Boavista FC,POR,1-1
+Group 2nd,2002-03-13,AS Roma,ITA,Galatasaray İstanbul AŞ,TUR,1-1
+Group 2nd,2002-03-13,FC Barcelona,ESP,Liverpool FC,ENG,0-0
+Group 2nd,2002-03-19,Boavista FC,POR,Manchester United FC,ENG,0-3
+Group 2nd,2002-03-19,Bayern München,GER,FC Nantes,FRA,2-1
+Group 2nd,2002-03-19,Galatasaray İstanbul AŞ,TUR,FC Barcelona,ESP,0-1
+Group 2nd,2002-03-19,Liverpool FC,ENG,AS Roma,ITA,2-0
+Group 2nd,2002-03-20,Panathinaikos FC,GRE,Real Madrid CF,ESP,2-2
+Group 2nd,2002-03-20,Sparta Praha,CZE,FC Porto,POR,2-0
+Group 2nd,2002-03-20,Juventus,ITA,Arsenal FC,ENG,1-0
+Group 2nd,2002-03-20,Deportivo La Coruna,ESP,Bayer 04 Leverkusen,GER,1-3
+Knockout,2002-04-02,Bayern München,GER,Real Madrid CF,ESP,2-1
+Knockout,2002-04-02,Deportivo La Coruna,ESP,Manchester United FC,ENG,0-2
+Knockout,2002-04-03,Panathinaikos FC,GRE,FC Barcelona,ESP,1-0
+Knockout,2002-04-03,Liverpool FC,ENG,Bayer 04 Leverkusen,GER,1-0
+Knockout,2002-04-09,Bayer 04 Leverkusen,GER,Liverpool FC,ENG,4-2
+Knockout,2002-04-09,FC Barcelona,ESP,Panathinaikos FC,GRE,3-1
+Knockout,2002-04-10,Manchester United FC,ENG,Deportivo La Coruna,ESP,3-2
+Knockout,2002-04-10,Real Madrid CF,ESP,Bayern München,GER,2-0
+Knockout,2002-04-23,FC Barcelona,ESP,Real Madrid CF,ESP,0-2
+Knockout,2002-04-24,Manchester United FC,ENG,Bayer 04 Leverkusen,GER,2-2
+Knockout,2002-04-30,Bayer 04 Leverkusen,GER,Manchester United FC,ENG,1-1
+Knockout,2002-05-01,Real Madrid CF,ESP,FC Barcelona,ESP,1-1
+Knockout,2002-05-15,Real Madrid CF,ESP,Bayer 04 Leverkusen,GER,2-1

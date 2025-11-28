@@ -1,0 +1,238 @@
+Stage,Date,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Qualifying,2000-07-12,Haka Valkeakoski,FIN,Linfield,NIR,1-0
+Qualifying,2000-07-12,Shirak,ARM,BATE Borisov,BLR,1-1
+Qualifying,2000-07-12,Birkirkara,MLT,KR Reykjavik,ISL,1-2
+Qualifying,2000-07-12,KI Klaksvik,FRO,Crvena Zvezda,SRB,0-3
+Qualifying,2000-07-12,F91 Dudelange,LUX,Levski Sofia,BUL,0-4
+Qualifying,2000-07-12,FK Zalgiris Vilnius,LTU,NK Brotnjo,BIH,4-0
+Qualifying,2000-07-12,KF Tirana,ALB,Zimbru Chisinau,MDA,2-3
+Qualifying,2000-07-12,The New Saints,WAL,Levadia,EST,2-2
+Qualifying,2000-07-12,Skonto,LVA,Shamkir,AZE,2-1
+Qualifying,2000-07-12,Sloga Jugomagnat Skopje,MKD,Shelbourne,IRL,0-1
+Qualifying,2000-07-19,Linfield,NIR,Haka Valkeakoski,FIN,2-1
+Qualifying,2000-07-19,BATE Borisov,BLR,Shirak,ARM,2-1
+Qualifying,2000-07-19,KR Reykjavik,ISL,Birkirkara,MLT,4-1
+Qualifying,2000-07-19,Crvena Zvezda,SRB,KI Klaksvik,FRO,2-0
+Qualifying,2000-07-19,Levski Sofia,BUL,F91 Dudelange,LUX,2-0
+Qualifying,2000-07-19,NK Brotnjo,BIH,FK Zalgiris Vilnius,LTU,3-0
+Qualifying,2000-07-19,Shelbourne,IRL,Sloga Jugomagnat Skopje,MKD,1-1
+Qualifying,2000-07-19,Levadia,EST,The New Saints,WAL,4-0
+Qualifying,2000-07-19,Shamkir,AZE,Skonto,LVA,2-1 (*)
+Qualifying,2000-07-19,Zimbru Chisinau,MDA,KF Tirana,ALB,3-2
+Qualifying,2000-07-26,RSC Anderlecht,BEL,Anorthosis Famagusta,CYP,4-2
+Qualifying,2000-07-26,Helsingborgs IF,SWE,BATE Borisov,BLR,0-0
+Qualifying,2000-07-26,Beşiktaş İstanbul JK,TUR,Levski Sofia,BUL,1-0
+Qualifying,2000-07-26,Brondby IF,DEN,KR Reykjavik,ISL,3-1
+Qualifying,2000-07-26,Crvena Zvezda,SRB,Torpedo Kutaisi,GEO,4-0
+Qualifying,2000-07-26,Dinamo Bucuresti,ROU,Polonia Warszawa,POL,3-4
+Qualifying,2000-07-26,Hajduk Split,CRO,Dunaujvaros,HUN,0-2
+Qualifying,2000-07-26,Haka Valkeakoski,FIN,FK Inter Bratislava,SVK,0-0
+Qualifying,2000-07-26,Rangers FC,SCO,FK Zalgiris Vilnius,LTU,4-1
+Qualifying,2000-07-26,SK Sturm Graz,AUT,Hapoel Tel Aviv,ISR,3-0
+Qualifying,2000-07-26,Shakhtar Donetsk,UKR,Levadia,EST,4-1
+Qualifying,2000-07-26,Slavia Praha,CZE,Shamkir,AZE,1-0
+Qualifying,2000-07-26,Shelbourne,IRL,Rosenborg BK,NOR,1-3
+Qualifying,2000-07-26,Zimbru Chisinau,MDA,NK Maribor,SVN,2-0
+Qualifying,2000-08-02,Anorthosis Famagusta,CYP,RSC Anderlecht,BEL,0-0
+Qualifying,2000-08-02,BATE Borisov,BLR,Helsingborgs IF,SWE,0-3
+Qualifying,2000-08-02,Levski Sofia,BUL,Beşiktaş İstanbul JK,TUR,1-1
+Qualifying,2000-08-02,KR Reykjavik,ISL,Brondby IF,DEN,0-1
+Qualifying,2000-08-02,Torpedo Kutaisi,GEO,Crvena Zvezda,SRB,2-0
+Qualifying,2000-08-02,Polonia Warszawa,POL,Dinamo Bucuresti,ROU,3-1
+Qualifying,2000-08-02,Dunaujvaros,HUN,Hajduk Split,CRO,2-2
+Qualifying,2000-08-02,FK Inter Bratislava,SVK,Haka Valkeakoski,FIN,0-0 (*)
+Qualifying,2000-08-02,FK Zalgiris Vilnius,LTU,Rangers FC,SCO,0-0
+Qualifying,2000-08-02,Shamkir,AZE,Slavia Praha,CZE,1-4
+Qualifying,2000-08-02,Levadia,EST,Shakhtar Donetsk,UKR,1-5
+Qualifying,2000-08-02,NK Maribor,SVN,Zimbru Chisinau,MDA,1-0
+Qualifying,2000-08-02,Rosenborg BK,NOR,Shelbourne,IRL,1-1
+Qualifying,2000-08-02,Hapoel Tel Aviv,ISR,SK Sturm Graz,AUT,1-2
+Qualifying,2000-08-08,SSW Innsbruck,AUT,Valencia CF,ESP,0-0
+Qualifying,2000-08-08,Brondby IF,DEN,Hamburger SV,GER,0-2
+Qualifying,2000-08-08,FK Inter Bratislava,SVK,Olympique Lyon,FRA,1-2
+Qualifying,2000-08-08,Zimbru Chisinau,MDA,Sparta Praha,CZE,0-1
+Qualifying,2000-08-08,Beşiktaş İstanbul JK,TUR,Lokomotiv Moskva,RUS,3-0
+Qualifying,2000-08-09,Dinamo Kiev,UKR,Crvena Zvezda,SRB,0-0
+Qualifying,2000-08-09,AC Milan,ITA,Dinamo Zagreb,CRO,3-1
+Qualifying,2000-08-09,Dunaujvaros,HUN,Rosenborg BK,NOR,2-2
+Qualifying,2000-08-09,RSC Anderlecht,BEL,FC Porto,POR,1-0
+Qualifying,2000-08-09,Shakhtar Donetsk,UKR,Slavia Praha,CZE,0-1
+Qualifying,2000-08-09,St. Gallen,SUI,Galatasaray İstanbul AŞ,TUR,1-2
+Qualifying,2000-08-09,HB Koge,DEN,Rangers FC,SCO,0-3
+Qualifying,2000-08-09,Helsingborgs IF,SWE,Internazionale,ITA,1-0
+Qualifying,2000-08-09,Leeds United FC,ENG,TSV 1860 Munchen,GER,2-1
+Qualifying,2000-08-09,Polonia Warszawa,POL,Panathinaikos FC,GRE,2-2
+Qualifying,2000-08-09,SK Sturm Graz,AUT,Feyenoord Rotterdam,NED,2-1
+Qualifying,2000-08-22,Olympique Lyon,FRA,FK Inter Bratislava,SVK,2-1
+Qualifying,2000-08-22,Sparta Praha,CZE,Zimbru Chisinau,MDA,1-0
+Qualifying,2000-08-22,Valencia CF,ESP,SSW Innsbruck,AUT,4-1
+Qualifying,2000-08-23,Rosenborg BK,NOR,Dunaujvaros,HUN,2-1
+Qualifying,2000-08-23,Dinamo Zagreb,CRO,AC Milan,ITA,0-3
+Qualifying,2000-08-23,Lokomotiv Moskva,RUS,Beşiktaş İstanbul JK,TUR,1-3
+Qualifying,2000-08-23,Hamburger SV,GER,Brondby IF,DEN,0-0
+Qualifying,2000-08-23,Crvena Zvezda,SRB,Dinamo Kiev,UKR,1-1
+Qualifying,2000-08-23,FC Porto,POR,RSC Anderlecht,BEL,0-0
+Qualifying,2000-08-23,Feyenoord Rotterdam,NED,SK Sturm Graz,AUT,1-1
+Qualifying,2000-08-23,Galatasaray İstanbul AŞ,TUR,St. Gallen,SUI,2-2
+Qualifying,2000-08-23,Rangers FC,SCO,HB Koge,DEN,3-0
+Qualifying,2000-08-23,Internazionale,ITA,Helsingborgs IF,SWE,0-0
+Qualifying,2000-08-23,TSV 1860 Munchen,GER,Leeds United FC,ENG,0-1
+Qualifying,2000-08-23,Panathinaikos FC,GRE,Polonia Warszawa,POL,2-1
+Qualifying,2000-08-23,Slavia Praha,CZE,Shakhtar Donetsk,UKR,0-1 (*)
+Group 1st,2000-09-12,Sporting CP,POR,Real Madrid CF,ESP,2-2
+Group 1st,2000-09-12,Spartak Moskva,RUS,Bayer 04 Leverkusen,GER,2-0
+Group 1st,2000-09-12,Sparta Praha,CZE,Arsenal FC,ENG,0-1
+Group 1st,2000-09-12,Shakhtar Donetsk,UKR,SS Lazio,ITA,0-3
+Group 1st,2000-09-12,Valencia CF,ESP,Olympiacos,GRE,2-1
+Group 1st,2000-09-12,Olympique Lyon,FRA,sc Heerenveen,NED,3-1
+Group 1st,2000-09-12,Rangers FC,SCO,SK Sturm Graz,AUT,5-0
+Group 1st,2000-09-12,Galatasaray İstanbul AŞ,TUR,AS Monaco,FRA,3-2
+Group 1st,2000-09-13,Hamburger SV,GER,Juventus,ITA,4-4
+Group 1st,2000-09-13,Panathinaikos FC,GRE,Deportivo La Coruna,ESP,1-1
+Group 1st,2000-09-13,Helsingborgs IF,SWE,Bayern München,GER,1-3
+Group 1st,2000-09-13,Rosenborg BK,NOR,Paris Saint-Germain,FRA,3-1
+Group 1st,2000-09-13,PSV Eindhoven,NED,Dinamo Kiev,UKR,2-1
+Group 1st,2000-09-13,Manchester United FC,ENG,RSC Anderlecht,BEL,5-1
+Group 1st,2000-09-13,AC Milan,ITA,Beşiktaş İstanbul JK,TUR,4-1
+Group 1st,2000-09-13,FC Barcelona,ESP,Leeds United FC,ENG,4-0
+Group 1st,2000-09-19,Deportivo La Coruna,ESP,Hamburger SV,GER,2-1
+Group 1st,2000-09-19,Juventus,ITA,Panathinaikos FC,GRE,2-1
+Group 1st,2000-09-19,Bayern München,GER,Rosenborg BK,NOR,3-1
+Group 1st,2000-09-19,Paris Saint-Germain,FRA,Helsingborgs IF,SWE,4-1
+Group 1st,2000-09-19,Dinamo Kiev,UKR,Manchester United FC,ENG,0-0
+Group 1st,2000-09-19,RSC Anderlecht,BEL,PSV Eindhoven,NED,1-0
+Group 1st,2000-09-19,Leeds United FC,ENG,AC Milan,ITA,1-0
+Group 1st,2000-09-19,Beşiktaş İstanbul JK,TUR,FC Barcelona,ESP,3-0
+Group 1st,2000-09-20,Bayer 04 Leverkusen,GER,Sporting CP,POR,3-2
+Group 1st,2000-09-20,Real Madrid CF,ESP,Spartak Moskva,RUS,1-0
+Group 1st,2000-09-20,SS Lazio,ITA,Sparta Praha,CZE,3-0
+Group 1st,2000-09-20,Arsenal FC,ENG,Shakhtar Donetsk,UKR,3-2
+Group 1st,2000-09-20,sc Heerenveen,NED,Valencia CF,ESP,0-1
+Group 1st,2000-09-20,Olympiacos,GRE,Olympique Lyon,FRA,2-1
+Group 1st,2000-09-20,SK Sturm Graz,AUT,Galatasaray İstanbul AŞ,TUR,3-0
+Group 1st,2000-09-20,AS Monaco,FRA,Rangers FC,SCO,0-1
+Group 1st,2000-09-26,Juventus,ITA,Deportivo La Coruna,ESP,0-0
+Group 1st,2000-09-26,Hamburger SV,GER,Panathinaikos FC,GRE,0-1
+Group 1st,2000-09-26,Paris Saint-Germain,FRA,Bayern München,GER,1-0
+Group 1st,2000-09-26,Rosenborg BK,NOR,Helsingborgs IF,SWE,6-1
+Group 1st,2000-09-26,Dinamo Kiev,UKR,RSC Anderlecht,BEL,4-0
+Group 1st,2000-09-26,PSV Eindhoven,NED,Manchester United FC,ENG,3-1
+Group 1st,2000-09-26,Leeds United FC,ENG,Beşiktaş İstanbul JK,TUR,6-0
+Group 1st,2000-09-26,FC Barcelona,ESP,AC Milan,ITA,0-2
+Group 1st,2000-09-27,Spartak Moskva,RUS,Sporting CP,POR,3-1
+Group 1st,2000-09-27,Bayer 04 Leverkusen,GER,Real Madrid CF,ESP,2-3
+Group 1st,2000-09-27,Sparta Praha,CZE,Shakhtar Donetsk,UKR,3-2
+Group 1st,2000-09-27,Arsenal FC,ENG,SS Lazio,ITA,2-0
+Group 1st,2000-09-27,Olympiacos,GRE,sc Heerenveen,NED,2-0
+Group 1st,2000-09-27,Valencia CF,ESP,Olympique Lyon,FRA,1-0
+Group 1st,2000-09-27,AS Monaco,FRA,SK Sturm Graz,AUT,5-0
+Group 1st,2000-09-27,Galatasaray İstanbul AŞ,TUR,Rangers FC,SCO,3-2
+Group 1st,2000-10-17,Sporting CP,POR,Spartak Moskva,RUS,0-3
+Group 1st,2000-10-17,Real Madrid CF,ESP,Bayer 04 Leverkusen,GER,5-3
+Group 1st,2000-10-17,Shakhtar Donetsk,UKR,Sparta Praha,CZE,2-1
+Group 1st,2000-10-17,SS Lazio,ITA,Arsenal FC,ENG,1-1
+Group 1st,2000-10-17,sc Heerenveen,NED,Olympiacos,GRE,1-0
+Group 1st,2000-10-17,Olympique Lyon,FRA,Valencia CF,ESP,1-2
+Group 1st,2000-10-17,SK Sturm Graz,AUT,AS Monaco,FRA,2-0
+Group 1st,2000-10-17,Rangers FC,SCO,Galatasaray İstanbul AŞ,TUR,0-0
+Group 1st,2000-10-18,Deportivo La Coruna,ESP,Juventus,ITA,1-1
+Group 1st,2000-10-18,Panathinaikos FC,GRE,Hamburger SV,GER,0-0
+Group 1st,2000-10-18,Helsingborgs IF,SWE,Rosenborg BK,NOR,2-0
+Group 1st,2000-10-18,Bayern München,GER,Paris Saint-Germain,FRA,2-0
+Group 1st,2000-10-18,RSC Anderlecht,BEL,Dinamo Kiev,UKR,4-2
+Group 1st,2000-10-18,Manchester United FC,ENG,PSV Eindhoven,NED,3-1
+Group 1st,2000-10-18,Beşiktaş İstanbul JK,TUR,Leeds United FC,ENG,0-0
+Group 1st,2000-10-18,AC Milan,ITA,FC Barcelona,ESP,3-3
+Group 1st,2000-10-24,Juventus,ITA,Hamburger SV,GER,1-3
+Group 1st,2000-10-24,Deportivo La Coruna,ESP,Panathinaikos FC,GRE,1-0
+Group 1st,2000-10-24,Bayern München,GER,Helsingborgs IF,SWE,0-0
+Group 1st,2000-10-24,Paris Saint-Germain,FRA,Rosenborg BK,NOR,7-2
+Group 1st,2000-10-24,Dinamo Kiev,UKR,PSV Eindhoven,NED,0-1
+Group 1st,2000-10-24,RSC Anderlecht,BEL,Manchester United FC,ENG,2-1
+Group 1st,2000-10-24,Beşiktaş İstanbul JK,TUR,AC Milan,ITA,0-2
+Group 1st,2000-10-24,Leeds United FC,ENG,FC Barcelona,ESP,1-1
+Group 1st,2000-10-25,Real Madrid CF,ESP,Sporting CP,POR,4-0
+Group 1st,2000-10-25,Bayer 04 Leverkusen,GER,Spartak Moskva,RUS,1-0
+Group 1st,2000-10-25,SS Lazio,ITA,Shakhtar Donetsk,UKR,5-1
+Group 1st,2000-10-25,Arsenal FC,ENG,Sparta Praha,CZE,4-2
+Group 1st,2000-10-25,Olympiacos,GRE,Valencia CF,ESP,1-0
+Group 1st,2000-10-25,sc Heerenveen,NED,Olympique Lyon,FRA,0-2
+Group 1st,2000-10-25,SK Sturm Graz,AUT,Rangers FC,SCO,2-0
+Group 1st,2000-10-25,AS Monaco,FRA,Galatasaray İstanbul AŞ,TUR,4-2
+Group 1st,2000-11-07,Spartak Moskva,RUS,Real Madrid CF,ESP,1-0
+Group 1st,2000-11-07,Sporting CP,POR,Bayer 04 Leverkusen,GER,0-0
+Group 1st,2000-11-07,Shakhtar Donetsk,UKR,Arsenal FC,ENG,3-0
+Group 1st,2000-11-07,Sparta Praha,CZE,SS Lazio,ITA,0-1
+Group 1st,2000-11-07,Valencia CF,ESP,sc Heerenveen,NED,1-1
+Group 1st,2000-11-07,Olympique Lyon,FRA,Olympiacos,GRE,1-0
+Group 1st,2000-11-07,Rangers FC,SCO,AS Monaco,FRA,2-2
+Group 1st,2000-11-07,Galatasaray İstanbul AŞ,TUR,SK Sturm Graz,AUT,2-2
+Group 1st,2000-11-08,Panathinaikos FC,GRE,Juventus,ITA,3-1
+Group 1st,2000-11-08,Hamburger SV,GER,Deportivo La Coruna,ESP,1-1
+Group 1st,2000-11-08,Helsingborgs IF,SWE,Paris Saint-Germain,FRA,1-1
+Group 1st,2000-11-08,Rosenborg BK,NOR,Bayern München,GER,1-1
+Group 1st,2000-11-08,Manchester United FC,ENG,Dinamo Kiev,UKR,1-0
+Group 1st,2000-11-08,PSV Eindhoven,NED,RSC Anderlecht,BEL,2-3
+Group 1st,2000-11-08,AC Milan,ITA,Leeds United FC,ENG,1-1
+Group 1st,2000-11-08,FC Barcelona,ESP,Beşiktaş İstanbul JK,TUR,5-0
+Group 2nd,2000-11-21,Valencia CF,ESP,SK Sturm Graz,AUT,2-0
+Group 2nd,2000-11-21,Manchester United FC,ENG,Panathinaikos FC,GRE,3-1
+Group 2nd,2000-11-21,Paris Saint-Germain,FRA,Deportivo La Coruna,ESP,1-3
+Group 2nd,2000-11-21,AC Milan,ITA,Galatasaray İstanbul AŞ,TUR,2-2
+Group 2nd,2000-11-22,Spartak Moskva,RUS,Arsenal FC,ENG,4-1
+Group 2nd,2000-11-22,Bayern München,GER,Olympique Lyon,FRA,1-0
+Group 2nd,2000-11-22,RSC Anderlecht,BEL,SS Lazio,ITA,1-0
+Group 2nd,2000-11-22,Leeds United FC,ENG,Real Madrid CF,ESP,0-2
+Group 2nd,2000-12-05,Arsenal FC,ENG,Bayern München,GER,2-2
+Group 2nd,2000-12-05,Olympique Lyon,FRA,Spartak Moskva,RUS,3-0
+Group 2nd,2000-12-05,SS Lazio,ITA,Leeds United FC,ENG,0-1
+Group 2nd,2000-12-05,Real Madrid CF,ESP,RSC Anderlecht,BEL,4-1
+Group 2nd,2000-12-06,Panathinaikos FC,GRE,Valencia CF,ESP,0-0
+Group 2nd,2000-12-06,SK Sturm Graz,AUT,Manchester United FC,ENG,0-2
+Group 2nd,2000-12-06,Deportivo La Coruna,ESP,AC Milan,ITA,0-1
+Group 2nd,2000-12-06,Galatasaray İstanbul AŞ,TUR,Paris Saint-Germain,FRA,1-0
+Group 2nd,2001-02-13,Olympique Lyon,FRA,Arsenal FC,ENG,0-1
+Group 2nd,2001-02-13,Bayern München,GER,Spartak Moskva,RUS,1-0
+Group 2nd,2001-02-13,Leeds United FC,ENG,RSC Anderlecht,BEL,2-1
+Group 2nd,2001-02-13,Real Madrid CF,ESP,SS Lazio,ITA,3-2
+Group 2nd,2001-02-14,Valencia CF,ESP,Manchester United FC,ENG,0-0
+Group 2nd,2001-02-14,SK Sturm Graz,AUT,Panathinaikos FC,GRE,2-0
+Group 2nd,2001-02-14,AC Milan,ITA,Paris Saint-Germain,FRA,1-1
+Group 2nd,2001-02-14,Galatasaray İstanbul AŞ,TUR,Deportivo La Coruna,ESP,1-0
+Group 2nd,2001-02-20,Panathinaikos FC,GRE,SK Sturm Graz,AUT,1-2
+Group 2nd,2001-02-20,Manchester United FC,ENG,Valencia CF,ESP,1-1
+Group 2nd,2001-02-20,Deportivo La Coruna,ESP,Galatasaray İstanbul AŞ,TUR,2-0
+Group 2nd,2001-02-20,Paris Saint-Germain,FRA,AC Milan,ITA,1-1
+Group 2nd,2001-02-21,Arsenal FC,ENG,Olympique Lyon,FRA,1-1
+Group 2nd,2001-02-21,Spartak Moskva,RUS,Bayern München,GER,0-3
+Group 2nd,2001-02-21,SS Lazio,ITA,Real Madrid CF,ESP,2-2
+Group 2nd,2001-02-21,RSC Anderlecht,BEL,Leeds United FC,ENG,1-4
+Group 2nd,2001-03-06,Olympique Lyon,FRA,Bayern München,GER,3-0
+Group 2nd,2001-03-06,Arsenal FC,ENG,Spartak Moskva,RUS,1-0
+Group 2nd,2001-03-06,SS Lazio,ITA,RSC Anderlecht,BEL,2-1
+Group 2nd,2001-03-06,Real Madrid CF,ESP,Leeds United FC,ENG,3-2
+Group 2nd,2001-03-07,SK Sturm Graz,AUT,Valencia CF,ESP,0-5
+Group 2nd,2001-03-07,Panathinaikos FC,GRE,Manchester United FC,ENG,1-1
+Group 2nd,2001-03-07,Deportivo La Coruna,ESP,Paris Saint-Germain,FRA,4-3
+Group 2nd,2001-03-07,Galatasaray İstanbul AŞ,TUR,AC Milan,ITA,2-0
+Group 2nd,2001-03-13,Valencia CF,ESP,Panathinaikos FC,GRE,2-1
+Group 2nd,2001-03-13,Manchester United FC,ENG,SK Sturm Graz,AUT,3-0
+Group 2nd,2001-03-13,Paris Saint-Germain,FRA,Galatasaray İstanbul AŞ,TUR,2-0
+Group 2nd,2001-03-13,AC Milan,ITA,Deportivo La Coruna,ESP,1-1
+Group 2nd,2001-03-14,Bayern München,GER,Arsenal FC,ENG,1-0
+Group 2nd,2001-03-14,Spartak Moskva,RUS,Olympique Lyon,FRA,1-1
+Group 2nd,2001-03-14,Leeds United FC,ENG,SS Lazio,ITA,3-3
+Group 2nd,2001-03-14,RSC Anderlecht,BEL,Real Madrid CF,ESP,2-0
+Knockout,2001-04-03,Manchester United FC,ENG,Bayern München,GER,0-1
+Knockout,2001-04-03,Galatasaray İstanbul AŞ,TUR,Real Madrid CF,ESP,3-2
+Knockout,2001-04-04,Arsenal FC,ENG,Valencia CF,ESP,2-1
+Knockout,2001-04-04,Leeds United FC,ENG,Deportivo La Coruna,ESP,3-0
+Knockout,2001-04-17,Valencia CF,ESP,Arsenal FC,ENG,1-0
+Knockout,2001-04-17,Deportivo La Coruna,ESP,Leeds United FC,ENG,2-0
+Knockout,2001-04-18,Real Madrid CF,ESP,Galatasaray İstanbul AŞ,TUR,3-0
+Knockout,2001-04-18,Bayern München,GER,Manchester United FC,ENG,2-1
+Knockout,2001-05-01,Real Madrid CF,ESP,Bayern München,GER,0-1
+Knockout,2001-05-02,Leeds United FC,ENG,Valencia CF,ESP,0-0
+Knockout,2001-05-08,Valencia CF,ESP,Leeds United FC,ENG,3-0
+Knockout,2001-05-09,Bayern München,GER,Real Madrid CF,ESP,2-1
+Knockout,2001-05-23,Bayern München,GER,Valencia CF,ESP,1-1 (*)

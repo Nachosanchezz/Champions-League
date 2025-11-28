@@ -1,0 +1,126 @@
+Stage,Date,Time,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Group A,2022-09-07,18:45,AFC Ajax,NED,Rangers FC,SCO,4-0
+Group A,2022-09-07,21:00,SSC Napoli,ITA,Liverpool FC,ENG,4-1
+Group A,2022-09-13,21:00,Liverpool FC,ENG,AFC Ajax,NED,2-1
+Group A,2022-09-14,21:00,Rangers FC,SCO,SSC Napoli,ITA,0-3
+Group A,2022-10-04,21:00,AFC Ajax,NED,SSC Napoli,ITA,1-6
+Group A,2022-10-04,21:00,Liverpool FC,ENG,Rangers FC,SCO,2-0
+Group A,2022-10-12,18:45,SSC Napoli,ITA,AFC Ajax,NED,4-2
+Group A,2022-10-12,21:00,Rangers FC,SCO,Liverpool FC,ENG,1-7
+Group A,2022-10-26,21:00,AFC Ajax,NED,Liverpool FC,ENG,0-3
+Group A,2022-10-26,21:00,SSC Napoli,ITA,Rangers FC,SCO,3-0
+Group A,2022-11-01,21:00,Rangers FC,SCO,AFC Ajax,NED,1-3
+Group A,2022-11-01,21:00,Liverpool FC,ENG,SSC Napoli,ITA,2-0
+Group B,2022-09-07,21:00,Atlético Madrid,ESP,FC Porto,POR,2-1
+Group B,2022-09-07,21:00,Club Brugge KV,BEL,Bayer Leverkusen,GER,1-0
+Group B,2022-09-13,21:00,Bayer Leverkusen,GER,Atlético Madrid,ESP,2-0
+Group B,2022-09-13,21:00,FC Porto,POR,Club Brugge KV,BEL,0-4
+Group B,2022-10-04,21:00,Club Brugge KV,BEL,Atlético Madrid,ESP,2-0
+Group B,2022-10-04,21:00,FC Porto,POR,Bayer Leverkusen,GER,2-0
+Group B,2022-10-12,18:45,Atlético Madrid,ESP,Club Brugge KV,BEL,0-0
+Group B,2022-10-12,21:00,Bayer Leverkusen,GER,FC Porto,POR,0-3
+Group B,2022-10-26,18:45,Club Brugge KV,BEL,FC Porto,POR,0-4
+Group B,2022-10-26,21:00,Atlético Madrid,ESP,Bayer Leverkusen,GER,2-2
+Group B,2022-11-01,18:45,FC Porto,POR,Atlético Madrid,ESP,2-1
+Group B,2022-11-01,18:45,Bayer Leverkusen,GER,Club Brugge KV,BEL,0-0
+Group C,2022-09-07,21:00,Inter,ITA,Bayern München,GER,0-2
+Group C,2022-09-07,21:00,FC Barcelona,ESP,Viktoria Plzeň,CZE,5-1
+Group C,2022-09-13,18:45,Viktoria Plzeň,CZE,Inter,ITA,0-2
+Group C,2022-09-13,21:00,Bayern München,GER,FC Barcelona,ESP,2-0
+Group C,2022-10-04,18:45,Bayern München,GER,Viktoria Plzeň,CZE,5-0
+Group C,2022-10-04,21:00,Inter,ITA,FC Barcelona,ESP,1-0
+Group C,2022-10-12,21:00,Viktoria Plzeň,CZE,Bayern München,GER,2-4
+Group C,2022-10-12,21:00,FC Barcelona,ESP,Inter,ITA,3-3
+Group C,2022-10-26,18:45,Inter,ITA,Viktoria Plzeň,CZE,4-0
+Group C,2022-10-26,21:00,FC Barcelona,ESP,Bayern München,GER,0-3
+Group C,2022-11-01,21:00,Bayern München,GER,Inter,ITA,2-0
+Group C,2022-11-01,21:00,Viktoria Plzeň,CZE,FC Barcelona,ESP,2-4
+Group D,2022-09-07,18:45,Eintracht Frankfurt,GER,Sporting CP,POR,0-3
+Group D,2022-09-07,21:00,Tottenham Hotspur,ENG,Olympique Marseille,FRA,2-0
+Group D,2022-09-13,18:45,Sporting CP,POR,Tottenham Hotspur,ENG,2-0
+Group D,2022-09-13,21:00,Olympique Marseille,FRA,Eintracht Frankfurt,GER,0-1
+Group D,2022-10-04,18:45,Olympique Marseille,FRA,Sporting CP,POR,4-1
+Group D,2022-10-04,21:00,Eintracht Frankfurt,GER,Tottenham Hotspur,ENG,0-0
+Group D,2022-10-12,21:00,Tottenham Hotspur,ENG,Eintracht Frankfurt,GER,3-2
+Group D,2022-10-12,21:00,Sporting CP,POR,Olympique Marseille,FRA,0-2
+Group D,2022-10-26,21:00,Eintracht Frankfurt,GER,Olympique Marseille,FRA,2-1
+Group D,2022-10-26,21:00,Tottenham Hotspur,ENG,Sporting CP,POR,1-1
+Group D,2022-11-01,21:00,Sporting CP,POR,Eintracht Frankfurt,GER,1-2
+Group D,2022-11-01,21:00,Olympique Marseille,FRA,Tottenham Hotspur,ENG,1-2
+Group E,2022-09-06,18:45,Dinamo Zagreb,CRO,Chelsea FC,ENG,1-0
+Group E,2022-09-06,21:00,RB Salzburg,AUT,AC Milan,ITA,1-1
+Group E,2022-09-14,18:45,AC Milan,ITA,Dinamo Zagreb,CRO,3-1
+Group E,2022-09-14,21:00,Chelsea FC,ENG,RB Salzburg,AUT,1-1
+Group E,2022-10-05,18:45,RB Salzburg,AUT,Dinamo Zagreb,CRO,1-0
+Group E,2022-10-05,21:00,Chelsea FC,ENG,AC Milan,ITA,3-0
+Group E,2022-10-11,21:00,AC Milan,ITA,Chelsea FC,ENG,0-2
+Group E,2022-10-11,21:00,Dinamo Zagreb,CRO,RB Salzburg,AUT,1-1
+Group E,2022-10-25,18:45,RB Salzburg,AUT,Chelsea FC,ENG,1-2
+Group E,2022-10-25,21:00,Dinamo Zagreb,CRO,AC Milan,ITA,0-4
+Group E,2022-11-02,21:00,AC Milan,ITA,RB Salzburg,AUT,4-0
+Group E,2022-11-02,21:00,Chelsea FC,ENG,Dinamo Zagreb,CRO,2-1
+Group F,2022-09-06,21:00,Celtic FC,SCO,Real Madrid,ESP,0-3
+Group F,2022-09-06,21:00,RB Leipzig,GER,Shakhtar Donetsk,UKR,1-4
+Group F,2022-09-14,18:45,Shakhtar Donetsk,UKR,Celtic FC,SCO,1-1
+Group F,2022-09-14,21:00,Real Madrid,ESP,RB Leipzig,GER,2-0
+Group F,2022-10-05,18:45,RB Leipzig,GER,Celtic FC,SCO,3-1
+Group F,2022-10-05,21:00,Real Madrid,ESP,Shakhtar Donetsk,UKR,2-1
+Group F,2022-10-11,21:00,Celtic FC,SCO,RB Leipzig,GER,0-2
+Group F,2022-10-11,21:00,Shakhtar Donetsk,UKR,Real Madrid,ESP,1-1
+Group F,2022-10-25,21:00,Celtic FC,SCO,Shakhtar Donetsk,UKR,1-1
+Group F,2022-10-25,21:00,RB Leipzig,GER,Real Madrid,ESP,3-2
+Group F,2022-11-02,18:45,Real Madrid,ESP,Celtic FC,SCO,5-1
+Group F,2022-11-02,18:45,Shakhtar Donetsk,UKR,RB Leipzig,GER,0-4
+Gruppe G,2022-09-06,18:45,Borussia Dortmund,GER,FC København,DEN,3-0
+Gruppe G,2022-09-06,21:00,Sevilla FC,ESP,Manchester City,ENG,0-4
+Gruppe G,2022-09-14,21:00,Manchester City,ENG,Borussia Dortmund,GER,2-1
+Gruppe G,2022-09-14,21:00,FC København,DEN,Sevilla FC,ESP,0-0
+Gruppe G,2022-10-05,21:00,Sevilla FC,ESP,Borussia Dortmund,GER,1-4
+Gruppe G,2022-10-05,21:00,Manchester City,ENG,FC København,DEN,5-0
+Gruppe G,2022-10-11,18:45,FC København,DEN,Manchester City,ENG,0-0
+Gruppe G,2022-10-11,21:00,Borussia Dortmund,GER,Sevilla FC,ESP,1-1
+Gruppe G,2022-10-25,18:45,Sevilla FC,ESP,FC København,DEN,3-0
+Gruppe G,2022-10-25,21:00,Borussia Dortmund,GER,Manchester City,ENG,0-0
+Gruppe G,2022-11-02,21:00,FC København,DEN,Borussia Dortmund,GER,1-1
+Gruppe G,2022-11-02,21:00,Manchester City,ENG,Sevilla FC,ESP,3-1
+Gruppe H,2022-09-06,21:00,Paris Saint-Germain,FRA,Juventus,ITA,2-1
+Gruppe H,2022-09-06,21:00,SL Benfica,POR,Maccabi Haifa,ISR,2-0
+Gruppe H,2022-09-14,21:00,Juventus,ITA,SL Benfica,POR,1-2
+Gruppe H,2022-09-14,21:00,Maccabi Haifa,ISR,Paris Saint-Germain,FRA,1-3
+Gruppe H,2022-10-05,21:00,Juventus,ITA,Maccabi Haifa,ISR,3-1
+Gruppe H,2022-10-05,21:00,SL Benfica,POR,Paris Saint-Germain,FRA,1-1
+Gruppe H,2022-10-11,18:45,Maccabi Haifa,ISR,Juventus,ITA,2-0
+Gruppe H,2022-10-11,21:00,Paris Saint-Germain,FRA,SL Benfica,POR,1-1
+Gruppe H,2022-10-25,21:00,SL Benfica,POR,Juventus,ITA,4-3
+Gruppe H,2022-10-25,21:00,Paris Saint-Germain,FRA,Maccabi Haifa,ISR,7-2
+Gruppe H,2022-11-02,21:00,Juventus,ITA,Paris Saint-Germain,FRA,1-2
+Gruppe H,2022-11-02,21:00,Maccabi Haifa,ISR,SL Benfica,POR,1-6
+Round of 16,2023-02-14,21:00,AC Milan,ITA,Tottenham Hotspur,ENG,1-0
+Round of 16,2023-02-14,21:00,Paris Saint-Germain,FRA,Bayern München,GER,0-1
+Round of 16,2022-02-15,21:00,Club Brugge KV,BEL,SL Benfica,POR,0-2
+Round of 16,2022-02-15,21:00,Borussia Dortmund,GER,Chelsea FC,ENG,1-0
+Round of 16,2022-02-21,21:00,Liverpool FC,ENG,Real Madrid,ESP,2-5
+Round of 16,2022-02-21,21:00,Eintracht Frankfurt,GER,SSC Napoli,ITA,0-2
+Round of 16,2022-02-22,21:00,RB Leipzig,GER,Manchester City,ENG,1-1
+Round of 16,2022-02-22,21:00,Inter,ITA,FC Porto,POR,1-0
+Round of 16,2022-03-07,21:00,SL Benfica,POR,Club Brugge KV,BEL,5-1
+Round of 16,2022-03-07,21:10,Chelsea FC,ENG,Borussia Dortmund,GER,2-0
+Round of 16,2022-03-08,21:00,Bayern München,GER,Paris Saint-Germain,FRA,2-0
+Round of 16,2022-03-08,21:10,Tottenham Hotspur,ENG,AC Milan,ITA,0-0
+Round of 16,2022-03-14,21:00,Manchester City,ENG,RB Leipzig,GER,7-0
+Round of 16,2022-03-14,21:00,FC Porto,POR,Inter,ITA,0-0
+Round of 16,2022-03-15,21:00,Real Madrid,ESP,Liverpool FC,ENG,1-0
+Round of 16,2022-03-15,21:00,SSC Napoli,ITA,Eintracht Frankfurt,GER,3-0
+Quarterfinals,2022-04-11,21:00,SL Benfica,POR,Inter,ITA,0-2
+Quarterfinals,2022-04-11,21:00,Manchester City,ENG,Bayern München,GER,3-0
+Quarterfinals,2022-04-12,21:00,Real Madrid,ESP,Chelsea FC,ENG,2-0
+Quarterfinals,2022-04-12,21:00,AC Milan,ITA,SSC Napoli,ITA,1-0
+Quarterfinals,2022-04-18,21:00,Chelsea FC,ENG,Real Madrid,ESP,0-2
+Quarterfinals,2022-04-18,21:00,SSC Napoli,ITA,AC Milan,ITA,1-1
+Quarterfinals,2022-04-19,21:00,Inter,ITA,SL Benfica,POR,3-3
+Quarterfinals,2022-04-19,21:00,Bayern München,GER,Manchester City,ENG,1-1
+Semifinals,2022-05-09,21:00,Real Madrid,ESP,Manchester City,ENG,1-1
+Semifinals,2022-05-10,21:00,AC Milan,ITA,Inter,ITA,0-2
+Semifinals,2022-05-16,21:00,Inter,ITA,AC Milan,ITA,1-0
+Semifinals,2022-05-17,21:00,Manchester City,ENG,Real Madrid,ESP,4-0
+Final,2022-06-10,21:00,Manchester City,ENG,Inter,ITA,1-0

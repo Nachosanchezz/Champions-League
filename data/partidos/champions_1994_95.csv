@@ -1,0 +1,78 @@
+Stage,Date,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Qualifying,1994-08-10,AEK Athens,GRE,Rangers FC,SCO,2-0
+Qualifying,1994-08-10,Avenir Beggen,LUX,Galatasaray İstanbul AŞ,TUR,1-5
+Qualifying,1994-08-10,Silkeborg IF,DEN,Dinamo Kiev,UKR,0-0
+Qualifying,1994-08-10,Paris Saint-Germain,FRA,Dunakanyar-Vac,HUN,3-0
+Qualifying,1994-08-10,Legia Warsaw,POL,Hajduk Split,CRO,0-1
+Qualifying,1994-08-10,Sparta Praha,CZE,IFK Goteborg,SWE,1-0
+Qualifying,1994-08-10,Maccabi Haifa,ISR,FC RB Salzburg,AUT,1-2
+Qualifying,1994-08-10,Steaua Bucuresti,ROU,Servette Geneve,SUI,4-1
+Qualifying,1994-08-24,Servette Geneve,SUI,Steaua Bucuresti,ROU,1-1
+Qualifying,1994-08-24,Galatasaray İstanbul AŞ,TUR,Avenir Beggen,LUX,4-0
+Qualifying,1994-08-24,Dinamo Kiev,UKR,Silkeborg IF,DEN,3-1
+Qualifying,1994-08-24,Dunakanyar-Vac,HUN,Paris Saint-Germain,FRA,1-2
+Qualifying,1994-08-24,Hajduk Split,CRO,Legia Warsaw,POL,4-0
+Qualifying,1994-08-24,IFK Goteborg,SWE,Sparta Praha,CZE,2-0
+Qualifying,1994-08-24,FC RB Salzburg,AUT,Maccabi Haifa,ISR,3-1
+Qualifying,1994-08-24,Rangers FC,SCO,AEK Athens,GRE,0-1
+Group,1994-09-14,Manchester United FC,ENG,IFK Goteborg,SWE,4-2
+Group,1994-09-14,FC Barcelona,ESP,Galatasaray İstanbul AŞ,TUR,2-1
+Group,1994-09-14,Dinamo Kiev,UKR,Spartak Moskva,RUS,3-2
+Group,1994-09-14,Paris Saint-Germain,FRA,Bayern München,GER,2-0
+Group,1994-09-14,Hajduk Split,CRO,SL Benfica,POR,0-0
+Group,1994-09-14,RSC Anderlecht,BEL,Steaua Bucuresti,ROU,0-0
+Group,1994-09-14,FC RB Salzburg,AUT,AEK Athens,GRE,0-0
+Group,1994-09-14,AFC Ajax,NED,AC Milan,ITA,2-0
+Group,1994-09-28,IFK Goteborg,SWE,FC Barcelona,ESP,2-1
+Group,1994-09-28,Galatasaray İstanbul AŞ,TUR,Manchester United FC,ENG,0-0
+Group,1994-09-28,Spartak Moskva,RUS,Paris Saint-Germain,FRA,1-2
+Group,1994-09-28,Bayern München,GER,Dinamo Kiev,UKR,1-0
+Group,1994-09-28,SL Benfica,POR,RSC Anderlecht,BEL,3-1
+Group,1994-09-28,Steaua Bucuresti,ROU,Hajduk Split,CRO,0-1
+Group,1994-09-28,AEK Athens,GRE,AFC Ajax,NED,1-2
+Group,1994-09-28,AC Milan,ITA,FC RB Salzburg,AUT,3-0
+Group,1994-10-19,IFK Goteborg,SWE,Galatasaray İstanbul AŞ,TUR,1-0
+Group,1994-10-19,Manchester United FC,ENG,FC Barcelona,ESP,2-2
+Group,1994-10-19,Spartak Moskva,RUS,Bayern München,GER,1-1
+Group,1994-10-19,Dinamo Kiev,UKR,Paris Saint-Germain,FRA,1-2
+Group,1994-10-19,SL Benfica,POR,Steaua Bucuresti,ROU,2-1
+Group,1994-10-19,Hajduk Split,CRO,RSC Anderlecht,BEL,2-1
+Group,1994-10-19,FC RB Salzburg,AUT,AFC Ajax,NED,0-0
+Group,1994-10-19,AEK Athens,GRE,AC Milan,ITA,0-0
+Group,1994-11-02,Galatasaray İstanbul AŞ,TUR,IFK Goteborg,SWE,0-1
+Group,1994-11-02,FC Barcelona,ESP,Manchester United FC,ENG,4-0
+Group,1994-11-02,Paris Saint-Germain,FRA,Dinamo Kiev,UKR,1-0
+Group,1994-11-02,Bayern München,GER,Spartak Moskva,RUS,2-2
+Group,1994-11-02,RSC Anderlecht,BEL,Hajduk Split,CRO,0-0
+Group,1994-11-02,Steaua Bucuresti,ROU,SL Benfica,POR,1-1
+Group,1994-11-02,AFC Ajax,NED,FC RB Salzburg,AUT,1-1
+Group,1994-11-02,AC Milan,ITA,AEK Athens,GRE,2-1
+Group,1994-11-23,IFK Goteborg,SWE,Manchester United FC,ENG,3-1
+Group,1994-11-23,Galatasaray İstanbul AŞ,TUR,FC Barcelona,ESP,2-1
+Group,1994-11-23,Spartak Moskva,RUS,Dinamo Kiev,UKR,1-0
+Group,1994-11-23,Bayern München,GER,Paris Saint-Germain,FRA,0-1
+Group,1994-11-23,SL Benfica,POR,Hajduk Split,CRO,2-1
+Group,1994-11-23,Steaua Bucuresti,ROU,RSC Anderlecht,BEL,1-1
+Group,1994-11-23,AEK Athens,GRE,FC RB Salzburg,AUT,1-3
+Group,1994-11-23,AC Milan,ITA,AFC Ajax,NED,0-2
+Group,1994-12-07,FC Barcelona,ESP,IFK Goteborg,SWE,1-1
+Group,1994-12-07,Manchester United FC,ENG,Galatasaray İstanbul AŞ,TUR,4-0
+Group,1994-12-07,Dinamo Kiev,UKR,Bayern München,GER,1-4
+Group,1994-12-07,Paris Saint-Germain,FRA,Spartak Moskva,RUS,4-1
+Group,1994-12-07,RSC Anderlecht,BEL,SL Benfica,POR,1-1
+Group,1994-12-07,Hajduk Split,CRO,Steaua Bucuresti,ROU,1-4
+Group,1994-12-07,FC RB Salzburg,AUT,AC Milan,ITA,0-1
+Group,1994-12-07,AFC Ajax,NED,AEK Athens,GRE,2-0
+Knockout,1995-03-01,Bayern München,GER,IFK Goteborg,SWE,0-0
+Knockout,1995-03-01,AC Milan,ITA,SL Benfica,POR,2-0
+Knockout,1995-03-01,Hajduk Split,CRO,AFC Ajax,NED,0-0
+Knockout,1995-03-01,FC Barcelona,ESP,Paris Saint-Germain,FRA,1-1
+Knockout,1995-03-15,IFK Goteborg,SWE,Bayern München,GER,2-2
+Knockout,1995-03-15,SL Benfica,POR,AC Milan,ITA,0-0
+Knockout,1995-03-15,Paris Saint-Germain,FRA,FC Barcelona,ESP,2-1
+Knockout,1995-03-15,AFC Ajax,NED,Hajduk Split,CRO,3-0
+Knockout,1995-04-05,Paris Saint-Germain,FRA,AC Milan,ITA,0-1
+Knockout,1995-04-05,Bayern München,GER,AFC Ajax,NED,0-0
+Knockout,1995-04-19,AFC Ajax,NED,Bayern München,GER,5-2
+Knockout,1995-04-19,AC Milan,ITA,Paris Saint-Germain,FRA,2-0
+Knockout,1995-05-24,AFC Ajax,NED,AC Milan,ITA,1-0

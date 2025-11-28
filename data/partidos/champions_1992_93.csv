@@ -1,0 +1,83 @@
+Stage,Date,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Prelim. Round,1992-08-19,Olimpija Ljubljana,SVN,FC Norma Tallinn,EST,3-0
+Prelim. Round,1992-08-19,KI Klaksvik,FRO,Skonto,LVA,1-3
+Prelim. Round,1992-08-19,Valletta,MLT,Maccabi Tel Aviv,ISR,1-2
+Prelim. Round,1992-08-19,Shelbourne,IRL,Tavriya Simferopol,UKR,0-0
+Prelim. Round,1992-09-02,FC Norma Tallinn,EST,Olimpija Ljubljana,SVN,0-2
+Prelim. Round,1992-09-02,Skonto,LVA,KI Klaksvik,FRO,3-0
+Prelim. Round,1992-09-02,Maccabi Tel Aviv,ISR,Valletta,MLT,1-0
+Prelim. Round,1992-09-02,Tavriya Simferopol,UKR,Shelbourne,IRL,2-1
+Round 1,1992-09-16,Austria Wien,AUT,CSKA Sofia,BUL,3-1
+Round 1,1992-09-16,AEK Athens,GRE,APOEL Nikosia,CYP,1-1
+Round 1,1992-09-16,AC Milan,ITA,Olimpija Ljubljana,SVN,4-0
+Round 1,1992-09-16,VfB Stuttgart,GER,Leeds United FC,ENG,3-0
+Round 1,1992-09-16,FC Barcelona,ESP,Viking FK,NOR,1-0
+Round 1,1992-09-16,IFK Goteborg,SWE,Beşiktaş İstanbul JK,TUR,2-0
+Round 1,1992-09-16,Maccabi Tel Aviv,ISR,Club Brugge,BEL,0-1
+Round 1,1992-09-16,Vikingur Reykjavik,ISL,CSKA Moskva,RUS,0-1
+Round 1,1992-09-16,FC Kuusysi,FIN,Dinamo Bucuresti,ROU,1-0
+Round 1,1992-09-16,Union Luxembourg,LUX,FC Porto,POR,1-4
+Round 1,1992-09-16,SK Slovan Bratislava,SVK,Ferencvaros,HUN,4-1
+Round 1,1992-09-16,Sion,SUI,Tavriya Simferopol,UKR,4-1
+Round 1,1992-09-16,Glentoran,NIR,Olympique Marseille,FRA,0-5
+Round 1,1992-09-16,Lech Poznan,POL,Skonto,LVA,2-0
+Round 1,1992-09-16,Rangers FC,SCO,Lyngby BK,DEN,2-0
+Round 1,1992-09-16,PSV Eindhoven,NED,FK Zalgiris Vilnius,LTU,6-0
+Round 1,1992-09-30,Tavriya Simferopol,UKR,Sion,SUI,1-3
+Round 1,1992-09-30,APOEL Nikosia,CYP,AEK Athens,GRE,2-2
+Round 1,1992-09-30,Olimpija Ljubljana,SVN,AC Milan,ITA,0-3
+Round 1,1992-09-30,CSKA Sofia,BUL,Austria Wien,AUT,3-2
+Round 1,1992-09-30,Viking FK,NOR,FC Barcelona,ESP,0-0
+Round 1,1992-09-30,Beşiktaş İstanbul JK,TUR,IFK Goteborg,SWE,2-1
+Round 1,1992-09-30,Club Brugge,BEL,Maccabi Tel Aviv,ISR,3-0
+Round 1,1992-09-30,CSKA Moskva,RUS,Vikingur Reykjavik,ISL,4-2
+Round 1,1992-09-30,Dinamo Bucuresti,ROU,FC Kuusysi,FIN,1-0 (*)
+Round 1,1992-09-30,FC Porto,POR,Union Luxembourg,LUX,5-0
+Round 1,1992-09-30,Ferencvaros,HUN,SK Slovan Bratislava,SVK,0-0
+Round 1,1992-09-30,FK Zalgiris Vilnius,LTU,PSV Eindhoven,NED,0-2
+Round 1,1992-09-30,Olympique Marseille,FRA,Glentoran,NIR,3-0
+Round 1,1992-09-30,Skonto,LVA,Lech Poznan,POL,0-0
+Round 1,1992-09-30,Lyngby BK,DEN,Rangers FC,SCO,0-1
+Round 1,1992-09-30,Leeds United FC,ENG,VfB Stuttgart,GER,4-1
+Round 1,1992-10-09,VfB Stuttgart,GER,Leeds United FC,ENG,1-2
+Round 2,1992-10-21,CSKA Moskva,RUS,FC Barcelona,ESP,1-1
+Round 2,1992-10-21,SK Slovan Bratislava,SVK,AC Milan,ITA,0-1
+Round 2,1992-10-21,AEK Athens,GRE,PSV Eindhoven,NED,1-0
+Round 2,1992-10-21,Rangers FC,SCO,Leeds United FC,ENG,2-1
+Round 2,1992-10-21,Dinamo Bucuresti,ROU,Olympique Marseille,FRA,0-0
+Round 2,1992-10-21,Sion,SUI,FC Porto,POR,2-2
+Round 2,1992-10-21,IFK Goteborg,SWE,Lech Poznan,POL,1-0
+Round 2,1992-10-21,Club Brugge,BEL,Austria Wien,AUT,2-0
+Round 2,1992-11-04,Austria Wien,AUT,Club Brugge,BEL,3-1
+Round 2,1992-11-04,AC Milan,ITA,SK Slovan Bratislava,SVK,4-0
+Round 2,1992-11-04,PSV Eindhoven,NED,AEK Athens,GRE,3-0
+Round 2,1992-11-04,FC Barcelona,ESP,CSKA Moskva,RUS,2-3
+Round 2,1992-11-04,Leeds United FC,ENG,Rangers FC,SCO,1-2
+Round 2,1992-11-04,FC Porto,POR,Sion,SUI,4-0
+Round 2,1992-11-04,Lech Poznan,POL,IFK Goteborg,SWE,0-3
+Round 2,1992-11-04,Olympique Marseille,FRA,Dinamo Bucuresti,ROU,2-0
+Group,1992-11-25,Rangers FC,SCO,Olympique Marseille,FRA,2-2
+Group,1992-11-25,Club Brugge,BEL,CSKA Moskva,RUS,1-0
+Group,1992-11-25,FC Porto,POR,PSV Eindhoven,NED,2-2
+Group,1992-11-25,AC Milan,ITA,IFK Goteborg,SWE,4-0
+Group,1992-12-09,Olympique Marseille,FRA,Club Brugge,BEL,3-0
+Group,1992-12-09,CSKA Moskva,RUS,Rangers FC,SCO,0-1
+Group,1992-12-09,PSV Eindhoven,NED,AC Milan,ITA,1-2
+Group,1992-12-09,IFK Goteborg,SWE,FC Porto,POR,1-0
+Group,1993-03-03,Club Brugge,BEL,Rangers FC,SCO,1-1
+Group,1993-03-03,CSKA Moskva,RUS,Olympique Marseille,FRA,1-1
+Group,1993-03-03,PSV Eindhoven,NED,IFK Goteborg,SWE,1-3
+Group,1993-03-03,FC Porto,POR,AC Milan,ITA,0-1
+Group,1993-03-17,Olympique Marseille,FRA,CSKA Moskva,RUS,6-0
+Group,1993-03-17,Rangers FC,SCO,Club Brugge,BEL,2-1
+Group,1993-03-17,AC Milan,ITA,FC Porto,POR,1-0
+Group,1993-03-17,IFK Goteborg,SWE,PSV Eindhoven,NED,3-0
+Group,1993-04-07,Olympique Marseille,FRA,Rangers FC,SCO,1-1
+Group,1993-04-07,CSKA Moskva,RUS,Club Brugge,BEL,1-2
+Group,1993-04-07,IFK Goteborg,SWE,AC Milan,ITA,0-1
+Group,1993-04-07,PSV Eindhoven,NED,FC Porto,POR,0-1
+Group,1993-04-21,Rangers FC,SCO,CSKA Moskva,RUS,0-0
+Group,1993-04-21,Club Brugge,BEL,Olympique Marseille,FRA,0-1
+Group,1993-04-21,AC Milan,ITA,PSV Eindhoven,NED,2-0
+Group,1993-04-21,FC Porto,POR,IFK Goteborg,SWE,2-0
+Final,1993-05-26,Olympique Marseille,FRA,AC Milan,ITA,1-0

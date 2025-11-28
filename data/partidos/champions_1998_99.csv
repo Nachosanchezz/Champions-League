@@ -1,0 +1,150 @@
+Stage,Date,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Qualifying,1998-07-22,Valletta,MLT,Anorthosis Famagusta,CYP,0-2
+Qualifying,1998-07-22,Beitar Jerusalem,ISR,B36 Torshavn,FRO,4-1
+Qualifying,1998-07-22,Dinamo Kiev,UKR,Barry Town,WAL,8-0
+Qualifying,1998-07-22,Celtic FC,SCO,St Patrick's Athletic,IRL,0-0
+Qualifying,1998-07-22,Cliftonville,NIR,Kosice,SVK,1-5
+Qualifying,1998-07-22,FK Sileks,MKD,Club Brugge,BEL,0-0
+Qualifying,1998-07-22,Skonto,LVA,Dinamo Minsk,BLR,0-0
+Qualifying,1998-07-22,Dinamo Tbilisi,GEO,FK Vllaznia,ALB,3-0
+Qualifying,1998-07-22,HJK Helsinki,FIN,FC Yerevan,ARM,2-0
+Qualifying,1998-07-22,FK Kareda Kaunas,LTU,NK Maribor,SVN,0-3
+Qualifying,1998-07-22,FK Obilic,SRB,IB Vestmannaeyja,ISL,2-0
+Qualifying,1998-07-22,Steaua Bucuresti,ROU,Flora Tallinn,EST,4-1
+Qualifying,1998-07-22,Grasshoppers Zurich,SUI,Jeunesse Esch,LUX,6-0
+Qualifying,1998-07-22,PFC Litex Lovech,BUL,Halmstads BK,SWE,2-0
+Qualifying,1998-07-22,LKS Lodz,POL,Kapaz,AZE,4-1
+Qualifying,1998-07-22,Zimbru Chisinau,MDA,Ujpesti Dozsa SC,HUN,1-0
+Qualifying,1998-07-27,B36 Torshavn,FRO,Beitar Jerusalem,ISR,0-1
+Qualifying,1998-07-29,Ujpesti Dozsa SC,HUN,Zimbru Chisinau,MDA,3-1
+Qualifying,1998-07-29,Barry Town,WAL,Dinamo Kiev,UKR,1-2
+Qualifying,1998-07-29,St Patrick's Athletic,IRL,Celtic FC,SCO,0-2
+Qualifying,1998-07-29,Kosice,SVK,Cliftonville,NIR,8-0
+Qualifying,1998-07-29,Club Brugge,BEL,FK Sileks,MKD,2-1
+Qualifying,1998-07-29,Dinamo Minsk,BLR,Skonto,LVA,1-2
+Qualifying,1998-07-29,Anorthosis Famagusta,CYP,Valletta,MLT,6-0
+Qualifying,1998-07-29,FC Yerevan,ARM,HJK Helsinki,FIN,0-3
+Qualifying,1998-07-29,NK Maribor,SVN,FK Kareda Kaunas,LTU,1-0
+Qualifying,1998-07-29,IB Vestmannaeyja,ISL,FK Obilic,SRB,1-2
+Qualifying,1998-07-29,Flora Tallinn,EST,Steaua Bucuresti,ROU,3-1
+Qualifying,1998-07-29,Jeunesse Esch,LUX,Grasshoppers Zurich,SUI,0-2
+Qualifying,1998-07-29,Halmstads BK,SWE,PFC Litex Lovech,BUL,2-1
+Qualifying,1998-07-29,Kapaz,AZE,LKS Lodz,POL,1-3
+Qualifying,1998-07-29,FK Vllaznia,ALB,Dinamo Tbilisi,GEO,3-1
+Qualifying,1998-08-12,Dinamo Kiev,UKR,Sparta Praha,CZE,0-1
+Qualifying,1998-08-12,Dinamo Tbilisi,GEO,Athletic Bilbao,ESP,2-1
+Qualifying,1998-08-12,Rosenborg BK,NOR,Club Brugge,BEL,2-0
+Qualifying,1998-08-12,Olympiacos,GRE,Anorthosis Famagusta,CYP,2-1
+Qualifying,1998-08-12,Bayern München,GER,FK Obilic,SRB,4-0
+Qualifying,1998-08-12,SK Sturm Graz,AUT,Ujpesti Dozsa SC,HUN,4-0
+Qualifying,1998-08-12,Kosice,SVK,Brondby IF,DEN,0-2
+Qualifying,1998-08-12,Celtic FC,SCO,Dinamo Zagreb,CRO,1-0
+Qualifying,1998-08-12,Galatasaray İstanbul AŞ,TUR,Grasshoppers Zurich,SUI,2-1
+Qualifying,1998-08-12,HJK Helsinki,FIN,FC Metz,FRA,1-0
+Qualifying,1998-08-12,Internazionale,ITA,Skonto,LVA,4-0
+Qualifying,1998-08-12,Manchester United FC,ENG,LKS Lodz,POL,2-0
+Qualifying,1998-08-12,NK Maribor,SVN,PSV Eindhoven,NED,2-1
+Qualifying,1998-08-12,Steaua Bucuresti,ROU,Panathinaikos FC,GRE,2-2
+Qualifying,1998-08-12,PFC Litex Lovech,BUL,Spartak Moskva,RUS,0-5
+Qualifying,1998-08-12,SL Benfica,POR,Beitar Jerusalem,ISR,6-0
+Qualifying,1998-08-26,Sparta Praha,CZE,Dinamo Kiev,UKR,0-1 (*)
+Qualifying,1998-08-26,Athletic Bilbao,ESP,Dinamo Tbilisi,GEO,1-0
+Qualifying,1998-08-26,Club Brugge,BEL,Rosenborg BK,NOR,4-2
+Qualifying,1998-08-26,Anorthosis Famagusta,CYP,Olympiacos,GRE,2-4
+Qualifying,1998-08-26,FK Obilic,SRB,Bayern München,GER,1-1
+Qualifying,1998-08-26,Beitar Jerusalem,ISR,SL Benfica,POR,4-2
+Qualifying,1998-08-26,Brondby IF,DEN,Kosice,SVK,0-1
+Qualifying,1998-08-26,Dinamo Zagreb,CRO,Celtic FC,SCO,3-0
+Qualifying,1998-08-26,Grasshoppers Zurich,SUI,Galatasaray İstanbul AŞ,TUR,2-3
+Qualifying,1998-08-26,FC Metz,FRA,HJK Helsinki,FIN,1-1
+Qualifying,1998-08-26,Skonto,LVA,Internazionale,ITA,1-3
+Qualifying,1998-08-26,LKS Lodz,POL,Manchester United FC,ENG,0-0
+Qualifying,1998-08-26,PSV Eindhoven,NED,NK Maribor,SVN,2-1 (*)
+Qualifying,1998-08-26,Ujpesti Dozsa SC,HUN,SK Sturm Graz,AUT,2-3
+Qualifying,1998-08-26,Spartak Moskva,RUS,PFC Litex Lovech,BUL,6-2
+Qualifying,1998-08-26,Panathinaikos FC,GRE,Steaua Bucuresti,ROU,6-3
+Group,1998-09-16,Dinamo Zagreb,CRO,AFC Ajax,NED,0-0
+Group,1998-09-16,FC Porto,POR,Olympiacos,GRE,2-2
+Group,1998-09-16,Athletic Bilbao,ESP,Rosenborg BK,NOR,1-1
+Group,1998-09-16,Juventus,ITA,Galatasaray İstanbul AŞ,TUR,2-2
+Group,1998-09-16,Real Madrid CF,ESP,Internazionale,ITA,2-0
+Group,1998-09-16,SK Sturm Graz,AUT,Spartak Moskva,RUS,0-2
+Group,1998-09-16,Brondby IF,DEN,Bayern München,GER,2-1
+Group,1998-09-16,Manchester United FC,ENG,FC Barcelona,ESP,3-3
+Group,1998-09-16,RC Lens,FRA,Arsenal FC,ENG,1-1
+Group,1998-09-16,Panathinaikos FC,GRE,Dinamo Kiev,UKR,2-1
+Group,1998-09-16,PSV Eindhoven,NED,HJK Helsinki,FIN,2-1
+Group,1998-09-16,1. FC Kaiserslautern,GER,SL Benfica,POR,1-0
+Group,1998-09-30,Olympiacos,GRE,Dinamo Zagreb,CRO,2-0
+Group,1998-09-30,AFC Ajax,NED,FC Porto,POR,2-1
+Group,1998-09-30,Rosenborg BK,NOR,Juventus,ITA,1-1
+Group,1998-09-30,Galatasaray İstanbul AŞ,TUR,Athletic Bilbao,ESP,2-1
+Group,1998-09-30,Spartak Moskva,RUS,Real Madrid CF,ESP,2-1
+Group,1998-09-30,Internazionale,ITA,SK Sturm Graz,AUT,1-0
+Group,1998-09-30,FC Barcelona,ESP,Brondby IF,DEN,2-0
+Group,1998-09-30,Bayern München,GER,Manchester United FC,ENG,2-2
+Group,1998-09-30,Arsenal FC,ENG,Panathinaikos FC,GRE,2-1
+Group,1998-09-30,Dinamo Kiev,UKR,RC Lens,FRA,1-1
+Group,1998-09-30,SL Benfica,POR,PSV Eindhoven,NED,2-1
+Group,1998-09-30,HJK Helsinki,FIN,1. FC Kaiserslautern,GER,0-0
+Group,1998-10-21,Olympiacos,GRE,AFC Ajax,NED,1-0
+Group,1998-10-21,FC Porto,POR,Dinamo Zagreb,CRO,3-0
+Group,1998-10-21,Athletic Bilbao,ESP,Juventus,ITA,0-0
+Group,1998-10-21,Rosenborg BK,NOR,Galatasaray İstanbul AŞ,TUR,3-0
+Group,1998-10-21,Internazionale,ITA,Spartak Moskva,RUS,2-1
+Group,1998-10-21,Real Madrid CF,ESP,SK Sturm Graz,AUT,6-1
+Group,1998-10-21,Bayern München,GER,FC Barcelona,ESP,1-0
+Group,1998-10-21,Brondby IF,DEN,Manchester United FC,ENG,2-6
+Group,1998-10-21,Arsenal FC,ENG,Dinamo Kiev,UKR,1-1
+Group,1998-10-21,RC Lens,FRA,Panathinaikos FC,GRE,1-0
+Group,1998-10-21,HJK Helsinki,FIN,SL Benfica,POR,2-0
+Group,1998-10-21,PSV Eindhoven,NED,1. FC Kaiserslautern,GER,1-2
+Group,1998-11-04,AFC Ajax,NED,Olympiacos,GRE,2-0
+Group,1998-11-04,Dinamo Zagreb,CRO,FC Porto,POR,3-1
+Group,1998-11-04,Galatasaray İstanbul AŞ,TUR,Rosenborg BK,NOR,3-0
+Group,1998-11-04,Juventus,ITA,Athletic Bilbao,ESP,1-1
+Group,1998-11-04,Spartak Moskva,RUS,Internazionale,ITA,1-1
+Group,1998-11-04,SK Sturm Graz,AUT,Real Madrid CF,ESP,1-5
+Group,1998-11-04,Manchester United FC,ENG,Brondby IF,DEN,5-0
+Group,1998-11-04,FC Barcelona,ESP,Bayern München,GER,1-2
+Group,1998-11-04,Dinamo Kiev,UKR,Arsenal FC,ENG,3-1
+Group,1998-11-04,Panathinaikos FC,GRE,RC Lens,FRA,1-0
+Group,1998-11-04,SL Benfica,POR,HJK Helsinki,FIN,2-2
+Group,1998-11-04,1. FC Kaiserslautern,GER,PSV Eindhoven,NED,3-1
+Group,1998-11-25,Olympiacos,GRE,FC Porto,POR,2-1
+Group,1998-11-25,AFC Ajax,NED,Dinamo Zagreb,CRO,0-1
+Group,1998-11-25,Rosenborg BK,NOR,Athletic Bilbao,ESP,2-1
+Group,1998-11-25,Internazionale,ITA,Real Madrid CF,ESP,3-1
+Group,1998-11-25,Spartak Moskva,RUS,SK Sturm Graz,AUT,0-0
+Group,1998-11-25,FC Barcelona,ESP,Manchester United FC,ENG,3-3
+Group,1998-11-25,Bayern München,GER,Brondby IF,DEN,2-0
+Group,1998-11-25,Arsenal FC,ENG,RC Lens,FRA,0-1
+Group,1998-11-25,Dinamo Kiev,UKR,Panathinaikos FC,GRE,2-1
+Group,1998-11-25,HJK Helsinki,FIN,PSV Eindhoven,NED,1-3
+Group,1998-11-25,SL Benfica,POR,1. FC Kaiserslautern,GER,2-1
+Group,1998-12-02,Galatasaray İstanbul AŞ,TUR,Juventus,ITA,1-1
+Group,1998-12-09,FC Porto,POR,AFC Ajax,NED,3-0
+Group,1998-12-09,Dinamo Zagreb,CRO,Olympiacos,GRE,1-1
+Group,1998-12-09,Juventus,ITA,Rosenborg BK,NOR,2-0
+Group,1998-12-09,Athletic Bilbao,ESP,Galatasaray İstanbul AŞ,TUR,1-0
+Group,1998-12-09,SK Sturm Graz,AUT,Internazionale,ITA,0-2
+Group,1998-12-09,Real Madrid CF,ESP,Spartak Moskva,RUS,2-1
+Group,1998-12-09,Brondby IF,DEN,FC Barcelona,ESP,0-2
+Group,1998-12-09,Manchester United FC,ENG,Bayern München,GER,1-1
+Group,1998-12-09,RC Lens,FRA,Dinamo Kiev,UKR,1-3
+Group,1998-12-09,Panathinaikos FC,GRE,Arsenal FC,ENG,1-3
+Group,1998-12-09,PSV Eindhoven,NED,SL Benfica,POR,2-2
+Group,1998-12-09,1. FC Kaiserslautern,GER,HJK Helsinki,FIN,5-2
+Knockout,1999-03-03,Bayern München,GER,1. FC Kaiserslautern,GER,2-0
+Knockout,1999-03-03,Real Madrid CF,ESP,Dinamo Kiev,UKR,1-1
+Knockout,1999-03-03,Manchester United FC,ENG,Internazionale,ITA,2-0
+Knockout,1999-03-03,Juventus,ITA,Olympiacos,GRE,2-1
+Knockout,1999-03-17,1. FC Kaiserslautern,GER,Bayern München,GER,0-4
+Knockout,1999-03-17,Dinamo Kiev,UKR,Real Madrid CF,ESP,2-0
+Knockout,1999-03-17,Olympiacos,GRE,Juventus,ITA,1-1
+Knockout,1999-03-17,Internazionale,ITA,Manchester United FC,ENG,1-1
+Knockout,1999-04-07,Dinamo Kiev,UKR,Bayern München,GER,3-3
+Knockout,1999-04-07,Manchester United FC,ENG,Juventus,ITA,1-1
+Knockout,1999-04-21,Juventus,ITA,Manchester United FC,ENG,2-3
+Knockout,1999-04-21,Bayern München,GER,Dinamo Kiev,UKR,1-0
+Knockout,1999-05-26,Manchester United FC,ENG,Bayern München,GER,2-1

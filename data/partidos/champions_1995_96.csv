@@ -1,0 +1,78 @@
+Stage,Date,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Qualifying,1995-08-09,Panathinaikos FC,GRE,Hajduk Split,CRO,0-0
+Qualifying,1995-08-09,Dinamo Kiev,UKR,Aalborg BK,DEN,1-0
+Qualifying,1995-08-09,Rangers FC,SCO,Anorthosis Famagusta,CYP,1-0
+Qualifying,1995-08-09,Rosenborg BK,NOR,Beşiktaş İstanbul JK,TUR,3-0
+Qualifying,1995-08-09,RSC Anderlecht,BEL,Ferencvaros,HUN,0-1
+Qualifying,1995-08-09,Grasshoppers Zurich,SUI,Maccabi Tel Aviv,ISR,1-1
+Qualifying,1995-08-09,Legia Warsaw,POL,IFK Goteborg,SWE,1-0
+Qualifying,1995-08-09,FC RB Salzburg,AUT,Steaua Bucuresti,ROU,0-0
+Qualifying,1995-08-23,Hajduk Split,CRO,Panathinaikos FC,GRE,1-1
+Qualifying,1995-08-23,Steaua Bucuresti,ROU,FC RB Salzburg,AUT,1-0
+Qualifying,1995-08-23,Anorthosis Famagusta,CYP,Rangers FC,SCO,0-0
+Qualifying,1995-08-23,Beşiktaş İstanbul JK,TUR,Rosenborg BK,NOR,3-1
+Qualifying,1995-08-23,Ferencvaros,HUN,RSC Anderlecht,BEL,1-1
+Qualifying,1995-08-23,Maccabi Tel Aviv,ISR,Grasshoppers Zurich,SUI,0-1
+Qualifying,1995-08-23,IFK Goteborg,SWE,Legia Warsaw,POL,1-2
+Qualifying,1995-08-23,Aalborg BK,DEN,Dinamo Kiev,UKR,1-3
+Group,1995-09-13,FC Nantes,FRA,FC Porto,POR,0-0
+Group,1995-09-13,Legia Warsaw,POL,Rosenborg BK,NOR,3-1
+Group,1995-09-13,Blackburn Rovers FC,ENG,Spartak Moskva,RUS,0-1
+Group,1995-09-13,Borussia Dortmund,GER,Juventus,ITA,1-3
+Group,1995-09-13,Steaua Bucuresti,ROU,Rangers FC,SCO,1-0
+Group,1995-09-13,AFC Ajax,NED,Real Madrid CF,ESP,1-0
+Group,1995-09-13,Grasshoppers Zurich,SUI,Ferencvaros,HUN,0-3
+Group,1995-09-23,Panathinaikos FC,GRE,FC Nantes,FRA,3-1
+Group,1995-09-23,FC Porto,POR,Aalborg BK,DEN,2-0
+Group,1995-09-27,Spartak Moskva,RUS,Legia Warsaw,POL,2-1
+Group,1995-09-27,Rosenborg BK,NOR,Blackburn Rovers FC,ENG,2-1
+Group,1995-09-27,Rangers FC,SCO,Borussia Dortmund,GER,2-2
+Group,1995-09-27,Juventus,ITA,Steaua Bucuresti,ROU,3-0
+Group,1995-09-27,Real Madrid CF,ESP,Grasshoppers Zurich,SUI,2-0
+Group,1995-09-27,Ferencvaros,HUN,AFC Ajax,NED,1-5
+Group,1995-10-18,FC Nantes,FRA,Aalborg BK,DEN,3-1
+Group,1995-10-18,FC Porto,POR,Panathinaikos FC,GRE,0-1
+Group,1995-10-18,Legia Warsaw,POL,Blackburn Rovers FC,ENG,1-0
+Group,1995-10-18,Rosenborg BK,NOR,Spartak Moskva,RUS,2-4
+Group,1995-10-18,Borussia Dortmund,GER,Steaua Bucuresti,ROU,1-0
+Group,1995-10-18,Juventus,ITA,Rangers FC,SCO,4-1
+Group,1995-10-18,Real Madrid CF,ESP,Ferencvaros,HUN,6-1
+Group,1995-10-18,AFC Ajax,NED,Grasshoppers Zurich,SUI,3-0
+Group,1995-10-25,Aalborg BK,DEN,Panathinaikos FC,GRE,2-1
+Group,1995-11-01,Aalborg BK,DEN,FC Nantes,FRA,0-2
+Group,1995-11-01,Panathinaikos FC,GRE,FC Porto,POR,0-0
+Group,1995-11-01,Blackburn Rovers FC,ENG,Legia Warsaw,POL,0-0
+Group,1995-11-01,Spartak Moskva,RUS,Rosenborg BK,NOR,4-1
+Group,1995-11-01,Steaua Bucuresti,ROU,Borussia Dortmund,GER,0-0
+Group,1995-11-01,Rangers FC,SCO,Juventus,ITA,0-4
+Group,1995-11-01,Ferencvaros,HUN,Real Madrid CF,ESP,1-1
+Group,1995-11-01,Grasshoppers Zurich,SUI,AFC Ajax,NED,0-0
+Group,1995-11-22,Panathinaikos FC,GRE,Aalborg BK,DEN,2-0
+Group,1995-11-22,FC Porto,POR,FC Nantes,FRA,2-2
+Group,1995-11-22,Spartak Moskva,RUS,Blackburn Rovers FC,ENG,3-0
+Group,1995-11-22,Rosenborg BK,NOR,Legia Warsaw,POL,4-0
+Group,1995-11-22,Rangers FC,SCO,Steaua Bucuresti,ROU,1-1
+Group,1995-11-22,Juventus,ITA,Borussia Dortmund,GER,1-2
+Group,1995-11-22,Ferencvaros,HUN,Grasshoppers Zurich,SUI,3-3
+Group,1995-11-22,Real Madrid CF,ESP,AFC Ajax,NED,0-2
+Group,1995-12-06,FC Nantes,FRA,Panathinaikos FC,GRE,0-0
+Group,1995-12-06,Aalborg BK,DEN,FC Porto,POR,2-2
+Group,1995-12-06,Blackburn Rovers FC,ENG,Rosenborg BK,NOR,4-1
+Group,1995-12-06,Legia Warsaw,POL,Spartak Moskva,RUS,0-1
+Group,1995-12-06,Borussia Dortmund,GER,Rangers FC,SCO,2-2
+Group,1995-12-06,Steaua Bucuresti,ROU,Juventus,ITA,0-0
+Group,1995-12-06,Grasshoppers Zurich,SUI,Real Madrid CF,ESP,0-2
+Group,1995-12-06,AFC Ajax,NED,Ferencvaros,HUN,4-0
+Knockout,1996-03-05,Borussia Dortmund,GER,AFC Ajax,NED,0-2
+Knockout,1996-03-05,Real Madrid CF,ESP,Juventus,ITA,1-0
+Knockout,1996-03-05,Legia Warsaw,POL,Panathinaikos FC,GRE,0-0
+Knockout,1996-03-05,FC Nantes,FRA,Spartak Moskva,RUS,2-0
+Knockout,1996-03-20,AFC Ajax,NED,Borussia Dortmund,GER,1-0
+Knockout,1996-03-20,Juventus,ITA,Real Madrid CF,ESP,2-0
+Knockout,1996-03-20,Spartak Moskva,RUS,FC Nantes,FRA,2-2
+Knockout,1996-03-20,Panathinaikos FC,GRE,Legia Warsaw,POL,3-0
+Knockout,1996-04-03,Juventus,ITA,FC Nantes,FRA,2-0
+Knockout,1996-04-03,AFC Ajax,NED,Panathinaikos FC,GRE,0-1
+Knockout,1996-04-17,Panathinaikos FC,GRE,AFC Ajax,NED,0-3
+Knockout,1996-04-17,FC Nantes,FRA,Juventus,ITA,3-2
+Knockout,1996-05-22,Juventus,ITA,AFC Ajax,NED,1-1 (*)

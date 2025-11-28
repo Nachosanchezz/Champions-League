@@ -1,0 +1,148 @@
+Stage,Date,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Qualifying,1997-07-23,Anorthosis Famagusta,CYP,FK Kareda Kaunas,LTU,3-0
+Qualifying,1997-07-23,Dinamo Kiev,UKR,Barry Town,WAL,2-0
+Qualifying,1997-07-23,FK Sileks,MKD,Beitar Jerusalem,ISR,1-0
+Qualifying,1997-07-23,Crusaders,NIR,Dinamo Tbilisi,GEO,1-3
+Qualifying,1997-07-23,Steaua Bucuresti,ROU,CSKA Sofia,BUL,3-3
+Qualifying,1997-07-23,Derry City,NIR,NK Maribor,SVN,0-2
+Qualifying,1997-07-23,Lantana Tallinn,EST,FC Jazz,FIN,0-1
+Qualifying,1997-07-23,FC Tiraspol,MDA,FC Slavia Mozyr,BLR,1-1
+Qualifying,1997-07-23,GI Gota,FRO,Rangers FC,SCO,0-5
+Qualifying,1997-07-23,Kosice,SVK,IA Akranes,ISL,3-0
+Qualifying,1997-07-23,Sion,SUI,Jeunesse Esch,LUX,4-0
+Qualifying,1997-07-23,Pyunik,ARM,MTK,HUN,0-2
+Qualifying,1997-07-23,Neftchi PFC Baku,AZE,Widzew Lodz,POL,0-2
+Qualifying,1997-07-23,Valletta,MLT,Skonto,LVA,1-0
+Qualifying,1997-07-23,Partizan Belgrade,SRB,Dinamo Zagreb,CRO,1-0
+Qualifying,1997-07-30,FK Kareda Kaunas,LTU,Anorthosis Famagusta,CYP,1-1
+Qualifying,1997-07-30,Barry Town,WAL,Dinamo Kiev,UKR,0-4
+Qualifying,1997-07-30,Beitar Jerusalem,ISR,FK Sileks,MKD,3-0
+Qualifying,1997-07-30,Dinamo Tbilisi,GEO,Crusaders,NIR,5-1
+Qualifying,1997-07-30,CSKA Sofia,BUL,Steaua Bucuresti,ROU,0-2
+Qualifying,1997-07-30,NK Maribor,SVN,Derry City,NIR,1-0
+Qualifying,1997-07-30,FC Jazz,FIN,Lantana Tallinn,EST,2-0
+Qualifying,1997-07-30,Dinamo Zagreb,CRO,Partizan Belgrade,SRB,5-0
+Qualifying,1997-07-30,Rangers FC,SCO,GI Gota,FRO,6-0
+Qualifying,1997-07-30,IA Akranes,ISL,Kosice,SVK,0-1
+Qualifying,1997-07-30,Jeunesse Esch,LUX,Sion,SUI,0-1
+Qualifying,1997-07-30,MTK,HUN,Pyunik,ARM,4-3
+Qualifying,1997-07-30,Widzew Lodz,POL,Neftchi PFC Baku,AZE,8-0
+Qualifying,1997-07-30,Skonto,LVA,Valletta,MLT,2-0
+Qualifying,1997-07-30,FC Slavia Mozyr,BLR,FC Tiraspol,MDA,3-2
+Qualifying,1997-08-13,Anorthosis Famagusta,CYP,K Lierse SK,BEL,2-0
+Qualifying,1997-08-13,FC Barcelona,ESP,Skonto,LVA,3-2
+Qualifying,1997-08-13,Bayer 04 Leverkusen,GER,Dinamo Tbilisi,GEO,6-1
+Qualifying,1997-08-13,Beitar Jerusalem,ISR,Sporting CP,POR,0-0
+Qualifying,1997-08-13,FC RB Salzburg,AUT,Sparta Praha,CZE,0-0
+Qualifying,1997-08-13,Brondby IF,DEN,Dinamo Kiev,UKR,2-4
+Qualifying,1997-08-13,Newcastle United FC,ENG,Dinamo Zagreb,CRO,2-1
+Qualifying,1997-08-13,Feyenoord Rotterdam,NED,FC Jazz,FIN,6-2
+Qualifying,1997-08-13,Olympiacos,GRE,FC Slavia Mozyr,BLR,5-0
+Qualifying,1997-08-13,Sion,SUI,Galatasaray İstanbul AŞ,TUR,1-4
+Qualifying,1997-08-13,IFK Goteborg,SWE,Rangers FC,SCO,3-0
+Qualifying,1997-08-13,Kosice,SVK,Spartak Moskva,RUS,2-1
+Qualifying,1997-08-13,Steaua Bucuresti,ROU,Paris Saint-Germain,FRA,3-0
+Qualifying,1997-08-13,Widzew Lodz,POL,Parma,ITA,1-3
+Qualifying,1997-08-13,Beşiktaş İstanbul JK,TUR,NK Maribor,SVN,0-0
+Qualifying,1997-08-14,MTK,HUN,Rosenborg BK,NOR,0-1
+Qualifying,1997-08-27,K Lierse SK,BEL,Anorthosis Famagusta,CYP,3-0
+Qualifying,1997-08-27,Skonto,LVA,FC Barcelona,ESP,0-1
+Qualifying,1997-08-27,Dinamo Tbilisi,GEO,Bayer 04 Leverkusen,GER,1-0
+Qualifying,1997-08-27,Sporting CP,POR,Beitar Jerusalem,ISR,3-0
+Qualifying,1997-08-27,NK Maribor,SVN,Beşiktaş İstanbul JK,TUR,1-3
+Qualifying,1997-08-27,Dinamo Kiev,UKR,Brondby IF,DEN,0-1
+Qualifying,1997-08-27,Dinamo Zagreb,CRO,Newcastle United FC,ENG,1-2 (*)
+Qualifying,1997-08-27,FC Jazz,FIN,Feyenoord Rotterdam,NED,1-2
+Qualifying,1997-08-27,FC Slavia Mozyr,BLR,Olympiacos,GRE,2-2
+Qualifying,1997-08-27,Galatasaray İstanbul AŞ,TUR,Sion,SUI,4-1
+Qualifying,1997-08-27,Rangers FC,SCO,IFK Goteborg,SWE,1-1
+Qualifying,1997-08-27,Sparta Praha,CZE,FC RB Salzburg,AUT,3-0
+Qualifying,1997-08-27,Rosenborg BK,NOR,MTK,HUN,3-1
+Qualifying,1997-08-27,Paris Saint-Germain,FRA,Steaua Bucuresti,ROU,5-0
+Qualifying,1997-08-27,Parma,ITA,Widzew Lodz,POL,4-0
+Qualifying,1997-08-27,Spartak Moskva,RUS,Kosice,SVK,0-0
+Group,1997-09-17,Sparta Praha,CZE,Parma,ITA,0-0
+Group,1997-09-17,Galatasaray İstanbul AŞ,TUR,Borussia Dortmund,GER,0-1
+Group,1997-09-17,Juventus,ITA,Feyenoord Rotterdam,NED,5-1
+Group,1997-09-17,Kosice,SVK,Manchester United FC,ENG,0-3
+Group,1997-09-17,Newcastle United FC,ENG,FC Barcelona,ESP,3-2
+Group,1997-09-17,PSV Eindhoven,NED,Dinamo Kiev,UKR,1-3
+Group,1997-09-17,Olympiacos,GRE,FC Porto,POR,1-0
+Group,1997-09-17,Real Madrid CF,ESP,Rosenborg BK,NOR,4-1
+Group,1997-09-17,Paris Saint-Germain,FRA,IFK Goteborg,SWE,3-0
+Group,1997-09-17,Bayern München,GER,Beşiktaş İstanbul JK,TUR,2-0
+Group,1997-09-17,Bayer 04 Leverkusen,GER,K Lierse SK,BEL,1-0
+Group,1997-09-17,Sporting CP,POR,AS Monaco,FRA,3-0
+Group,1997-10-01,Borussia Dortmund,GER,Sparta Praha,CZE,4-1
+Group,1997-10-01,Parma,ITA,Galatasaray İstanbul AŞ,TUR,2-0
+Group,1997-10-01,Feyenoord Rotterdam,NED,Kosice,SVK,2-0
+Group,1997-10-01,Manchester United FC,ENG,Juventus,ITA,3-2
+Group,1997-10-01,FC Barcelona,ESP,PSV Eindhoven,NED,2-2
+Group,1997-10-01,Dinamo Kiev,UKR,Newcastle United FC,ENG,2-2
+Group,1997-10-01,FC Porto,POR,Real Madrid CF,ESP,0-2
+Group,1997-10-01,Rosenborg BK,NOR,Olympiacos,GRE,5-1
+Group,1997-10-01,IFK Goteborg,SWE,Bayern München,GER,1-3
+Group,1997-10-01,Beşiktaş İstanbul JK,TUR,Paris Saint-Germain,FRA,3-1
+Group,1997-10-01,AS Monaco,FRA,Bayer 04 Leverkusen,GER,4-0
+Group,1997-10-01,K Lierse SK,BEL,Sporting CP,POR,1-1
+Group,1997-10-22,Parma,ITA,Borussia Dortmund,GER,1-0
+Group,1997-10-22,Sparta Praha,CZE,Galatasaray İstanbul AŞ,TUR,3-0
+Group,1997-10-22,Manchester United FC,ENG,Feyenoord Rotterdam,NED,2-1
+Group,1997-10-22,Kosice,SVK,Juventus,ITA,0-1
+Group,1997-10-22,Dinamo Kiev,UKR,FC Barcelona,ESP,3-0
+Group,1997-10-22,PSV Eindhoven,NED,Newcastle United FC,ENG,1-0
+Group,1997-10-22,Rosenborg BK,NOR,FC Porto,POR,2-0
+Group,1997-10-22,Real Madrid CF,ESP,Olympiacos,GRE,5-1
+Group,1997-10-22,Beşiktaş İstanbul JK,TUR,IFK Goteborg,SWE,1-0
+Group,1997-10-22,Bayern München,GER,Paris Saint-Germain,FRA,5-1
+Group,1997-10-22,Sporting CP,POR,Bayer 04 Leverkusen,GER,0-2
+Group,1997-10-22,AS Monaco,FRA,K Lierse SK,BEL,5-1
+Group,1997-11-05,Borussia Dortmund,GER,Parma,ITA,2-0
+Group,1997-11-05,Galatasaray İstanbul AŞ,TUR,Sparta Praha,CZE,2-0
+Group,1997-11-05,Juventus,ITA,Kosice,SVK,3-2
+Group,1997-11-05,Feyenoord Rotterdam,NED,Manchester United FC,ENG,1-3
+Group,1997-11-05,FC Barcelona,ESP,Dinamo Kiev,UKR,0-4
+Group,1997-11-05,Newcastle United FC,ENG,PSV Eindhoven,NED,0-2
+Group,1997-11-05,FC Porto,POR,Rosenborg BK,NOR,1-1
+Group,1997-11-05,Olympiacos,GRE,Real Madrid CF,ESP,0-0
+Group,1997-11-05,IFK Goteborg,SWE,Beşiktaş İstanbul JK,TUR,2-1
+Group,1997-11-05,Paris Saint-Germain,FRA,Bayern München,GER,3-1
+Group,1997-11-05,K Lierse SK,BEL,AS Monaco,FRA,0-1
+Group,1997-11-05,Bayer 04 Leverkusen,GER,Sporting CP,POR,4-1
+Group,1997-11-26,Feyenoord Rotterdam,NED,Juventus,ITA,2-0
+Group,1997-11-26,FC Barcelona,ESP,Newcastle United FC,ENG,1-0
+Group,1997-11-26,IFK Goteborg,SWE,Paris Saint-Germain,FRA,0-1
+Group,1997-11-26,Beşiktaş İstanbul JK,TUR,Bayern München,GER,0-2
+Group,1997-11-26,K Lierse SK,BEL,Bayer 04 Leverkusen,GER,0-2
+Group,1997-11-26,AS Monaco,FRA,Sporting CP,POR,3-2
+Group,1997-11-27,Borussia Dortmund,GER,Galatasaray İstanbul AŞ,TUR,4-1
+Group,1997-11-27,Parma,ITA,Sparta Praha,CZE,2-2
+Group,1997-11-27,Manchester United FC,ENG,Kosice,SVK,3-0
+Group,1997-11-27,Dinamo Kiev,UKR,PSV Eindhoven,NED,1-1
+Group,1997-11-27,FC Porto,POR,Olympiacos,GRE,2-1
+Group,1997-11-27,Rosenborg BK,NOR,Real Madrid CF,ESP,2-0
+Group,1997-12-10,Sparta Praha,CZE,Borussia Dortmund,GER,0-3
+Group,1997-12-10,Galatasaray İstanbul AŞ,TUR,Parma,ITA,1-1
+Group,1997-12-10,Juventus,ITA,Manchester United FC,ENG,1-0
+Group,1997-12-10,Kosice,SVK,Feyenoord Rotterdam,NED,0-1
+Group,1997-12-10,PSV Eindhoven,NED,FC Barcelona,ESP,2-2
+Group,1997-12-10,Newcastle United FC,ENG,Dinamo Kiev,UKR,2-0
+Group,1997-12-10,Real Madrid CF,ESP,FC Porto,POR,4-0
+Group,1997-12-10,Olympiacos,GRE,Rosenborg BK,NOR,2-2
+Group,1997-12-10,Bayern München,GER,IFK Goteborg,SWE,0-1
+Group,1997-12-10,Paris Saint-Germain,FRA,Beşiktaş İstanbul JK,TUR,2-1
+Group,1997-12-10,Sporting CP,POR,K Lierse SK,BEL,2-1
+Group,1997-12-10,Bayer 04 Leverkusen,GER,AS Monaco,FRA,2-2
+Knockout,1998-03-04,AS Monaco,FRA,Manchester United FC,ENG,0-0
+Knockout,1998-03-04,Bayer 04 Leverkusen,GER,Real Madrid CF,ESP,1-1
+Knockout,1998-03-04,Juventus,ITA,Dinamo Kiev,UKR,1-1
+Knockout,1998-03-04,Bayern München,GER,Borussia Dortmund,GER,0-0
+Knockout,1998-03-18,Manchester United FC,ENG,AS Monaco,FRA,1-1
+Knockout,1998-03-18,Dinamo Kiev,UKR,Juventus,ITA,1-4
+Knockout,1998-03-18,Borussia Dortmund,GER,Bayern München,GER,0-0 (*)
+Knockout,1998-03-18,Real Madrid CF,ESP,Bayer 04 Leverkusen,GER,3-0
+Knockout,1998-04-01,Juventus,ITA,AS Monaco,FRA,4-1
+Knockout,1998-04-01,Real Madrid CF,ESP,Borussia Dortmund,GER,2-0
+Knockout,1998-04-15,Borussia Dortmund,GER,Real Madrid CF,ESP,0-0
+Knockout,1998-04-15,AS Monaco,FRA,Juventus,ITA,3-2
+Knockout,1998-05-20,Real Madrid CF,ESP,Juventus,ITA,1-0

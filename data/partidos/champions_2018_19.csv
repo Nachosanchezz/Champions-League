@@ -1,0 +1,126 @@
+Stage,Date,Time,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Group A,2018-09-18,21:00,AS Monaco,FRA,Atlético Madrid,ESP,1-2
+Group A,2018-09-18,21:00,Club Brugge KV,BEL,Borussia Dortmund,GER,0-1
+Group A,2018-10-03,21:00,Borussia Dortmund,GER,AS Monaco,FRA,3-0
+Group A,2018-10-03,21:00,Atlético Madrid,ESP,Club Brugge KV,BEL,3-1
+Group A,2018-10-24,18:55,Club Brugge KV,BEL,AS Monaco,FRA,1-1
+Group A,2018-10-24,21:00,Borussia Dortmund,GER,Atlético Madrid,ESP,4-0
+Group A,2018-11-06,18:55,AS Monaco,FRA,Club Brugge KV,BEL,0-4
+Group A,2018-11-06,21:00,Atlético Madrid,ESP,Borussia Dortmund,GER,2-0
+Group A,2018-11-28,18:55,Atlético Madrid,ESP,AS Monaco,FRA,2-0
+Group A,2018-11-28,21:00,Borussia Dortmund,GER,Club Brugge KV,BEL,0-0
+Group A,2018-12-11,21:00,AS Monaco,FRA,Borussia Dortmund,GER,0-2
+Group A,2018-12-11,21:00,Club Brugge KV,BEL,Atlético Madrid,ESP,0-0
+Group B,2018-09-18,18:55,FC Barcelona,ESP,PSV Eindhoven,NED,4-0
+Group B,2018-09-18,18:55,Inter,ITA,Tottenham Hotspur,ENG,2-1
+Group B,2018-10-03,21:00,Tottenham Hotspur,ENG,FC Barcelona,ESP,2-4
+Group B,2018-10-03,21:00,PSV Eindhoven,NED,Inter,ITA,1-2
+Group B,2018-10-24,18:55,PSV Eindhoven,NED,Tottenham Hotspur,ENG,2-2
+Group B,2018-10-24,21:00,FC Barcelona,ESP,Inter,ITA,2-0
+Group B,2018-11-06,21:00,Tottenham Hotspur,ENG,PSV Eindhoven,NED,2-1
+Group B,2018-11-06,21:00,Inter,ITA,FC Barcelona,ESP,1-1
+Group B,2018-11-28,21:00,PSV Eindhoven,NED,FC Barcelona,ESP,1-2
+Group B,2018-11-28,21:00,Tottenham Hotspur,ENG,Inter,ITA,1-0
+Group B,2018-12-11,21:00,FC Barcelona,ESP,Tottenham Hotspur,ENG,1-1
+Group B,2018-12-11,21:00,Inter,ITA,PSV Eindhoven,NED,1-1
+Group C,2018-09-18,21:00,Liverpool FC,ENG,Paris Saint-Germain,FRA,3-2
+Group C,2018-09-18,21:00,Crvena Zvezda,SRB,SSC Napoli,ITA,0-0
+Group C,2018-10-03,18:55,Paris Saint-Germain,FRA,Crvena Zvezda,SRB,6-1
+Group C,2018-10-03,21:00,SSC Napoli,ITA,Liverpool FC,ENG,1-0
+Group C,2018-10-24,21:00,Paris Saint-Germain,FRA,SSC Napoli,ITA,2-2
+Group C,2018-10-24,21:00,Liverpool FC,ENG,Crvena Zvezda,SRB,4-0
+Group C,2018-11-06,18:55,Crvena Zvezda,SRB,Liverpool FC,ENG,2-0
+Group C,2018-11-06,21:00,SSC Napoli,ITA,Paris Saint-Germain,FRA,1-1
+Group C,2018-11-28,21:00,Paris Saint-Germain,FRA,Liverpool FC,ENG,2-1
+Group C,2018-11-28,21:00,SSC Napoli,ITA,Crvena Zvezda,SRB,3-1
+Group C,2018-12-11,21:00,Liverpool FC,ENG,SSC Napoli,ITA,1-0
+Group C,2018-12-11,21:00,Crvena Zvezda,SRB,Paris Saint-Germain,FRA,1-4
+Group D,2018-09-18,21:00,FC Schalke 04,GER,FC Porto,POR,1-1
+Group D,2018-09-18,21:00,Galatasaray,TUR,Lokomotiv Moskva,RUS,3-0
+Group D,2018-10-03,18:55,Lokomotiv Moskva,RUS,FC Schalke 04,GER,0-1
+Group D,2018-10-03,21:00,FC Porto,POR,Galatasaray,TUR,1-0
+Group D,2018-10-24,21:00,Lokomotiv Moskva,RUS,FC Porto,POR,1-3
+Group D,2018-10-24,21:00,Galatasaray,TUR,FC Schalke 04,GER,0-0
+Group D,2018-11-06,21:00,FC Porto,POR,Lokomotiv Moskva,RUS,4-1
+Group D,2018-11-06,21:00,FC Schalke 04,GER,Galatasaray,TUR,2-0
+Group D,2018-11-28,18:55,Lokomotiv Moskva,RUS,Galatasaray,TUR,2-0
+Group D,2018-11-28,21:00,FC Porto,POR,FC Schalke 04,GER,3-1
+Group D,2018-12-11,18:55,FC Schalke 04,GER,Lokomotiv Moskva,RUS,1-0
+Group D,2018-12-11,18:55,Galatasaray,TUR,FC Porto,POR,2-3
+Group E,2018-09-19,18:55,AFC Ajax,NED,AEK Athen,GRE,3-0
+Group E,2018-09-19,21:00,SL Benfica,POR,Bayern München,GER,0-2
+Group E,2018-10-02,21:00,Bayern München,GER,AFC Ajax,NED,1-1
+Group E,2018-10-02,21:00,AEK Athen,GRE,SL Benfica,POR,2-3
+Group E,2018-10-23,18:55,AEK Athen,GRE,Bayern München,GER,0-2
+Group E,2018-10-23,21:00,AFC Ajax,NED,SL Benfica,POR,1-0
+Group E,2018-11-07,21:00,SL Benfica,POR,AFC Ajax,NED,1-1
+Group E,2018-11-07,21:00,Bayern München,GER,AEK Athen,GRE,2-0
+Group E,2018-11-27,18:55,AEK Athen,GRE,AFC Ajax,NED,0-2
+Group E,2018-11-27,21:00,Bayern München,GER,SL Benfica,POR,5-1
+Group E,2018-12-12,21:00,AFC Ajax,NED,Bayern München,GER,3-3
+Group E,2018-12-12,21:00,SL Benfica,POR,AEK Athen,GRE,1-0
+Group F,2018-09-19,18:55,Shakhtar Donetsk,UKR,1899 Hoffenheim,GER,2-2
+Group F,2018-09-19,21:00,Manchester City,ENG,Olympique Lyonnais,FRA,1-2
+Group F,2018-10-02,18:55,1899 Hoffenheim,GER,Manchester City,ENG,1-2
+Group F,2018-10-02,21:00,Olympique Lyonnais,FRA,Shakhtar Donetsk,UKR,2-2
+Group F,2018-10-23,21:00,Shakhtar Donetsk,UKR,Manchester City,ENG,0-3
+Group F,2018-10-23,21:00,1899 Hoffenheim,GER,Olympique Lyonnais,FRA,3-3
+Group F,2018-11-07,21:00,Manchester City,ENG,Shakhtar Donetsk,UKR,6-0
+Group F,2018-11-07,21:00,Olympique Lyonnais,FRA,1899 Hoffenheim,GER,2-2
+Group F,2018-11-27,21:00,Olympique Lyonnais,FRA,Manchester City,ENG,2-2
+Group F,2018-11-27,21:00,1899 Hoffenheim,GER,Shakhtar Donetsk,UKR,2-3
+Group F,2018-12-12,21:00,Shakhtar Donetsk,UKR,Olympique Lyonnais,FRA,1-1
+Group F,2018-12-12,21:00,Manchester City,ENG,1899 Hoffenheim,GER,2-1
+Group G,2018-09-19,21:00,Real Madrid,ESP,AS Roma,ITA,3-0
+Group G,2018-09-19,21:00,Viktoria Plzeň,CZE,CSKA Moskva,RUS,2-2
+Group G,2018-10-02,21:00,CSKA Moskva,RUS,Real Madrid,ESP,1-0
+Group G,2018-10-02,21:00,AS Roma,ITA,Viktoria Plzeň,CZE,5-0
+Group G,2018-10-23,21:00,AS Roma,ITA,CSKA Moskva,RUS,3-0
+Group G,2018-10-23,21:00,Real Madrid,ESP,Viktoria Plzeň,CZE,2-1
+Group G,2018-11-07,18:55,CSKA Moskva,RUS,AS Roma,ITA,1-2
+Group G,2018-11-07,21:00,Viktoria Plzeň,CZE,Real Madrid,ESP,0-5
+Group G,2018-11-27,18:55,CSKA Moskva,RUS,Viktoria Plzeň,CZE,1-2
+Group G,2018-11-27,21:00,AS Roma,ITA,Real Madrid,ESP,0-2
+Group G,2018-12-12,18:55,Real Madrid,ESP,CSKA Moskva,RUS,0-3
+Group G,2018-12-12,18:55,Viktoria Plzeň,CZE,AS Roma,ITA,2-1
+Group H,2018-09-19,21:00,Valencia CF,ESP,Juventus,ITA,0-2
+Group H,2018-09-19,21:00,BSC Young Boys,SUI,Manchester United,ENG,0-3
+Group H,2018-10-02,18:55,Juventus,ITA,BSC Young Boys,SUI,3-0
+Group H,2018-10-02,21:00,Manchester United,ENG,Valencia CF,ESP,0-0
+Group H,2018-10-23,18:55,BSC Young Boys,SUI,Valencia CF,ESP,1-1
+Group H,2018-10-23,21:00,Manchester United,ENG,Juventus,ITA,0-1
+Group H,2018-11-07,18:55,Valencia CF,ESP,BSC Young Boys,SUI,3-1
+Group H,2018-11-07,21:00,Juventus,ITA,Manchester United,ENG,1-2
+Group H,2018-11-27,21:00,Juventus,ITA,Valencia CF,ESP,1-0
+Group H,2018-11-27,21:00,Manchester United,ENG,BSC Young Boys,SUI,1-0
+Group H,2018-12-12,21:00,Valencia CF,ESP,Manchester United,ENG,2-1
+Group H,2018-12-12,21:00,BSC Young Boys,SUI,Juventus,ITA,2-1
+Round of 16,2019-02-12,21:00,Manchester United,ENG,Paris Saint-Germain,FRA,0-2
+Round of 16,2019-02-12,21:00,AS Roma,ITA,FC Porto,POR,2-1
+Round of 16,2018-02-13,21:00,Tottenham Hotspur,ENG,Borussia Dortmund,GER,3-0
+Round of 16,2018-02-13,21:00,AFC Ajax,NED,Real Madrid,ESP,1-2
+Round of 16,2018-02-19,21:00,Olympique Lyonnais,FRA,FC Barcelona,ESP,0-0
+Round of 16,2018-02-19,21:00,Liverpool FC,ENG,Bayern München,GER,0-0
+Round of 16,2018-02-20,21:00,FC Schalke 04,GER,Manchester City,ENG,2-3
+Round of 16,2018-02-20,21:00,Atlético Madrid,ESP,Juventus,ITA,2-0
+Round of 16,2018-03-05,21:00,Borussia Dortmund,GER,Tottenham Hotspur,ENG,0-1
+Round of 16,2018-03-05,21:00,Real Madrid,ESP,AFC Ajax,NED,1-4
+Round of 16,2018-03-06,21:00,Paris Saint-Germain,FRA,Manchester United,ENG,1-3
+Round of 16,2018-03-06,21:00,FC Porto,POR,AS Roma,ITA,3-1
+Round of 16,2018-03-12,21:00,Manchester City,ENG,FC Schalke 04,GER,7-0
+Round of 16,2018-03-12,21:00,Juventus,ITA,Atlético Madrid,ESP,3-0
+Round of 16,2018-03-13,21:00,FC Barcelona,ESP,Olympique Lyonnais,FRA,5-1
+Round of 16,2018-03-13,21:00,Bayern München,GER,Liverpool FC,ENG,1-3
+Quarterfinals,2018-04-09,21:00,Liverpool FC,ENG,FC Porto,POR,2-0
+Quarterfinals,2018-04-09,21:00,Tottenham Hotspur,ENG,Manchester City,ENG,1-0
+Quarterfinals,2018-04-10,21:00,AFC Ajax,NED,Juventus,ITA,1-1
+Quarterfinals,2018-04-10,21:00,Manchester United,ENG,FC Barcelona,ESP,0-1
+Quarterfinals,2018-04-16,21:00,Juventus,ITA,AFC Ajax,NED,1-2
+Quarterfinals,2018-04-16,21:00,FC Barcelona,ESP,Manchester United,ENG,3-0
+Quarterfinals,2018-04-17,21:00,FC Porto,POR,Liverpool FC,ENG,1-4
+Quarterfinals,2018-04-17,21:00,Manchester City,ENG,Tottenham Hotspur,ENG,4-3
+Semifinals,2018-04-30,21:00,Tottenham Hotspur,ENG,AFC Ajax,NED,0-1
+Semifinals,2018-05-01,21:00,FC Barcelona,ESP,Liverpool FC,ENG,3-0
+Semifinals,2018-05-07,21:00,Liverpool FC,ENG,FC Barcelona,ESP,4-0
+Semifinals,2018-05-08,21:00,AFC Ajax,NED,Tottenham Hotspur,ENG,2-3
+Final,2018-06-01,21:00,Tottenham Hotspur,ENG,Liverpool FC,ENG,0-2

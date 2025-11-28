@@ -1,0 +1,78 @@
+Stage,Date,HomeTeam,HomeTeamCountry,AwayTeam,AwayTeamCountry,Score
+Qualifying,1996-08-07,Widzew Lodz,POL,Brondby IF,DEN,2-1
+Qualifying,1996-08-07,Rangers FC,SCO,Alania Vladikavkaz,RUS,3-1
+Qualifying,1996-08-07,Club Brugge,BEL,Steaua Bucuresti,ROU,2-2
+Qualifying,1996-08-07,Rapid Wien,AUT,Dinamo Kiev,UKR,2-0
+Qualifying,1996-08-07,Maccabi Tel Aviv,ISR,Fenerbahçe İstanbul SK,TUR,0-1
+Qualifying,1996-08-07,IFK Goteborg,SWE,Ferencvaros,HUN,3-0
+Qualifying,1996-08-07,Grasshoppers Zurich,SUI,Slavia Praha,CZE,5-0
+Qualifying,1996-08-07,Panathinaikos FC,GRE,Rosenborg BK,NOR,1-0
+Qualifying,1996-08-21,Brondby IF,DEN,Widzew Lodz,POL,3-2
+Qualifying,1996-08-21,Rosenborg BK,NOR,Panathinaikos FC,GRE,1-0 (*)
+Qualifying,1996-08-21,Steaua Bucuresti,ROU,Club Brugge,BEL,3-0
+Qualifying,1996-08-21,Dinamo Kiev,UKR,Rapid Wien,AUT,2-4
+Qualifying,1996-08-21,Fenerbahçe İstanbul SK,TUR,Maccabi Tel Aviv,ISR,1-1
+Qualifying,1996-08-21,Ferencvaros,HUN,IFK Goteborg,SWE,1-1
+Qualifying,1996-08-21,Slavia Praha,CZE,Grasshoppers Zurich,SUI,0-1
+Qualifying,1996-08-21,Alania Vladikavkaz,RUS,Rangers FC,SCO,2-7
+Group,1996-09-11,Grasshoppers Zurich,SUI,Rangers FC,SCO,3-0
+Group,1996-09-11,AJ Auxerre,FRA,AFC Ajax,NED,0-1
+Group,1996-09-11,Borussia Dortmund,GER,Widzew Lodz,POL,2-1
+Group,1996-09-11,Atletico Madrid,ESP,Steaua Bucuresti,ROU,4-0
+Group,1996-09-11,Rapid Wien,AUT,Fenerbahçe İstanbul SK,TUR,1-1
+Group,1996-09-11,Juventus,ITA,Manchester United FC,ENG,1-0
+Group,1996-09-11,IFK Goteborg,SWE,Rosenborg BK,NOR,2-3
+Group,1996-09-11,AC Milan,ITA,FC Porto,POR,2-3
+Group,1996-09-25,AFC Ajax,NED,Grasshoppers Zurich,SUI,0-1
+Group,1996-09-25,Rangers FC,SCO,AJ Auxerre,FRA,1-2
+Group,1996-09-25,Widzew Lodz,POL,Atletico Madrid,ESP,1-4
+Group,1996-09-25,Steaua Bucuresti,ROU,Borussia Dortmund,GER,0-3
+Group,1996-09-25,Manchester United FC,ENG,Rapid Wien,AUT,2-0
+Group,1996-09-25,Fenerbahçe İstanbul SK,TUR,Juventus,ITA,0-1
+Group,1996-09-25,Rosenborg BK,NOR,AC Milan,ITA,1-4
+Group,1996-09-25,FC Porto,POR,IFK Goteborg,SWE,2-1
+Group,1996-10-16,AFC Ajax,NED,Rangers FC,SCO,4-1
+Group,1996-10-16,AJ Auxerre,FRA,Grasshoppers Zurich,SUI,1-0
+Group,1996-10-16,Atletico Madrid,ESP,Borussia Dortmund,GER,0-1
+Group,1996-10-16,Steaua Bucuresti,ROU,Widzew Lodz,POL,1-0
+Group,1996-10-16,Fenerbahçe İstanbul SK,TUR,Manchester United FC,ENG,0-2
+Group,1996-10-16,Rapid Wien,AUT,Juventus,ITA,1-1
+Group,1996-10-16,Rosenborg BK,NOR,FC Porto,POR,0-1
+Group,1996-10-16,IFK Goteborg,SWE,AC Milan,ITA,2-1
+Group,1996-10-30,Rangers FC,SCO,AFC Ajax,NED,0-1
+Group,1996-10-30,Grasshoppers Zurich,SUI,AJ Auxerre,FRA,3-1
+Group,1996-10-30,Borussia Dortmund,GER,Atletico Madrid,ESP,1-2
+Group,1996-10-30,Widzew Lodz,POL,Steaua Bucuresti,ROU,2-0
+Group,1996-10-30,Juventus,ITA,Rapid Wien,AUT,5-0
+Group,1996-10-30,Manchester United FC,ENG,Fenerbahçe İstanbul SK,TUR,0-1
+Group,1996-10-30,FC Porto,POR,Rosenborg BK,NOR,3-0
+Group,1996-10-30,AC Milan,ITA,IFK Goteborg,SWE,4-2
+Group,1996-11-20,Rangers FC,SCO,Grasshoppers Zurich,SUI,2-1
+Group,1996-11-20,AFC Ajax,NED,AJ Auxerre,FRA,1-2
+Group,1996-11-20,Widzew Lodz,POL,Borussia Dortmund,GER,2-2
+Group,1996-11-20,Steaua Bucuresti,ROU,Atletico Madrid,ESP,1-1
+Group,1996-11-20,FC Porto,POR,AC Milan,ITA,1-1
+Group,1996-11-28,Fenerbahçe İstanbul SK,TUR,Rapid Wien,AUT,1-0
+Group,1996-11-28,Manchester United FC,ENG,Juventus,ITA,0-1
+Group,1996-11-28,Rosenborg BK,NOR,IFK Goteborg,SWE,1-0
+Group,1996-12-04,AJ Auxerre,FRA,Rangers FC,SCO,2-1
+Group,1996-12-04,Grasshoppers Zurich,SUI,AFC Ajax,NED,0-1
+Group,1996-12-04,Borussia Dortmund,GER,Steaua Bucuresti,ROU,5-3
+Group,1996-12-04,Atletico Madrid,ESP,Widzew Lodz,POL,1-0
+Group,1996-12-04,Juventus,ITA,Fenerbahçe İstanbul SK,TUR,2-0
+Group,1996-12-04,Rapid Wien,AUT,Manchester United FC,ENG,0-2
+Group,1996-12-04,AC Milan,ITA,Rosenborg BK,NOR,1-2
+Group,1996-12-04,IFK Goteborg,SWE,FC Porto,POR,0-2
+Knockout,1997-03-05,Borussia Dortmund,GER,AJ Auxerre,FRA,3-1
+Knockout,1997-03-05,AFC Ajax,NED,Atletico Madrid,ESP,1-1
+Knockout,1997-03-05,Manchester United FC,ENG,FC Porto,POR,4-0
+Knockout,1997-03-05,Rosenborg BK,NOR,Juventus,ITA,1-1
+Knockout,1997-03-19,Atletico Madrid,ESP,AFC Ajax,NED,1-1 (*)
+Knockout,1997-03-19,AJ Auxerre,FRA,Borussia Dortmund,GER,0-1
+Knockout,1997-03-19,Juventus,ITA,Rosenborg BK,NOR,2-0
+Knockout,1997-03-19,FC Porto,POR,Manchester United FC,ENG,0-0
+Knockout,1997-04-09,Borussia Dortmund,GER,Manchester United FC,ENG,1-0
+Knockout,1997-04-09,AFC Ajax,NED,Juventus,ITA,1-2
+Knockout,1997-04-23,Juventus,ITA,AFC Ajax,NED,4-1
+Knockout,1997-04-23,Manchester United FC,ENG,Borussia Dortmund,GER,0-1
+Knockout,1997-05-28,Borussia Dortmund,GER,Juventus,ITA,3-1

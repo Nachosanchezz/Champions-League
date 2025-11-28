@@ -38,48 +38,38 @@ def season_label_from_year(year: int) -> str:
 def get_last_page_for_season(season_id: int) -> int:
     """
     Mira la primera página de esa temporada y detecta
-    cuál es la última página de la paginación.
+    cuál es la última página de la paginación en 'scorerliste'.
     """
-    url = f"{BASE_URL}/saison_id/{season_id}/plus/0/galerie/0/page/1"
+    url = f"{BASE_URL}/saison_id/{season_id}/page/1"
     print(f"   🔎 Buscando nº de páginas en: {url}")
     resp = requests.get(url, headers=HEADERS, timeout=20)
-    resp.raise_for_status()
+    if resp.status_code != 200:
+        print(f"   ❗ Status {resp.status_code}, asumimos 1 página.")
+        return 1
+
     soup = BeautifulSoup(resp.text, "lxml")
 
-    # Paginador: puede estar en ul/div con clase que contenga "pagination"
     last_page = 1
-
-    # Intenta primero ul.tm-pagination, si no cualquier cosa con 'pagination'
-    candidates = []
-
     ul_tm = soup.find("ul", class_="tm-pagination")
-    if ul_tm:
-        candidates.append(ul_tm)
-
-    if not candidates:
-        for tag in soup.find_all(["ul", "div"]):
-            cls = " ".join(tag.get("class", []))
-            if "pagination" in cls:
-                candidates.append(tag)
-
-    if not candidates:
+    if not ul_tm:
         print("   ℹ️ No hay paginador: asumimos 1 página.")
         return 1
 
-    for pag in candidates:
-        for a in pag.find_all("a"):
-            txt = (a.get_text(strip=True) or "").strip()
-            if txt.isdigit():
-                last_page = max(last_page, int(txt))
+    for a in ul_tm.find_all("a"):
+        txt = (a.get_text(strip=True) or "").strip()
+        if txt.isdigit():
+            last_page = max(last_page, int(txt))
 
     print(f"   ℹ️ Última página detectada para saison_id={season_id}: {last_page}")
     return last_page
 
 
-def scrape_goalscorers_season(season_id: int) -> pd.DataFrame:
+def scrape_scorerlist_season(season_id: int) -> pd.DataFrame:
     """
-    Scrapea TODOS los goleadores de UNA temporada concreta,
-    respetando el nº real de páginas.
+    Scrapea TODOS los registros de 'Más goles y asistencias'
+    para UNA temporada concreta.
+    Columnas (en la web): 
+    [Rank, Jugador, Club, Nac., Edad, Partidos, Goles, Asistencias, Puntos]
     """
     season_str = season_label_from_year(season_id)
     print(f"\n🌍 Temporada {season_str} (saison_id={season_id})")
@@ -93,7 +83,7 @@ def scrape_goalscorers_season(season_id: int) -> pd.DataFrame:
     all_records = []
 
     for page in range(1, last_page + 1):
-        url = f"{BASE_URL}/saison_id/{season_id}/plus/0/galerie/0/page/{page}"
+        url = f"{BASE_URL}/saison_id/{season_id}/page/{page}"
         print(f"   ▶ Page {page}/{last_page}: {url}")
 
         resp = requests.get(url, headers=HEADERS, timeout=20)
@@ -109,7 +99,7 @@ def scrape_goalscorers_season(season_id: int) -> pd.DataFrame:
             continue
 
         tbody = table.find("tbody")
-        rows = tbody.find_all("tr")
+        rows = tbody.find_all("tr", class_=["odd", "even"])
         if not rows:
             print("      ❌ Sin filas de datos en esta página, la salto.")
             continue
@@ -118,7 +108,8 @@ def scrape_goalscorers_season(season_id: int) -> pd.DataFrame:
 
         for row in rows:
             tds = row.find_all("td", recursive=False)
-            if len(tds) < 7:
+            if len(tds) < 9:
+                # necesitamos las 9 columnas
                 continue
 
             # 0: rank
@@ -127,15 +118,15 @@ def scrape_goalscorers_season(season_id: int) -> pd.DataFrame:
             # 1: jugador (inline-table con nombre + posición)
             player_cell = tds[1]
 
-            name_tag = player_cell.find("a", title=True)
-            if name_tag:
-                player_name = name_tag["title"].strip()
-                player_url = "https://www.transfermarkt.es" + name_tag["href"]
-            else:
-                player_name = None
-                player_url = None
+            # El <a> a veces NO tiene title, así que:
+            name_tag = player_cell.find("a")
+            if not name_tag:
+                continue
 
-            # posición: segunda fila de la inline-table
+            player_name = (name_tag.get("title") or name_tag.get_text(strip=True)).strip()
+            player_url = "https://www.transfermarkt.es" + name_tag.get("href", "")
+
+            # posición (segunda fila del inline-table), opcional
             position = None
             inline_table = player_cell.find("table", class_="inline-table")
             if inline_table:
@@ -145,16 +136,8 @@ def scrape_goalscorers_season(season_id: int) -> pd.DataFrame:
                     if pos_td:
                         position = pos_td.get_text(strip=True)
 
-            # 2: nacionalidades (banderitas)
-            nat_imgs = tds[2].find_all("img")
-            nationalities = [img.get("title") for img in nat_imgs if img.get("title")]
-            nat_str = ", ".join(nationalities) if nationalities else None
-
-            # 3: edad
-            age = to_int(tds[3].get_text(strip=True))
-
-            # 4: club
-            club_cell = tds[4]
+            # 2: club
+            club_cell = tds[2]
             club_link = club_cell.find("a", href=True)
             if club_link:
                 club_name = club_link.get("title") or club_link.get_text(strip=True)
@@ -163,25 +146,41 @@ def scrape_goalscorers_season(season_id: int) -> pd.DataFrame:
                 club_name = None
                 club_url = None
 
-            # 5: partidos (alineaciones)
+            # 3: nacionalidad
+            nat_imgs = tds[3].find_all("img")
+            nationalities = [img.get("title") for img in nat_imgs if img.get("title")]
+            nat_str = ", ".join(nationalities) if nationalities else None
+
+            # 4: edad
+            age = to_int(tds[4].get_text(strip=True))
+
+            # 5: partidos
             matches = to_int(tds[5].get_text(strip=True))
 
-            # 6: asistencias
+            # 6: goles
+            goals = to_int(tds[6].get_text(strip=True))
+
+            # 7: asistencias
             assists = to_int(tds[7].get_text(strip=True))
 
-            # 7: puntos
+            # 8: puntos (goles + asistencias)
             points = to_int(tds[8].get_text(strip=True))
 
             page_records.append({
+                "Season_id": season_id,
                 "Season": season_str,
                 "Rank": rank,
                 "Player": player_name,
+                "Player_url": player_url,
+                "Position": position,
+                "Club": club_name,
+                "Club_url": club_url,
                 "Nationalities": nat_str,
                 "Age": age,
-                "Club": club_name,
                 "Matches": matches,
-                "Asistencias": assists,
-                "Goles+asistencias": points,
+                "Goals": goals,
+                "Assists": assists,
+                "Points": points,
             })
 
         print(f"      ✔ Registros en esta página: {len(page_records)}")
@@ -198,15 +197,15 @@ def scrape_goalscorers_season(season_id: int) -> pd.DataFrame:
     return df
 
 
-def scrape_goalscorers_1992_to_now(start_year: int = 1992, end_year: int = 2025) -> pd.DataFrame:
+def scrape_scorerlist_1992_to_now(start_year: int = 1992, end_year: int = 2025) -> pd.DataFrame:
     """
-    Scrapea goleadores de Champions desde start_year (92/93) hasta end_year (25/26).
+    Scrapea 'Más goles y asistencias' de Champions desde start_year (92/93) hasta end_year (25/26).
     """
     all_seasons = []
 
     for year in range(start_year, end_year + 1):
         try:
-            df_season = scrape_goalscorers_season(year)
+            df_season = scrape_scorerlist_season(year)
             if not df_season.empty:
                 all_seasons.append(df_season)
         except Exception as e:
@@ -217,24 +216,25 @@ def scrape_goalscorers_1992_to_now(start_year: int = 1992, end_year: int = 2025)
         return pd.DataFrame()
 
     df_all = pd.concat(all_seasons, ignore_index=True)
-    # Ordenamos por temporada y goles (más goles arriba dentro de cada año)
+    # Ordenamos por temporada y puntos (más puntos arriba dentro de cada año)
     df_all = df_all.sort_values(
-        ["Season_id", "Goals", "Matches"],
-        ascending=[True, False, True]
+        ["Season_id", "Points", "Goals", "Assists", "Matches"],
+        ascending=[True, False, False, False, True]
     ).reset_index(drop=True)
     return df_all
 
 
 if __name__ == "__main__":
-    print("📊 Scrapeando Asistentes Champions 92/93–actualidad...")
+    print("📊 Scrapeando GOLES + ASISTENCIAS Champions 92/93–actualidad...")
 
     os.makedirs("data", exist_ok=True)
 
-    # Ajusta end_year si quieres parar antes
-    df = scrape_goalscorers_1992_to_now(start_year=1992, end_year=2025)
+    # Para probar primero, puedes hacer:
+    # df = scrape_scorerlist_1992_to_now(start_year=2024, end_year=2025)
+    df = scrape_scorerlist_1992_to_now(start_year=1992, end_year=2025)
 
     if not df.empty:
-        out = "data/tfmkt_cl_assistants_1992_2025.csv"
+        out = "data/tfmkt_cl_goals_assists_1992_2025.csv"
         df.to_csv(out, index=False, encoding="utf-8-sig")
         print(f"\n✅ Archivo creado: {out}")
         print("   Registros totales:", df.shape[0])
